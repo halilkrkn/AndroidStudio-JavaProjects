@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC107"
+    android:foreground="@drawable/luffy"
+    tools:context=".Main2Activity"
+    tools:visibility="visible">
+
+    <Button
+        android:id="@+id/button3"
+        style="@android:style/Widget.Button.Inset"
+        android:layout_width="107dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="4dp"
+        android:autoSizeTextType="uniform"
+        android:onClick="changeActivity2"
+        android:text="Oyuna Başla"
+        android:textAlignment="center"
+        android:textColorHighlight="#03A9F4"
+        android:textSize="18sp"
+        android:textStyle="normal|bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.974"
+        app:layout_constraintStart_toEndOf="@+id/textView3"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/Widget.AppCompat.TextView.SpinnerItem"
+        android:layout_width="175dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="6dp"
+        android:text="Score:"
+        android:textAlignment="viewStart"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:visibility="visible" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
