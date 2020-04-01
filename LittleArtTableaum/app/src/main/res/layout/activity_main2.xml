@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+
+    <EditText
+        android:id="@+id/nameEditText"
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginBottom="32dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/artistEditText2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/artistEditText2"
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="29dp"
+        android:ems="10"
+        android:hint="Artist Name"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/imageView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameEditText" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="291dp"
+        android:layout_height="245dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginEnd="61dp"
+        android:layout_marginBottom="29dp"
+        android:onClick="selectImage"
+        app:layout_constraintBottom_toTopOf="@+id/saveButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/artistEditText2"
+        app:srcCompat="@drawable/select" />
+
+    <Button
+        android:id="@+id/saveButton"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="117dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="49dp"
+        android:autoLink="phone"
+        android:onClick="save"
+        android:text="Save"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+</androidx.constraintlayout.widget.ConstraintLayout>
