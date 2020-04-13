@@ -1,0 +1,2 @@
+rootProject.name='ObjectOP'
+include ':app'
