@@ -16,18 +16,27 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Date;
 import java.util.UUID;
 
 public class UploadActivity extends AppCompatActivity {
@@ -35,7 +44,14 @@ public class UploadActivity extends AppCompatActivity {
     ImageView postImage;
     EditText postCommentText;
     Uri imageData;
+    //Storage Depo kısmı yani video ve imagelerin toplandığı kısım.
     private StorageReference firebaseStorageRef;
+    //Kimlik EŞleştirme.
+    private FirebaseAuth mAuth;
+    //Database
+    private FirebaseDatabase database;
+    private DatabaseReference myRef;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,6 +60,8 @@ public class UploadActivity extends AppCompatActivity {
         postCommentText = findViewById(R.id.postCommentView);
         postImage = findViewById(R.id.postImageView);
 
+        mAuth = FirebaseAuth.getInstance();
+        myRef = FirebaseDatabase.getInstance().getReference();
         firebaseStorageRef = FirebaseStorage.getInstance().getReference();
     }
 
@@ -51,21 +69,47 @@ public class UploadActivity extends AppCompatActivity {
         if (imageData != null) {
 
             UUID uuid = UUID.randomUUID();
-            String imageName = "images/"+ uuid + ".jpg";
-            firebaseStorageRef.child(imageName).putFile(imageData)
-                    .addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+            final String imageName = "images/"+ uuid + ".jpg";
+            final String postsId = uuid.toString();
+            firebaseStorageRef.child(imageName).putFile(imageData).addOnSuccessListener(this, new OnSuccessListener<UploadTask.TaskSnapshot>() {
+                //Download URL i database ekleme.
                 @Override
                 public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+                  StorageReference newReference = FirebaseStorage.getInstance().getReference(imageName);
+                  newReference.getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
+                      @Override
+                      public void onSuccess(Uri uri) {
+
+                          String downloadUrl = uri.toString();
+                          FirebaseUser user = mAuth.getCurrentUser();
+                          String userEmail = user.getEmail();
+                          String userComment = postCommentText.getText().toString();
+                          Date date = new Date();
+                          String getDate = date.toString();
+
+
+                          myRef.child("Posts").child(postsId).child("downloadUrl:").setValue(downloadUrl);
+                          myRef.child("Posts").child(postsId).child("userEmail:").setValue(userEmail);
+                          myRef.child("Posts").child(postsId).child("userComment:").setValue(userComment);
+                          myRef.child("Posts").child(postsId).child("Date:").setValue(getDate);
+
+                          Toast.makeText(UploadActivity.this, "Upload Shared", Toast.LENGTH_SHORT).show();
+
+                          Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                          startActivity(intent);
+                      }
+                  });
 
                 }
             }).addOnFailureListener(new OnFailureListener() {
                 @Override
                 public void onFailure(@NonNull Exception e) {
-                   Toast.makeText(UploadActivity.this, e.getLocalizedMessage(),Toast.LENGTH_SHORT);
+                    Toast.makeText(UploadActivity.this,e.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+
                 }
             });
-        }
 
+        }
     }
     //Galeriden Resim Seçme İşlemleri Yapıldı.
     public  void postSelectImage (View view){
