@@ -87,11 +87,11 @@ public class UploadActivity extends AppCompatActivity {
                           Date date = new Date();
                           String getDate = date.toString();
 
-
-                          myRef.child("Posts").child(postsId).child("downloadUrl:").setValue(downloadUrl);
-                          myRef.child("Posts").child(postsId).child("userEmail:").setValue(userEmail);
-                          myRef.child("Posts").child(postsId).child("userComment:").setValue(userComment);
-                          myRef.child("Posts").child(postsId).child("Date:").setValue(getDate);
+                            //FIREBASE REALTIME DATABASE
+                          //myRef.child("Posts").child(postsId).child("downloadUrl:").setValue(downloadUrl);
+                          //myRef.child("Posts").child(postsId).child("userEmail:").setValue(userEmail);
+                         // myRef.child("Posts").child(postsId).child("userComment:").setValue(userComment);
+                         // myRef.child("Posts").child(postsId).child("Date:").setValue(getDate);
 
                           Toast.makeText(UploadActivity.this, "Upload Shared", Toast.LENGTH_SHORT).show();
 
