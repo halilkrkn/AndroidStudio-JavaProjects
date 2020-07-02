@@ -1,0 +1,10382 @@
+[
+  {
+    "currency": "0XBTC",
+    "price": "0.10307091"
+  },
+  {
+    "currency": "0XMR",
+    "price": "0.03107464"
+  },
+  {
+    "currency": "100W",
+    "price": "115.36000000"
+  },
+  {
+    "currency": "18C",
+    "price": "0.00256023"
+  },
+  {
+    "currency": "1MT",
+    "price": "0.10308259"
+  },
+  {
+    "currency": "1WO",
+    "price": "0.06120738"
+  },
+  {
+    "currency": "2248",
+    "price": "4.61809347"
+  },
+  {
+    "currency": "2KEY",
+    "price": "0.03233626"
+  },
+  {
+    "currency": "2X2",
+    "price": "0.00647208"
+  },
+  {
+    "currency": "404",
+    "price": "0.03402465"
+  },
+  {
+    "currency": "42",
+    "price": "26040.80393827"
+  },
+  {
+    "currency": "4XB",
+    "price": "0.91814019"
+  },
+  {
+    "currency": "611",
+    "price": "0.17456124"
+  },
+  {
+    "currency": "808TA",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "A",
+    "price": "0.01896899"
+  },
+  {
+    "currency": "AAA",
+    "price": "0.00005773"
+  },
+  {
+    "currency": "AAACOIN",
+    "price": "0.00001849"
+  },
+  {
+    "currency": "AAC",
+    "price": "0.03225990"
+  },
+  {
+    "currency": "AAPLCX",
+    "price": "366.97000000"
+  },
+  {
+    "currency": "ABBC",
+    "price": "0.09808391"
+  },
+  {
+    "currency": "ABL",
+    "price": "0.00533917"
+  },
+  {
+    "currency": "ABS",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "ABST",
+    "price": "0.00014779"
+  },
+  {
+    "currency": "ABT",
+    "price": "0.09795155"
+  },
+  {
+    "currency": "ABTC",
+    "price": "0.15949054"
+  },
+  {
+    "currency": "ABYSS",
+    "price": "0.00706917"
+  },
+  {
+    "currency": "ACAT",
+    "price": "0.00011562"
+  },
+  {
+    "currency": "ACD",
+    "price": "0.03140579"
+  },
+  {
+    "currency": "ACDC",
+    "price": "0.00004438"
+  },
+  {
+    "currency": "ACE",
+    "price": "0.00581685"
+  },
+  {
+    "currency": "ACM",
+    "price": "0.01433449"
+  },
+  {
+    "currency": "ACOIN",
+    "price": "0.01987853"
+  },
+  {
+    "currency": "ACRYL",
+    "price": "0.01285170"
+  },
+  {
+    "currency": "ACT",
+    "price": "0.00650067"
+  },
+  {
+    "currency": "ACTN",
+    "price": "0.00032328"
+  },
+  {
+    "currency": "ACU",
+    "price": "0.00181269"
+  },
+  {
+    "currency": "AD",
+    "price": "0.00082899"
+  },
+  {
+    "currency": "ADA",
+    "price": "0.09413626"
+  },
+  {
+    "currency": "ADAB",
+    "price": "0.00003464"
+  },
+  {
+    "currency": "ADABEAR",
+    "price": "4.29700000"
+  },
+  {
+    "currency": "ADABULL",
+    "price": "3178.00000000"
+  },
+  {
+    "currency": "ADAHEDGE",
+    "price": "1061.60000000"
+  },
+  {
+    "currency": "ADB",
+    "price": "0.00094210"
+  },
+  {
+    "currency": "ADBECX",
+    "price": "437.08000000"
+  },
+  {
+    "currency": "ADCTOKEN",
+    "price": "0.00288645"
+  },
+  {
+    "currency": "ADE",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "ADI",
+    "price": "0.00015471"
+  },
+  {
+    "currency": "ADK",
+    "price": "0.74705786"
+  },
+  {
+    "currency": "ADL",
+    "price": "0.00416062"
+  },
+  {
+    "currency": "ADMN",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "ADRX",
+    "price": "0.00287052"
+  },
+  {
+    "currency": "ADS",
+    "price": "0.03081635"
+  },
+  {
+    "currency": "ADVC",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "ADX",
+    "price": "0.10198055"
+  },
+  {
+    "currency": "AE",
+    "price": "0.13613384"
+  },
+  {
+    "currency": "AEM",
+    "price": "0.00489723"
+  },
+  {
+    "currency": "AEON",
+    "price": "0.57136615"
+  },
+  {
+    "currency": "AER",
+    "price": "0.00718403"
+  },
+  {
+    "currency": "AERGO",
+    "price": "0.02646286"
+  },
+  {
+    "currency": "AEVO",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "AFC",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "AFCASH",
+    "price": "0.91077705"
+  },
+  {
+    "currency": "AFIN",
+    "price": "0.00462238"
+  },
+  {
+    "currency": "AFRO",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "AFROX",
+    "price": "0.00000005"
+  },
+  {
+    "currency": "AGET",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "AGI",
+    "price": "0.01775942"
+  },
+  {
+    "currency": "AGLT",
+    "price": "0.00159997"
+  },
+  {
+    "currency": "AGR",
+    "price": "0.00332850"
+  },
+  {
+    "currency": "AGU",
+    "price": "0.00272192"
+  },
+  {
+    "currency": "AGVC",
+    "price": "0.05770801"
+  },
+  {
+    "currency": "AIAS",
+    "price": "0.00443800"
+  },
+  {
+    "currency": "AID",
+    "price": "0.00739666"
+  },
+  {
+    "currency": "AIDOC",
+    "price": "0.00172197"
+  },
+  {
+    "currency": "AIE",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "AION",
+    "price": "0.09706192"
+  },
+  {
+    "currency": "AIRCX",
+    "price": "72.37767352"
+  },
+  {
+    "currency": "AK12",
+    "price": "0.90056864"
+  },
+  {
+    "currency": "AKA",
+    "price": "0.00025888"
+  },
+  {
+    "currency": "AKM",
+    "price": "0.00043522"
+  },
+  {
+    "currency": "AKRO",
+    "price": "0.00339008"
+  },
+  {
+    "currency": "ALA",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "ALADDIN",
+    "price": "0.00015335"
+  },
+  {
+    "currency": "ALEPH",
+    "price": "0.06581095"
+  },
+  {
+    "currency": "ALGO",
+    "price": "0.21452742"
+  },
+  {
+    "currency": "ALGOBEAR",
+    "price": "6.52000000"
+  },
+  {
+    "currency": "ALGOBULL",
+    "price": "0.00428500"
+  },
+  {
+    "currency": "ALLBI",
+    "price": "0.00007620"
+  },
+  {
+    "currency": "ALLBIH",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "ALLUVA",
+    "price": "0.00667579"
+  },
+  {
+    "currency": "ALTBEAR",
+    "price": "529.00000000"
+  },
+  {
+    "currency": "ALTBULL",
+    "price": "20.97000000"
+  },
+  {
+    "currency": "ALTM",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "AMB",
+    "price": "0.01273846"
+  },
+  {
+    "currency": "AMDCX",
+    "price": "52.97000000"
+  },
+  {
+    "currency": "AMLT",
+    "price": "0.00582487"
+  },
+  {
+    "currency": "AMM",
+    "price": "0.00433997"
+  },
+  {
+    "currency": "AMMBR",
+    "price": "0.01192712"
+  },
+  {
+    "currency": "AMO",
+    "price": "0.00084547"
+  },
+  {
+    "currency": "AMON",
+    "price": "0.00471537"
+  },
+  {
+    "currency": "AMPL",
+    "price": "2.24760146"
+  },
+  {
+    "currency": "AMZNCX",
+    "price": "2907.15000000"
+  },
+  {
+    "currency": "ANCT",
+    "price": "0.80198933"
+  },
+  {
+    "currency": "ANDES",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "ANI",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "ANJ",
+    "price": "0.01673001"
+  },
+  {
+    "currency": "ANKR",
+    "price": "0.00339909"
+  },
+  {
+    "currency": "ANN",
+    "price": "0.00532579"
+  },
+  {
+    "currency": "ANON",
+    "price": "0.00933829"
+  },
+  {
+    "currency": "ANT",
+    "price": "1.46871993"
+  },
+  {
+    "currency": "ANTR",
+    "price": "0.00027207"
+  },
+  {
+    "currency": "ANTY",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "AOG",
+    "price": "0.00453046"
+  },
+  {
+    "currency": "APACX",
+    "price": "13.07000000"
+  },
+  {
+    "currency": "APL",
+    "price": "0.00065301"
+  },
+  {
+    "currency": "APM",
+    "price": "0.06019057"
+  },
+  {
+    "currency": "APPC",
+    "price": "0.04140453"
+  },
+  {
+    "currency": "APR",
+    "price": "0.00489123"
+  },
+  {
+    "currency": "AQX",
+    "price": "0.01823545"
+  },
+  {
+    "currency": "ARAW",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "ARCEE",
+    "price": "0.00434554"
+  },
+  {
+    "currency": "ARCTIC",
+    "price": "0.00129973"
+  },
+  {
+    "currency": "ARCX",
+    "price": "2.62000000"
+  },
+  {
+    "currency": "ARDR",
+    "price": "0.04769221"
+  },
+  {
+    "currency": "ARDX",
+    "price": "0.00073934"
+  },
+  {
+    "currency": "AREPA",
+    "price": "0.00134989"
+  },
+  {
+    "currency": "ARG",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "ARI",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "ARION",
+    "price": "0.00184917"
+  },
+  {
+    "currency": "ARK",
+    "price": "0.25777696"
+  },
+  {
+    "currency": "ARM",
+    "price": "0.00015240"
+  },
+  {
+    "currency": "ARMR",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "ARMS",
+    "price": "0.01397053"
+  },
+  {
+    "currency": "ARN",
+    "price": "0.16643467"
+  },
+  {
+    "currency": "ARNCCX",
+    "price": "13.25000000"
+  },
+  {
+    "currency": "ARO",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "ARPA",
+    "price": "0.01312643"
+  },
+  {
+    "currency": "ARQ",
+    "price": "0.01072388"
+  },
+  {
+    "currency": "ARRR",
+    "price": "0.02829736"
+  },
+  {
+    "currency": "ART",
+    "price": "0.00746116"
+  },
+  {
+    "currency": "ARTE",
+    "price": "0.00434554"
+  },
+  {
+    "currency": "ARX",
+    "price": "0.30506814"
+  },
+  {
+    "currency": "ASA",
+    "price": "0.00007158"
+  },
+  {
+    "currency": "ASAC",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "ASAFE2",
+    "price": "0.03096137"
+  },
+  {
+    "currency": "ASIMI",
+    "price": "0.06851159"
+  },
+  {
+    "currency": "ASM",
+    "price": "0.02204379"
+  },
+  {
+    "currency": "AST",
+    "price": "0.05207807"
+  },
+  {
+    "currency": "ASTA",
+    "price": "0.17050076"
+  },
+  {
+    "currency": "ASTRO",
+    "price": "0.49416071"
+  },
+  {
+    "currency": "ATHEIOS",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "ATL",
+    "price": "0.02221414"
+  },
+  {
+    "currency": "ATLS",
+    "price": "0.00044105"
+  },
+  {
+    "currency": "ATO",
+    "price": "0.00006472"
+  },
+  {
+    "currency": "ATOM",
+    "price": "2.77907349"
+  },
+  {
+    "currency": "ATOMBEAR",
+    "price": "199.95000000"
+  },
+  {
+    "currency": "ATOMBULL",
+    "price": "38.61000000"
+  },
+  {
+    "currency": "ATP",
+    "price": "0.00198046"
+  },
+  {
+    "currency": "ATVICX",
+    "price": "77.79000000"
+  },
+  {
+    "currency": "AU",
+    "price": "2.63793600"
+  },
+  {
+    "currency": "AUC",
+    "price": "0.08885471"
+  },
+  {
+    "currency": "AUDAX",
+    "price": "0.00161316"
+  },
+  {
+    "currency": "AUDIOCOIN",
+    "price": "0.00021475"
+  },
+  {
+    "currency": "AUNIT",
+    "price": "0.01230000"
+  },
+  {
+    "currency": "AUSC",
+    "price": "0.00499275"
+  },
+  {
+    "currency": "AUTO",
+    "price": "0.00030922"
+  },
+  {
+    "currency": "AUX",
+    "price": "0.00418171"
+  },
+  {
+    "currency": "AVA",
+    "price": "0.31235972"
+  },
+  {
+    "currency": "AVC",
+    "price": "2.16278416"
+  },
+  {
+    "currency": "AVN",
+    "price": "0.00006004"
+  },
+  {
+    "currency": "AVT",
+    "price": "0.14870347"
+  },
+  {
+    "currency": "AXE",
+    "price": "0.20444091"
+  },
+  {
+    "currency": "AXEL",
+    "price": "0.08506162"
+  },
+  {
+    "currency": "AXL",
+    "price": "0.00206874"
+  },
+  {
+    "currency": "AXPR",
+    "price": "0.00458650"
+  },
+  {
+    "currency": "AXT",
+    "price": "0.06477422"
+  },
+  {
+    "currency": "AYA",
+    "price": "0.01106632"
+  },
+  {
+    "currency": "AZ",
+    "price": "0.00001760"
+  },
+  {
+    "currency": "B1P",
+    "price": "0.00154073"
+  },
+  {
+    "currency": "B2BCOIN",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "BAAS",
+    "price": "0.00060248"
+  },
+  {
+    "currency": "BABACX",
+    "price": "221.32000000"
+  },
+  {
+    "currency": "BAC",
+    "price": "1.00240000"
+  },
+  {
+    "currency": "BACX",
+    "price": "184.98000000"
+  },
+  {
+    "currency": "BAD",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "BAK",
+    "price": "0.18648836"
+  },
+  {
+    "currency": "BAL",
+    "price": "12.55510641"
+  },
+  {
+    "currency": "BALO",
+    "price": "0.00266290"
+  },
+  {
+    "currency": "BAN",
+    "price": "0.00095203"
+  },
+  {
+    "currency": "BANCA",
+    "price": "0.00006002"
+  },
+  {
+    "currency": "BAND",
+    "price": "1.19004855"
+  },
+  {
+    "currency": "BANKCOINCASH",
+    "price": "0.00000648"
+  },
+  {
+    "currency": "BARE",
+    "price": "0.14478967"
+  },
+  {
+    "currency": "BARIN",
+    "price": "0.00248141"
+  },
+  {
+    "currency": "BAT",
+    "price": "0.25577757"
+  },
+  {
+    "currency": "BAX",
+    "price": "0.00008661"
+  },
+  {
+    "currency": "BBBYCX",
+    "price": "10.60000000"
+  },
+  {
+    "currency": "BBC",
+    "price": "0.00035824"
+  },
+  {
+    "currency": "BBP",
+    "price": "0.00018935"
+  },
+  {
+    "currency": "BBR",
+    "price": "0.14007430"
+  },
+  {
+    "currency": "BBS",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "BBT",
+    "price": "0.00656454"
+  },
+  {
+    "currency": "BBYCX",
+    "price": "86.34000000"
+  },
+  {
+    "currency": "BC",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "BCASH",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "BCCX",
+    "price": "0.00559910"
+  },
+  {
+    "currency": "BCD",
+    "price": "0.74847198"
+  },
+  {
+    "currency": "BCDT",
+    "price": "0.03446622"
+  },
+  {
+    "currency": "BCEO",
+    "price": "0.09235032"
+  },
+  {
+    "currency": "BCF",
+    "price": "0.00227578"
+  },
+  {
+    "currency": "BCG",
+    "price": "0.00199973"
+  },
+  {
+    "currency": "BCH",
+    "price": "224.62137186"
+  },
+  {
+    "currency": "BCHBEAR",
+    "price": "60.90000000"
+  },
+  {
+    "currency": "BCHBULL",
+    "price": "6.11500000"
+  },
+  {
+    "currency": "BCHIP",
+    "price": "0.00000051"
+  },
+  {
+    "currency": "BCN",
+    "price": "0.00020679"
+  },
+  {
+    "currency": "BCNA",
+    "price": "0.02115671"
+  },
+  {
+    "currency": "BCP",
+    "price": "0.30085381"
+  },
+  {
+    "currency": "BCPT",
+    "price": "0.02357682"
+  },
+  {
+    "currency": "BCPX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "BCV",
+    "price": "0.00363857"
+  },
+  {
+    "currency": "BCX",
+    "price": "0.00048611"
+  },
+  {
+    "currency": "BCZ",
+    "price": "0.04164015"
+  },
+  {
+    "currency": "BCZERO",
+    "price": "0.00258883"
+  },
+  {
+    "currency": "BD",
+    "price": "0.01179085"
+  },
+  {
+    "currency": "BDCASH",
+    "price": "0.10882340"
+  },
+  {
+    "currency": "BDG",
+    "price": "0.00097089"
+  },
+  {
+    "currency": "BDP",
+    "price": "0.00803164"
+  },
+  {
+    "currency": "BDX",
+    "price": "0.05492022"
+  },
+  {
+    "currency": "BEAM",
+    "price": "0.39177945"
+  },
+  {
+    "currency": "BEARSHIT",
+    "price": "54.10000000"
+  },
+  {
+    "currency": "BECN",
+    "price": "0.02154278"
+  },
+  {
+    "currency": "BEENG",
+    "price": "0.01655003"
+  },
+  {
+    "currency": "BEER",
+    "price": "0.00719502"
+  },
+  {
+    "currency": "BEET",
+    "price": "0.00332963"
+  },
+  {
+    "currency": "BELA",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "BELL",
+    "price": "0.00230560"
+  },
+  {
+    "currency": "BEN",
+    "price": "0.00869108"
+  },
+  {
+    "currency": "BENZ",
+    "price": "0.00005311"
+  },
+  {
+    "currency": "BEPRO",
+    "price": "0.00082103"
+  },
+  {
+    "currency": "BERN",
+    "price": "0.00029437"
+  },
+  {
+    "currency": "BERRY",
+    "price": "0.00036365"
+  },
+  {
+    "currency": "BET",
+    "price": "0.00727853"
+  },
+  {
+    "currency": "BETDICE",
+    "price": "0.00035134"
+  },
+  {
+    "currency": "BETHER",
+    "price": "0.00002771"
+  },
+  {
+    "currency": "BETN",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "BETR",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "BETXC",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "BF",
+    "price": "0.00246008"
+  },
+  {
+    "currency": "BFT",
+    "price": "0.00754455"
+  },
+  {
+    "currency": "BGC",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "BGG",
+    "price": "0.00043640"
+  },
+  {
+    "currency": "BGL",
+    "price": "0.04694011"
+  },
+  {
+    "currency": "BGT",
+    "price": "0.01385497"
+  },
+  {
+    "currency": "BHIG",
+    "price": "0.03763052"
+  },
+  {
+    "currency": "BHP",
+    "price": "0.72536133"
+  },
+  {
+    "currency": "BHT",
+    "price": "0.13994735"
+  },
+  {
+    "currency": "BHY",
+    "price": "94.02000000"
+  },
+  {
+    "currency": "BI",
+    "price": "1.21426060"
+  },
+  {
+    "currency": "BIA",
+    "price": "0.00190486"
+  },
+  {
+    "currency": "BIDUCX",
+    "price": "120.76000000"
+  },
+  {
+    "currency": "BIFI",
+    "price": "0.00071100"
+  },
+  {
+    "currency": "BIGCX",
+    "price": "40.87000000"
+  },
+  {
+    "currency": "BIH",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "BIIBCX",
+    "price": "265.91000000"
+  },
+  {
+    "currency": "BILLCX",
+    "price": "88.64000000"
+  },
+  {
+    "currency": "BIN",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "BIR",
+    "price": "0.00355406"
+  },
+  {
+    "currency": "BIRD",
+    "price": "0.01760040"
+  },
+  {
+    "currency": "BIS",
+    "price": "0.07889622"
+  },
+  {
+    "currency": "BITBAR",
+    "price": "1.95040748"
+  },
+  {
+    "currency": "BITBLOCKS",
+    "price": "0.00314358"
+  },
+  {
+    "currency": "BITC",
+    "price": "0.02667474"
+  },
+  {
+    "currency": "BITCOEN",
+    "price": "0.00563996"
+  },
+  {
+    "currency": "BITCURRENCY",
+    "price": "0.00026309"
+  },
+  {
+    "currency": "BITG",
+    "price": "0.25910924"
+  },
+  {
+    "currency": "BITHEREUM",
+    "price": "0.02859485"
+  },
+  {
+    "currency": "BITHOLD",
+    "price": "0.00119275"
+  },
+  {
+    "currency": "BITRUE",
+    "price": "0.03802663"
+  },
+  {
+    "currency": "BITTO",
+    "price": "0.40446679"
+  },
+  {
+    "currency": "BITTORRENT",
+    "price": "0.00033880"
+  },
+  {
+    "currency": "BIX",
+    "price": "0.08990895"
+  },
+  {
+    "currency": "BIXCPRO",
+    "price": "0.00600979"
+  },
+  {
+    "currency": "BIZZ",
+    "price": "0.55262316"
+  },
+  {
+    "currency": "BKBT",
+    "price": "0.00062880"
+  },
+  {
+    "currency": "BKG",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "BKK",
+    "price": "0.07837066"
+  },
+  {
+    "currency": "BKY",
+    "price": "0.00013855"
+  },
+  {
+    "currency": "BLACK",
+    "price": "0.00107607"
+  },
+  {
+    "currency": "BLAST",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "BLC",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "BLK",
+    "price": "0.03485671"
+  },
+  {
+    "currency": "BLOCK",
+    "price": "1.29523194"
+  },
+  {
+    "currency": "BLOCKBURN",
+    "price": "0.00005542"
+  },
+  {
+    "currency": "BLOCKCHAINCOM",
+    "price": "0.00471537"
+  },
+  {
+    "currency": "BLOCKSTACK",
+    "price": "0.13535893"
+  },
+  {
+    "currency": "BLOCKSTAMP",
+    "price": "0.19386653"
+  },
+  {
+    "currency": "BLOCMONEY",
+    "price": "0.00563996"
+  },
+  {
+    "currency": "BLOOD",
+    "price": "0.00055141"
+  },
+  {
+    "currency": "BLT",
+    "price": "0.02599448"
+  },
+  {
+    "currency": "BLUR",
+    "price": "0.02949419"
+  },
+  {
+    "currency": "BLVR",
+    "price": "1.35458918"
+  },
+  {
+    "currency": "BLZ",
+    "price": "0.02746258"
+  },
+  {
+    "currency": "BMAX",
+    "price": "0.00000090"
+  },
+  {
+    "currency": "BMC",
+    "price": "0.03611601"
+  },
+  {
+    "currency": "BMH",
+    "price": "0.00014562"
+  },
+  {
+    "currency": "BMX",
+    "price": "0.01605829"
+  },
+  {
+    "currency": "BNANA",
+    "price": "0.64677754"
+  },
+  {
+    "currency": "BNB",
+    "price": "15.82828239"
+  },
+  {
+    "currency": "BNBBEAR",
+    "price": "11.07500000"
+  },
+  {
+    "currency": "BNBBULL",
+    "price": "84.00000000"
+  },
+  {
+    "currency": "BNBHEDGE",
+    "price": "2020.00000000"
+  },
+  {
+    "currency": "BNK",
+    "price": "0.00166455"
+  },
+  {
+    "currency": "BNODE",
+    "price": "0.04179114"
+  },
+  {
+    "currency": "BNT",
+    "price": "1.30313277"
+  },
+  {
+    "currency": "BNTXCX",
+    "price": "63.57000000"
+  },
+  {
+    "currency": "BNTY",
+    "price": "0.00078742"
+  },
+  {
+    "currency": "BNY",
+    "price": "0.00342096"
+  },
+  {
+    "currency": "BOA",
+    "price": "0.07671640"
+  },
+  {
+    "currency": "BOLDMANCAPITAL",
+    "price": "0.00000991"
+  },
+  {
+    "currency": "BOLENUM",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "BOLI",
+    "price": "0.01026287"
+  },
+  {
+    "currency": "BOLT",
+    "price": "0.00207107"
+  },
+  {
+    "currency": "BOMB",
+    "price": "0.96057980"
+  },
+  {
+    "currency": "BON",
+    "price": "0.00748912"
+  },
+  {
+    "currency": "BONO",
+    "price": "44.11951313"
+  },
+  {
+    "currency": "BOO",
+    "price": "0.00014297"
+  },
+  {
+    "currency": "BOOMTOKEN",
+    "price": "0.00175671"
+  },
+  {
+    "currency": "BOTX",
+    "price": "0.05630897"
+  },
+  {
+    "currency": "BOUTS",
+    "price": "0.00146360"
+  },
+  {
+    "currency": "BPAKC",
+    "price": "0.00001616"
+  },
+  {
+    "currency": "BPC",
+    "price": "0.00064908"
+  },
+  {
+    "currency": "BPER",
+    "price": "0.00000046"
+  },
+  {
+    "currency": "BPL",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "BPLC",
+    "price": "0.00041608"
+  },
+  {
+    "currency": "BPS",
+    "price": "1.32733111"
+  },
+  {
+    "currency": "BPX",
+    "price": "0.00104374"
+  },
+  {
+    "currency": "BQT",
+    "price": "0.01147651"
+  },
+  {
+    "currency": "BQTX",
+    "price": "0.00648377"
+  },
+  {
+    "currency": "BRAT",
+    "price": "0.00000924"
+  },
+  {
+    "currency": "BRAZ",
+    "price": "0.00073937"
+  },
+  {
+    "currency": "BRD",
+    "price": "0.11594973"
+  },
+  {
+    "currency": "BRENTOILCX",
+    "price": "42.64000000"
+  },
+  {
+    "currency": "BRO",
+    "price": "0.00915285"
+  },
+  {
+    "currency": "BRRR",
+    "price": "152.20000000"
+  },
+  {
+    "currency": "BRT",
+    "price": "0.00713531"
+  },
+  {
+    "currency": "BRX",
+    "price": "0.01941624"
+  },
+  {
+    "currency": "BRYLLITE",
+    "price": "0.00212654"
+  },
+  {
+    "currency": "BRZX",
+    "price": "0.05640017"
+  },
+  {
+    "currency": "BSG",
+    "price": "0.00007489"
+  },
+  {
+    "currency": "BSN",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "BSOV",
+    "price": "0.03636930"
+  },
+  {
+    "currency": "BSTN",
+    "price": "0.00000924"
+  },
+  {
+    "currency": "BSTX",
+    "price": "0.00060098"
+  },
+  {
+    "currency": "BSV",
+    "price": "157.22079584"
+  },
+  {
+    "currency": "BSVBEAR",
+    "price": "0.90800000"
+  },
+  {
+    "currency": "BSVBULL",
+    "price": "0.67500000"
+  },
+  {
+    "currency": "BSVG",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "BTA",
+    "price": "0.01266678"
+  },
+  {
+    "currency": "BTAD",
+    "price": "0.00027739"
+  },
+  {
+    "currency": "BTBC",
+    "price": "0.00023092"
+  },
+  {
+    "currency": "BTBL",
+    "price": "0.00150096"
+  },
+  {
+    "currency": "BTC",
+    "price": "9250.33409589"
+  },
+  {
+    "currency": "BTC2",
+    "price": "0.68394684"
+  },
+  {
+    "currency": "BTCB2",
+    "price": "0.00000025"
+  },
+  {
+    "currency": "BTCBEAR",
+    "price": "1.72000000"
+  },
+  {
+    "currency": "BTCBULL",
+    "price": "2676.00000000"
+  },
+  {
+    "currency": "BTCF",
+    "price": "0.00330522"
+  },
+  {
+    "currency": "BTCGW",
+    "price": "0.00013393"
+  },
+  {
+    "currency": "BTCHEDGE",
+    "price": "973.00000000"
+  },
+  {
+    "currency": "BTCL",
+    "price": "0.00221900"
+  },
+  {
+    "currency": "BTCM",
+    "price": "0.00008434"
+  },
+  {
+    "currency": "BTCN",
+    "price": "0.00159331"
+  },
+  {
+    "currency": "BTCONE",
+    "price": "0.00010170"
+  },
+  {
+    "currency": "BTCPLUSPLUS",
+    "price": "9405.01055110"
+  },
+  {
+    "currency": "BTCR",
+    "price": "0.03232827"
+  },
+  {
+    "currency": "BTCT",
+    "price": "0.01623030"
+  },
+  {
+    "currency": "BTCUI",
+    "price": "0.00012700"
+  },
+  {
+    "currency": "BTCV",
+    "price": "0.01562545"
+  },
+  {
+    "currency": "BTCV2",
+    "price": "283.04096263"
+  },
+  {
+    "currency": "BTCZ",
+    "price": "0.00014605"
+  },
+  {
+    "currency": "BTDX",
+    "price": "0.00258883"
+  },
+  {
+    "currency": "BTG",
+    "price": "9.78683525"
+  },
+  {
+    "currency": "BTL",
+    "price": "0.00046183"
+  },
+  {
+    "currency": "BTM",
+    "price": "0.06615257"
+  },
+  {
+    "currency": "BTMX",
+    "price": "0.03652096"
+  },
+  {
+    "currency": "BTMXBEAR",
+    "price": "91.32500000"
+  },
+  {
+    "currency": "BTMXBULL",
+    "price": "11.74000000"
+  },
+  {
+    "currency": "BTNT",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "BTRL",
+    "price": "1.72625982"
+  },
+  {
+    "currency": "BTS",
+    "price": "0.02333865"
+  },
+  {
+    "currency": "BTSA",
+    "price": "0.00295867"
+  },
+  {
+    "currency": "BTSCOIN",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "BTSE",
+    "price": "1.49038623"
+  },
+  {
+    "currency": "BTT",
+    "price": "0.01755565"
+  },
+  {
+    "currency": "BTTR",
+    "price": "0.13804022"
+  },
+  {
+    "currency": "BTU",
+    "price": "0.44116510"
+  },
+  {
+    "currency": "BTW",
+    "price": "0.00068008"
+  },
+  {
+    "currency": "BTX",
+    "price": "0.17937152"
+  },
+  {
+    "currency": "BU",
+    "price": "0.00308269"
+  },
+  {
+    "currency": "BUCKS",
+    "price": "0.01810383"
+  },
+  {
+    "currency": "BUIDL",
+    "price": "0.60463642"
+  },
+  {
+    "currency": "BUL",
+    "price": "0.01017041"
+  },
+  {
+    "currency": "BULL",
+    "price": "2.24793823"
+  },
+  {
+    "currency": "BULLSHIT",
+    "price": "428.60000000"
+  },
+  {
+    "currency": "BURST",
+    "price": "0.00406966"
+  },
+  {
+    "currency": "BUSD",
+    "price": "1.00194552"
+  },
+  {
+    "currency": "BUT",
+    "price": "0.00132666"
+  },
+  {
+    "currency": "BUX",
+    "price": "0.71377794"
+  },
+  {
+    "currency": "BUYCOINPOS",
+    "price": "1.67996700"
+  },
+  {
+    "currency": "BUZZ",
+    "price": "0.00001849"
+  },
+  {
+    "currency": "BVK",
+    "price": "0.00258883"
+  },
+  {
+    "currency": "BVOL",
+    "price": "4555.00000000"
+  },
+  {
+    "currency": "BVT",
+    "price": "0.00023784"
+  },
+  {
+    "currency": "BXK",
+    "price": "0.12500360"
+  },
+  {
+    "currency": "BXT",
+    "price": "0.00184733"
+  },
+  {
+    "currency": "BXY",
+    "price": "0.00896845"
+  },
+  {
+    "currency": "BYNDCX",
+    "price": "145.36000000"
+  },
+  {
+    "currency": "BYTS",
+    "price": "0.21256159"
+  },
+  {
+    "currency": "BZ",
+    "price": "0.11568500"
+  },
+  {
+    "currency": "BZE",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "BZNT",
+    "price": "0.01556510"
+  },
+  {
+    "currency": "BZO",
+    "price": "0.00628716"
+  },
+  {
+    "currency": "BZT",
+    "price": "1.44181000"
+  },
+  {
+    "currency": "BZX",
+    "price": "0.00129566"
+  },
+  {
+    "currency": "C20",
+    "price": "0.46850081"
+  },
+  {
+    "currency": "C3W",
+    "price": "0.00000924"
+  },
+  {
+    "currency": "C4C",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "CAG",
+    "price": "0.06510362"
+  },
+  {
+    "currency": "CAGCX",
+    "price": "35.70000000"
+  },
+  {
+    "currency": "CAJ",
+    "price": "1.20168030"
+  },
+  {
+    "currency": "CALL",
+    "price": "0.00020341"
+  },
+  {
+    "currency": "CAM",
+    "price": "0.01886235"
+  },
+  {
+    "currency": "CAPP",
+    "price": "0.00131341"
+  },
+  {
+    "currency": "CARB",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "CARD",
+    "price": "0.00138733"
+  },
+  {
+    "currency": "CASH2",
+    "price": "0.01044779"
+  },
+  {
+    "currency": "CASHBERY",
+    "price": "0.00721175"
+  },
+  {
+    "currency": "CATO",
+    "price": "0.00359231"
+  },
+  {
+    "currency": "CATT",
+    "price": "0.00015207"
+  },
+  {
+    "currency": "CB",
+    "price": "0.00048723"
+  },
+  {
+    "currency": "CBC",
+    "price": "0.01034715"
+  },
+  {
+    "currency": "CBEX",
+    "price": "0.00005053"
+  },
+  {
+    "currency": "CBKCX",
+    "price": "4.48352291"
+  },
+  {
+    "currency": "CBOX",
+    "price": "0.00290710"
+  },
+  {
+    "currency": "CBT",
+    "price": "0.00693437"
+  },
+  {
+    "currency": "CCCM",
+    "price": "0.00023092"
+  },
+  {
+    "currency": "CCCX",
+    "price": "14.40000000"
+  },
+  {
+    "currency": "CCH",
+    "price": "0.00001664"
+  },
+  {
+    "currency": "CCO",
+    "price": "0.00901959"
+  },
+  {
+    "currency": "CCRB",
+    "price": "0.00766706"
+  },
+  {
+    "currency": "CCX",
+    "price": "50.89000000"
+  },
+  {
+    "currency": "CDAI",
+    "price": "0.02572238"
+  },
+  {
+    "currency": "CDL",
+    "price": "0.02930798"
+  },
+  {
+    "currency": "CDT",
+    "price": "0.00565171"
+  },
+  {
+    "currency": "CDZC",
+    "price": "0.02135773"
+  },
+  {
+    "currency": "CEC",
+    "price": "0.00000318"
+  },
+  {
+    "currency": "CEEK",
+    "price": "0.00404103"
+  },
+  {
+    "currency": "CEL",
+    "price": "0.44694601"
+  },
+  {
+    "currency": "CELR",
+    "price": "0.00388324"
+  },
+  {
+    "currency": "CENNZ",
+    "price": "0.07955936"
+  },
+  {
+    "currency": "CENTAURI",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "CETH",
+    "price": "4.62113632"
+  },
+  {
+    "currency": "CGEN",
+    "price": "0.00000770"
+  },
+  {
+    "currency": "CGT",
+    "price": "56.69541914"
+  },
+  {
+    "currency": "CHA",
+    "price": "0.01798314"
+  },
+  {
+    "currency": "CHAI",
+    "price": "1.05293612"
+  },
+  {
+    "currency": "CHAN",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "CHAT",
+    "price": "0.00282412"
+  },
+  {
+    "currency": "CHEESE",
+    "price": "0.00016617"
+  },
+  {
+    "currency": "CHFT",
+    "price": "1.05788411"
+  },
+  {
+    "currency": "CHG",
+    "price": "0.14700867"
+  },
+  {
+    "currency": "CHI",
+    "price": "0.02950503"
+  },
+  {
+    "currency": "CHND",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "CHP",
+    "price": "0.00491300"
+  },
+  {
+    "currency": "CHR",
+    "price": "0.03121511"
+  },
+  {
+    "currency": "CHRT",
+    "price": "0.00869108"
+  },
+  {
+    "currency": "CHSB",
+    "price": "0.10600308"
+  },
+  {
+    "currency": "CHTC",
+    "price": "0.00388325"
+  },
+  {
+    "currency": "CHZ",
+    "price": "0.01180951"
+  },
+  {
+    "currency": "CICC",
+    "price": "0.06283634"
+  },
+  {
+    "currency": "CID",
+    "price": "0.00133416"
+  },
+  {
+    "currency": "CITY",
+    "price": "0.04724527"
+  },
+  {
+    "currency": "CLB",
+    "price": "0.00691022"
+  },
+  {
+    "currency": "CLC",
+    "price": "0.00813633"
+  },
+  {
+    "currency": "CLG",
+    "price": "0.00014793"
+  },
+  {
+    "currency": "CLO",
+    "price": "0.00064568"
+  },
+  {
+    "currency": "CLOAK",
+    "price": "1.44244167"
+  },
+  {
+    "currency": "CLOG",
+    "price": "0.00015240"
+  },
+  {
+    "currency": "CLT",
+    "price": "0.92828320"
+  },
+  {
+    "currency": "CLVSCX",
+    "price": "6.54000000"
+  },
+  {
+    "currency": "CMCT",
+    "price": "0.00035863"
+  },
+  {
+    "currency": "CMM",
+    "price": "0.00111008"
+  },
+  {
+    "currency": "CMT",
+    "price": "0.01139274"
+  },
+  {
+    "currency": "CMTR",
+    "price": "0.00175671"
+  },
+  {
+    "currency": "CN50CX",
+    "price": "14646.00000000"
+  },
+  {
+    "currency": "CNB",
+    "price": "0.00039885"
+  },
+  {
+    "currency": "CNCT",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "CND",
+    "price": "0.00644673"
+  },
+  {
+    "currency": "CNG",
+    "price": "0.00002915"
+  },
+  {
+    "currency": "CNN",
+    "price": "0.00006139"
+  },
+  {
+    "currency": "CNNS",
+    "price": "0.00316979"
+  },
+  {
+    "currency": "CNP",
+    "price": "0.00000582"
+  },
+  {
+    "currency": "CNRG",
+    "price": "37.92825688"
+  },
+  {
+    "currency": "CNUS",
+    "price": "0.00051499"
+  },
+  {
+    "currency": "CNYX",
+    "price": "0.14123680"
+  },
+  {
+    "currency": "CNZ",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "COB",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "COCOS",
+    "price": "0.00032803"
+  },
+  {
+    "currency": "COD",
+    "price": "0.00068237"
+  },
+  {
+    "currency": "CODEO",
+    "price": "0.46827624"
+  },
+  {
+    "currency": "COF",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "COFI",
+    "price": "0.00123270"
+  },
+  {
+    "currency": "COINBTC",
+    "price": "95.50000000"
+  },
+  {
+    "currency": "COINCLAIM",
+    "price": "0.00015714"
+  },
+  {
+    "currency": "COLX",
+    "price": "0.00035186"
+  },
+  {
+    "currency": "COMMUNITY",
+    "price": "0.00268129"
+  },
+  {
+    "currency": "COMMUNITYCOIN",
+    "price": "0.00066966"
+  },
+  {
+    "currency": "COMP",
+    "price": "198.37740982"
+  },
+  {
+    "currency": "COMP2",
+    "price": "0.00001145"
+  },
+  {
+    "currency": "CON",
+    "price": "0.00378037"
+  },
+  {
+    "currency": "CORN",
+    "price": "0.00001498"
+  },
+  {
+    "currency": "CORONA",
+    "price": "0.00000727"
+  },
+  {
+    "currency": "COS",
+    "price": "0.00793455"
+  },
+  {
+    "currency": "COSM",
+    "price": "0.00723983"
+  },
+  {
+    "currency": "COSPLAY",
+    "price": "0.01616414"
+  },
+  {
+    "currency": "COT",
+    "price": "0.00006734"
+  },
+  {
+    "currency": "COTI",
+    "price": "0.02569530"
+  },
+  {
+    "currency": "COV",
+    "price": "0.20494957"
+  },
+  {
+    "currency": "COVA",
+    "price": "0.00029715"
+  },
+  {
+    "currency": "COVAL",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "COW",
+    "price": "0.02233928"
+  },
+  {
+    "currency": "CPC",
+    "price": "0.00221883"
+  },
+  {
+    "currency": "CPT",
+    "price": "0.00014909"
+  },
+  {
+    "currency": "CPU",
+    "price": "0.00036811"
+  },
+  {
+    "currency": "CPX",
+    "price": "0.00338023"
+  },
+  {
+    "currency": "CRAD",
+    "price": "0.00916028"
+  },
+  {
+    "currency": "CRCL",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "CRE",
+    "price": "0.00198951"
+  },
+  {
+    "currency": "CREA",
+    "price": "0.03399589"
+  },
+  {
+    "currency": "CREX",
+    "price": "3.94796868"
+  },
+  {
+    "currency": "CRM",
+    "price": "0.00052701"
+  },
+  {
+    "currency": "CRN",
+    "price": "0.00360587"
+  },
+  {
+    "currency": "CRO",
+    "price": "0.12563366"
+  },
+  {
+    "currency": "CROAT",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "CRONCX",
+    "price": "6.10000000"
+  },
+  {
+    "currency": "CRP",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "CRPT",
+    "price": "0.32546250"
+  },
+  {
+    "currency": "CRTS",
+    "price": "0.15734936"
+  },
+  {
+    "currency": "CRU",
+    "price": "0.00210805"
+  },
+  {
+    "currency": "CRUDEOILCX",
+    "price": "40.39000000"
+  },
+  {
+    "currency": "CRUZ",
+    "price": "0.02108049"
+  },
+  {
+    "currency": "CRW",
+    "price": "0.05105571"
+  },
+  {
+    "currency": "CRYP",
+    "price": "0.00030613"
+  },
+  {
+    "currency": "CRYPT",
+    "price": "0.00231146"
+  },
+  {
+    "currency": "CRYPTO",
+    "price": "0.34921493"
+  },
+  {
+    "currency": "CS",
+    "price": "0.03401602"
+  },
+  {
+    "currency": "CSC",
+    "price": "0.00060047"
+  },
+  {
+    "currency": "CSCJ",
+    "price": "0.01858411"
+  },
+  {
+    "currency": "CSCOCX",
+    "price": "46.02000000"
+  },
+  {
+    "currency": "CSOUL",
+    "price": "0.00022852"
+  },
+  {
+    "currency": "CSP",
+    "price": "0.00282256"
+  },
+  {
+    "currency": "CSPN",
+    "price": "0.15865841"
+  },
+  {
+    "currency": "CSTL",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "CTAG",
+    "price": "0.77078393"
+  },
+  {
+    "currency": "CTG",
+    "price": "0.00240000"
+  },
+  {
+    "currency": "CTL",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "CTRT",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "CTSI",
+    "price": "0.03504169"
+  },
+  {
+    "currency": "CTXC",
+    "price": "0.10563575"
+  },
+  {
+    "currency": "CUR",
+    "price": "0.31146434"
+  },
+  {
+    "currency": "CURE",
+    "price": "0.05887521"
+  },
+  {
+    "currency": "CV",
+    "price": "0.00021875"
+  },
+  {
+    "currency": "CVA",
+    "price": "0.13340890"
+  },
+  {
+    "currency": "CVC",
+    "price": "0.02706358"
+  },
+  {
+    "currency": "CVCC",
+    "price": "1.47933253"
+  },
+  {
+    "currency": "CVCOIN",
+    "price": "0.03642856"
+  },
+  {
+    "currency": "CVD",
+    "price": "0.00000854"
+  },
+  {
+    "currency": "CVNT",
+    "price": "0.01424000"
+  },
+  {
+    "currency": "CVT",
+    "price": "0.03780649"
+  },
+  {
+    "currency": "CWN",
+    "price": "0.00060916"
+  },
+  {
+    "currency": "CWV",
+    "price": "0.00421887"
+  },
+  {
+    "currency": "CXO",
+    "price": "0.03228939"
+  },
+  {
+    "currency": "CYB",
+    "price": "0.01477864"
+  },
+  {
+    "currency": "CYBEREITS",
+    "price": "0.00079465"
+  },
+  {
+    "currency": "CYL",
+    "price": "0.00487853"
+  },
+  {
+    "currency": "CYT",
+    "price": "0.45461738"
+  },
+  {
+    "currency": "CZR",
+    "price": "0.00436893"
+  },
+  {
+    "currency": "DAC",
+    "price": "0.00714914"
+  },
+  {
+    "currency": "DACC",
+    "price": "0.00001890"
+  },
+  {
+    "currency": "DADI",
+    "price": "0.02424620"
+  },
+  {
+    "currency": "DAG",
+    "price": "0.00750337"
+  },
+  {
+    "currency": "DAGT",
+    "price": "0.11881563"
+  },
+  {
+    "currency": "DAI",
+    "price": "1.01222741"
+  },
+  {
+    "currency": "DAICX",
+    "price": "40.48109270"
+  },
+  {
+    "currency": "DALCX",
+    "price": "27.67000000"
+  },
+  {
+    "currency": "DAM",
+    "price": "0.02819978"
+  },
+  {
+    "currency": "DANG",
+    "price": "0.00019166"
+  },
+  {
+    "currency": "DAPPT",
+    "price": "0.00080817"
+  },
+  {
+    "currency": "DAPS",
+    "price": "0.00008703"
+  },
+  {
+    "currency": "DASH",
+    "price": "68.36691490"
+  },
+  {
+    "currency": "DASHD",
+    "price": "0.00223749"
+  },
+  {
+    "currency": "DASHG",
+    "price": "0.00131291"
+  },
+  {
+    "currency": "DAT",
+    "price": "0.00099194"
+  },
+  {
+    "currency": "DATA",
+    "price": "0.04635791"
+  },
+  {
+    "currency": "DATX",
+    "price": "0.00029076"
+  },
+  {
+    "currency": "DAV",
+    "price": "0.00018276"
+  },
+  {
+    "currency": "DAVP",
+    "price": "0.57877052"
+  },
+  {
+    "currency": "DAWN",
+    "price": "0.12684703"
+  },
+  {
+    "currency": "DAX",
+    "price": "0.00377190"
+  },
+  {
+    "currency": "DAY",
+    "price": "0.15166857"
+  },
+  {
+    "currency": "DBC",
+    "price": "0.00071483"
+  },
+  {
+    "currency": "DBIX",
+    "price": "0.03726069"
+  },
+  {
+    "currency": "DBKCX",
+    "price": "9.51271925"
+  },
+  {
+    "currency": "DBT",
+    "price": "0.00005080"
+  },
+  {
+    "currency": "DBXCX",
+    "price": "21.62000000"
+  },
+  {
+    "currency": "DCH",
+    "price": "0.01876903"
+  },
+  {
+    "currency": "DCN",
+    "price": "0.00000460"
+  },
+  {
+    "currency": "DCR",
+    "price": "14.25276665"
+  },
+  {
+    "currency": "DCT",
+    "price": "0.00735508"
+  },
+  {
+    "currency": "DCW",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "DCY",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "DDAM",
+    "price": "0.02584645"
+  },
+  {
+    "currency": "DDK",
+    "price": "2.93904976"
+  },
+  {
+    "currency": "DDN",
+    "price": "0.00648381"
+  },
+  {
+    "currency": "DDOGCX",
+    "price": "87.93000000"
+  },
+  {
+    "currency": "DDR",
+    "price": "1.12758900"
+  },
+  {
+    "currency": "DE30CX",
+    "price": "14141.83008742"
+  },
+  {
+    "currency": "DEAL",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "DEC",
+    "price": "0.10573423"
+  },
+  {
+    "currency": "DEEP",
+    "price": "0.00039256"
+  },
+  {
+    "currency": "DEEX",
+    "price": "0.00629418"
+  },
+  {
+    "currency": "DEL",
+    "price": "0.00057724"
+  },
+  {
+    "currency": "DELTA",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "DEMA",
+    "price": "0.00011777"
+  },
+  {
+    "currency": "DENT",
+    "price": "0.00020917"
+  },
+  {
+    "currency": "DEQ",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "DERO",
+    "price": "0.85095359"
+  },
+  {
+    "currency": "DEV",
+    "price": "0.00821474"
+  },
+  {
+    "currency": "DEX",
+    "price": "0.00758158"
+  },
+  {
+    "currency": "DFI",
+    "price": "0.16966095"
+  },
+  {
+    "currency": "DFN",
+    "price": "9.52394088"
+  },
+  {
+    "currency": "DGB",
+    "price": "0.02057890"
+  },
+  {
+    "currency": "DGC",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "DGD",
+    "price": "44.50690793"
+  },
+  {
+    "currency": "DGTX",
+    "price": "0.05495832"
+  },
+  {
+    "currency": "DGX",
+    "price": "47.36921612"
+  },
+  {
+    "currency": "DIN",
+    "price": "0.00011095"
+  },
+  {
+    "currency": "DIP",
+    "price": "0.00430698"
+  },
+  {
+    "currency": "DISCX",
+    "price": "114.41000000"
+  },
+  {
+    "currency": "DISK",
+    "price": "0.00030019"
+  },
+  {
+    "currency": "DIT",
+    "price": "0.00149633"
+  },
+  {
+    "currency": "DIVI",
+    "price": "0.04773014"
+  },
+  {
+    "currency": "DIVO",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "DKYC",
+    "price": "0.01538829"
+  },
+  {
+    "currency": "DLN",
+    "price": "0.00157211"
+  },
+  {
+    "currency": "DLT",
+    "price": "0.03723357"
+  },
+  {
+    "currency": "DLX",
+    "price": "0.00536258"
+  },
+  {
+    "currency": "DMB",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "DMG",
+    "price": "1.74176057"
+  },
+  {
+    "currency": "DMME",
+    "price": "0.01044673"
+  },
+  {
+    "currency": "DMT",
+    "price": "0.14645934"
+  },
+  {
+    "currency": "DNA2",
+    "price": "0.08099346"
+  },
+  {
+    "currency": "DNR",
+    "price": "0.18306740"
+  },
+  {
+    "currency": "DNT",
+    "price": "0.00637965"
+  },
+  {
+    "currency": "DOCH",
+    "price": "0.73014306"
+  },
+  {
+    "currency": "DOCK",
+    "price": "0.00684186"
+  },
+  {
+    "currency": "DOGE",
+    "price": "0.00233142"
+  },
+  {
+    "currency": "DOGEBEAR",
+    "price": "1023.50000000"
+  },
+  {
+    "currency": "DOGEBULL",
+    "price": "571.25000000"
+  },
+  {
+    "currency": "DOGEC",
+    "price": "0.01488585"
+  },
+  {
+    "currency": "DOLLAR",
+    "price": "0.10815995"
+  },
+  {
+    "currency": "DOPE",
+    "price": "0.00175669"
+  },
+  {
+    "currency": "DOSNETWORK",
+    "price": "0.00450707"
+  },
+  {
+    "currency": "DOT",
+    "price": "112.54592667"
+  },
+  {
+    "currency": "DOTIOU",
+    "price": "127.11937872"
+  },
+  {
+    "currency": "DOVU",
+    "price": "0.00148771"
+  },
+  {
+    "currency": "DOW",
+    "price": "0.01016262"
+  },
+  {
+    "currency": "DPT",
+    "price": "8.66366587"
+  },
+  {
+    "currency": "DREAM",
+    "price": "0.02145032"
+  },
+  {
+    "currency": "DREAMSCAPE",
+    "price": "3.12814813"
+  },
+  {
+    "currency": "DREP",
+    "price": "0.00286621"
+  },
+  {
+    "currency": "DRG",
+    "price": "0.03956481"
+  },
+  {
+    "currency": "DRGN",
+    "price": "0.10808048"
+  },
+  {
+    "currency": "DRGNBEAR",
+    "price": "85.72500000"
+  },
+  {
+    "currency": "DRGNBULL",
+    "price": "568.00000000"
+  },
+  {
+    "currency": "DRM",
+    "price": "0.00432554"
+  },
+  {
+    "currency": "DRT",
+    "price": "0.00154655"
+  },
+  {
+    "currency": "DSC",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "DSLA",
+    "price": "0.00038563"
+  },
+  {
+    "currency": "DSR",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "DST",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "DT",
+    "price": "1.42829995"
+  },
+  {
+    "currency": "DTA",
+    "price": "0.00026410"
+  },
+  {
+    "currency": "DTC",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "DTE",
+    "price": "0.00141841"
+  },
+  {
+    "currency": "DTEM",
+    "price": "0.00005547"
+  },
+  {
+    "currency": "DTR",
+    "price": "0.01203935"
+  },
+  {
+    "currency": "DTX",
+    "price": "0.04595177"
+  },
+  {
+    "currency": "DUDGX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "DUO",
+    "price": "0.00508467"
+  },
+  {
+    "currency": "DUSK",
+    "price": "0.03105407"
+  },
+  {
+    "currency": "DVC",
+    "price": "0.26145220"
+  },
+  {
+    "currency": "DVP",
+    "price": "0.00713265"
+  },
+  {
+    "currency": "DVT",
+    "price": "0.00048078"
+  },
+  {
+    "currency": "DVX",
+    "price": "0.01497880"
+  },
+  {
+    "currency": "DX",
+    "price": "0.00200515"
+  },
+  {
+    "currency": "DXO",
+    "price": "0.01650380"
+  },
+  {
+    "currency": "DXR",
+    "price": "0.57418717"
+  },
+  {
+    "currency": "DXT",
+    "price": "0.00056574"
+  },
+  {
+    "currency": "DXTS",
+    "price": "2.04067821"
+  },
+  {
+    "currency": "DYNMT",
+    "price": "0.20863951"
+  },
+  {
+    "currency": "DYT",
+    "price": "0.01639281"
+  },
+  {
+    "currency": "E01",
+    "price": "0.00020782"
+  },
+  {
+    "currency": "E2C",
+    "price": "0.00242978"
+  },
+  {
+    "currency": "EAC",
+    "price": "0.00005825"
+  },
+  {
+    "currency": "EASTICOIN",
+    "price": "0.01534807"
+  },
+  {
+    "currency": "EASYMINE",
+    "price": "0.00034581"
+  },
+  {
+    "currency": "EBASE",
+    "price": "1.12927477"
+  },
+  {
+    "currency": "EBAYCX",
+    "price": "52.76000000"
+  },
+  {
+    "currency": "EBC",
+    "price": "0.00008322"
+  },
+  {
+    "currency": "EBK",
+    "price": "0.00251085"
+  },
+  {
+    "currency": "EBSP",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "ECA",
+    "price": "0.00023922"
+  },
+  {
+    "currency": "ECASH",
+    "price": "0.00395612"
+  },
+  {
+    "currency": "ECO",
+    "price": "0.00080174"
+  },
+  {
+    "currency": "ECOM",
+    "price": "0.00242462"
+  },
+  {
+    "currency": "ECOREAL",
+    "price": "0.04992500"
+  },
+  {
+    "currency": "ECP",
+    "price": "0.00093475"
+  },
+  {
+    "currency": "ED",
+    "price": "0.00508521"
+  },
+  {
+    "currency": "EDC",
+    "price": "0.00075661"
+  },
+  {
+    "currency": "EDC20",
+    "price": "0.00255803"
+  },
+  {
+    "currency": "EDEL",
+    "price": "0.66894581"
+  },
+  {
+    "currency": "EDG",
+    "price": "0.00632778"
+  },
+  {
+    "currency": "EDI",
+    "price": "0.00838584"
+  },
+  {
+    "currency": "EDN",
+    "price": "0.00144131"
+  },
+  {
+    "currency": "EDO",
+    "price": "0.65973310"
+  },
+  {
+    "currency": "EDR",
+    "price": "0.00446052"
+  },
+  {
+    "currency": "EDU",
+    "price": "0.00011790"
+  },
+  {
+    "currency": "EER",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "EFH",
+    "price": "0.06765845"
+  },
+  {
+    "currency": "EGCC",
+    "price": "0.00010189"
+  },
+  {
+    "currency": "EGEM",
+    "price": "0.00365210"
+  },
+  {
+    "currency": "EGR",
+    "price": "0.00108762"
+  },
+  {
+    "currency": "EGT",
+    "price": "0.00118165"
+  },
+  {
+    "currency": "EGWCAP",
+    "price": "0.00020782"
+  },
+  {
+    "currency": "EGY",
+    "price": "0.00015240"
+  },
+  {
+    "currency": "EKO",
+    "price": "0.00143519"
+  },
+  {
+    "currency": "EKT",
+    "price": "0.00737196"
+  },
+  {
+    "currency": "ELA",
+    "price": "1.38724625"
+  },
+  {
+    "currency": "ELAC",
+    "price": "0.00515936"
+  },
+  {
+    "currency": "ELD",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "ELEC",
+    "price": "0.00060836"
+  },
+  {
+    "currency": "ELF",
+    "price": "0.08963018"
+  },
+  {
+    "currency": "ELICOIN",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "ELITE",
+    "price": "0.00628716"
+  },
+  {
+    "currency": "ELPH",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "ELT",
+    "price": "0.00462291"
+  },
+  {
+    "currency": "ELTCOIN",
+    "price": "0.00020090"
+  },
+  {
+    "currency": "ELY",
+    "price": "0.00075801"
+  },
+  {
+    "currency": "EMANATE",
+    "price": "0.00842632"
+  },
+  {
+    "currency": "EMC2",
+    "price": "0.04859803"
+  },
+  {
+    "currency": "EMD",
+    "price": "0.00521465"
+  },
+  {
+    "currency": "EMRALS",
+    "price": "0.01552393"
+  },
+  {
+    "currency": "EMRX",
+    "price": "0.41291869"
+  },
+  {
+    "currency": "EMS",
+    "price": "1.53941452"
+  },
+  {
+    "currency": "ENCRYPTOTELETH2",
+    "price": "0.00379079"
+  },
+  {
+    "currency": "ENDORSIT",
+    "price": "0.00000277"
+  },
+  {
+    "currency": "ENG",
+    "price": "0.24513888"
+  },
+  {
+    "currency": "ENJ",
+    "price": "0.17221029"
+  },
+  {
+    "currency": "ENQ",
+    "price": "0.00748915"
+  },
+  {
+    "currency": "ENT",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "ENTRC",
+    "price": "0.00332850"
+  },
+  {
+    "currency": "ENTS",
+    "price": "0.00000088"
+  },
+  {
+    "currency": "ENY",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "EOS",
+    "price": "2.39458026"
+  },
+  {
+    "currency": "EOSBEAR",
+    "price": "10.54000000"
+  },
+  {
+    "currency": "EOSBULL",
+    "price": "2.47000000"
+  },
+  {
+    "currency": "EOSDAC",
+    "price": "0.00128346"
+  },
+  {
+    "currency": "EOSDT",
+    "price": "0.99637649"
+  },
+  {
+    "currency": "EPAMCX",
+    "price": "253.47000000"
+  },
+  {
+    "currency": "EPIC",
+    "price": "0.05061258"
+  },
+  {
+    "currency": "EQUAD",
+    "price": "0.00029501"
+  },
+  {
+    "currency": "ERC20",
+    "price": "0.04920132"
+  },
+  {
+    "currency": "ERD",
+    "price": "0.00619704"
+  },
+  {
+    "currency": "ERISTICA",
+    "price": "0.00240411"
+  },
+  {
+    "currency": "ERK",
+    "price": "0.00668590"
+  },
+  {
+    "currency": "ERO",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "ERT",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "ESBC",
+    "price": "0.01943501"
+  },
+  {
+    "currency": "ESCX",
+    "price": "0.00013855"
+  },
+  {
+    "currency": "ESH",
+    "price": "0.09507835"
+  },
+  {
+    "currency": "ESK",
+    "price": "0.01137237"
+  },
+  {
+    "currency": "ESN",
+    "price": "0.00156685"
+  },
+  {
+    "currency": "ESP",
+    "price": "0.00002078"
+  },
+  {
+    "currency": "ESR",
+    "price": "0.01312908"
+  },
+  {
+    "currency": "ESS",
+    "price": "0.00047526"
+  },
+  {
+    "currency": "ESZ",
+    "price": "0.04736554"
+  },
+  {
+    "currency": "ETC",
+    "price": "5.75837025"
+  },
+  {
+    "currency": "ETCBEAR",
+    "price": "25.91000000"
+  },
+  {
+    "currency": "ETCBULL",
+    "price": "80.27500000"
+  },
+  {
+    "currency": "ETCR",
+    "price": "0.00002771"
+  },
+  {
+    "currency": "ETF",
+    "price": "0.04874641"
+  },
+  {
+    "currency": "ETGP",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "ETH",
+    "price": "230.41413099"
+  },
+  {
+    "currency": "ETH10K",
+    "price": "142.58000000"
+  },
+  {
+    "currency": "ETH12EMACO",
+    "price": "231.64000000"
+  },
+  {
+    "currency": "ETH20SMACO",
+    "price": "414.52000000"
+  },
+  {
+    "currency": "ETH26EMACO",
+    "price": "261.74000000"
+  },
+  {
+    "currency": "ETHBEAR",
+    "price": "0.90675000"
+  },
+  {
+    "currency": "ETHBNT",
+    "price": "0.64488657"
+  },
+  {
+    "currency": "ETHBTC7525",
+    "price": "144.18000000"
+  },
+  {
+    "currency": "ETHBULL",
+    "price": "222.00000000"
+  },
+  {
+    "currency": "ETHDAIS",
+    "price": "103.52000000"
+  },
+  {
+    "currency": "ETHEMAAPY",
+    "price": "257.18000000"
+  },
+  {
+    "currency": "ETHHEDGE",
+    "price": "998.30000000"
+  },
+  {
+    "currency": "ETHM",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "ETHMACOAPY",
+    "price": "370.42000000"
+  },
+  {
+    "currency": "ETHO",
+    "price": "0.00298655"
+  },
+  {
+    "currency": "ETHOS",
+    "price": "0.05057205"
+  },
+  {
+    "currency": "ETHP",
+    "price": "0.97079018"
+  },
+  {
+    "currency": "ETHPA",
+    "price": "169.78000000"
+  },
+  {
+    "currency": "ETHRSI6040",
+    "price": "253.55000000"
+  },
+  {
+    "currency": "ETHRSIAPY",
+    "price": "252.82000000"
+  },
+  {
+    "currency": "ETI",
+    "price": "0.00005640"
+  },
+  {
+    "currency": "ETK",
+    "price": "0.00007674"
+  },
+  {
+    "currency": "ETN",
+    "price": "0.00632201"
+  },
+  {
+    "currency": "ETO",
+    "price": "0.04206846"
+  },
+  {
+    "currency": "ETP",
+    "price": "0.10175441"
+  },
+  {
+    "currency": "ETT",
+    "price": "0.00397571"
+  },
+  {
+    "currency": "ETX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "ETZ",
+    "price": "0.00602552"
+  },
+  {
+    "currency": "EU50CX",
+    "price": "3726.33071185"
+  },
+  {
+    "currency": "EUBC",
+    "price": "0.00074124"
+  },
+  {
+    "currency": "EUM",
+    "price": "0.91432137"
+  },
+  {
+    "currency": "EUNO",
+    "price": "0.02034082"
+  },
+  {
+    "currency": "EURS",
+    "price": "1.13091934"
+  },
+  {
+    "currency": "EVC",
+    "price": "0.00565859"
+  },
+  {
+    "currency": "EVE",
+    "price": "0.00226320"
+  },
+  {
+    "currency": "EVED",
+    "price": "0.02092890"
+  },
+  {
+    "currency": "EVENCOIN",
+    "price": "0.00479378"
+  },
+  {
+    "currency": "EVI",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "EVN",
+    "price": "0.00476570"
+  },
+  {
+    "currency": "EVOS",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "EVX",
+    "price": "0.21543828"
+  },
+  {
+    "currency": "EVY",
+    "price": "0.00064769"
+  },
+  {
+    "currency": "EVZ",
+    "price": "0.00179746"
+  },
+  {
+    "currency": "EWT",
+    "price": "6.42889515"
+  },
+  {
+    "currency": "EXBT",
+    "price": "0.00000127"
+  },
+  {
+    "currency": "EXCC",
+    "price": "0.00166425"
+  },
+  {
+    "currency": "EXCL",
+    "price": "0.04650652"
+  },
+  {
+    "currency": "EXCOINCIAL",
+    "price": "0.64290308"
+  },
+  {
+    "currency": "EXE",
+    "price": "0.10397787"
+  },
+  {
+    "currency": "EXMOCOIN",
+    "price": "0.00259068"
+  },
+  {
+    "currency": "EXO",
+    "price": "0.11364663"
+  },
+  {
+    "currency": "EXOR",
+    "price": "0.00323604"
+  },
+  {
+    "currency": "EXP",
+    "price": "0.02531325"
+  },
+  {
+    "currency": "EXPO",
+    "price": "0.00000789"
+  },
+  {
+    "currency": "EXRN",
+    "price": "0.00000877"
+  },
+  {
+    "currency": "EXRT",
+    "price": "0.00176496"
+  },
+  {
+    "currency": "EXY",
+    "price": "0.02875453"
+  },
+  {
+    "currency": "EZY",
+    "price": "0.00073888"
+  },
+  {
+    "currency": "F1C",
+    "price": "0.00047107"
+  },
+  {
+    "currency": "FAB",
+    "price": "0.00791469"
+  },
+  {
+    "currency": "FACE",
+    "price": "0.00115190"
+  },
+  {
+    "currency": "FAIRGAME",
+    "price": "0.00217359"
+  },
+  {
+    "currency": "FAT",
+    "price": "0.01331617"
+  },
+  {
+    "currency": "FBCX",
+    "price": "239.79000000"
+  },
+  {
+    "currency": "FBEE",
+    "price": "0.00000037"
+  },
+  {
+    "currency": "FBN",
+    "price": "0.00003035"
+  },
+  {
+    "currency": "FCH",
+    "price": "0.13036618"
+  },
+  {
+    "currency": "FCL",
+    "price": "0.00000016"
+  },
+  {
+    "currency": "FCT",
+    "price": "1.49967735"
+  },
+  {
+    "currency": "FCX",
+    "price": "5.98000000"
+  },
+  {
+    "currency": "FDN",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "FDR",
+    "price": "0.02801486"
+  },
+  {
+    "currency": "FDS",
+    "price": "0.00009188"
+  },
+  {
+    "currency": "FDT",
+    "price": "0.01035533"
+  },
+  {
+    "currency": "FDXCX",
+    "price": "156.73000000"
+  },
+  {
+    "currency": "FDZ",
+    "price": "0.00042489"
+  },
+  {
+    "currency": "FET",
+    "price": "0.02809147"
+  },
+  {
+    "currency": "FIDEXEXCHANGE",
+    "price": "0.00000025"
+  },
+  {
+    "currency": "FIH",
+    "price": "0.02456619"
+  },
+  {
+    "currency": "FIRE",
+    "price": "0.11215832"
+  },
+  {
+    "currency": "FIT2",
+    "price": "0.00013201"
+  },
+  {
+    "currency": "FIXNETWORK",
+    "price": "0.00038555"
+  },
+  {
+    "currency": "FK",
+    "price": "6.01431885"
+  },
+  {
+    "currency": "FLASH",
+    "price": "0.00343112"
+  },
+  {
+    "currency": "FLC",
+    "price": "2.07797494"
+  },
+  {
+    "currency": "FLETA",
+    "price": "0.01089596"
+  },
+  {
+    "currency": "FLEXETHBTC",
+    "price": "132.65000000"
+  },
+  {
+    "currency": "FLITS",
+    "price": "0.99235475"
+  },
+  {
+    "currency": "FLO",
+    "price": "0.02496209"
+  },
+  {
+    "currency": "FLOT",
+    "price": "0.00320260"
+  },
+  {
+    "currency": "FLP",
+    "price": "0.00698615"
+  },
+  {
+    "currency": "FLS",
+    "price": "1.03398529"
+  },
+  {
+    "currency": "FNB",
+    "price": "0.00257663"
+  },
+  {
+    "currency": "FND",
+    "price": "0.00090288"
+  },
+  {
+    "currency": "FNTB",
+    "price": "0.00122847"
+  },
+  {
+    "currency": "FNX",
+    "price": "0.00257893"
+  },
+  {
+    "currency": "FOAM",
+    "price": "0.01756188"
+  },
+  {
+    "currency": "FOFB",
+    "price": "2.78068286"
+  },
+  {
+    "currency": "FOG",
+    "price": "0.17715007"
+  },
+  {
+    "currency": "FOIN",
+    "price": "0.66956066"
+  },
+  {
+    "currency": "FOPAY",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "FORCEPROTOCOL",
+    "price": "0.03065362"
+  },
+  {
+    "currency": "FORESTPLUS",
+    "price": "0.01763272"
+  },
+  {
+    "currency": "FORTKNOXTER",
+    "price": "0.00192702"
+  },
+  {
+    "currency": "FOTA",
+    "price": "0.00065382"
+  },
+  {
+    "currency": "FOXD",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "FOXT",
+    "price": "0.01090144"
+  },
+  {
+    "currency": "FPCX",
+    "price": "38.27589699"
+  },
+  {
+    "currency": "FPT",
+    "price": "0.00054922"
+  },
+  {
+    "currency": "FR40CX",
+    "price": "5681.75425569"
+  },
+  {
+    "currency": "FREE",
+    "price": "0.00000007"
+  },
+  {
+    "currency": "FRM",
+    "price": "0.03727293"
+  },
+  {
+    "currency": "FSCC",
+    "price": "0.47807834"
+  },
+  {
+    "currency": "FSN",
+    "price": "0.49746031"
+  },
+  {
+    "currency": "FST",
+    "price": "0.66670988"
+  },
+  {
+    "currency": "FT1",
+    "price": "0.00000924"
+  },
+  {
+    "currency": "FTB",
+    "price": "0.00002309"
+  },
+  {
+    "currency": "FTC",
+    "price": "0.00760348"
+  },
+  {
+    "currency": "FTH",
+    "price": "0.00018704"
+  },
+  {
+    "currency": "FTI",
+    "price": "0.00032369"
+  },
+  {
+    "currency": "FTM",
+    "price": "0.00714735"
+  },
+  {
+    "currency": "FTN",
+    "price": "0.01174201"
+  },
+  {
+    "currency": "FTT",
+    "price": "0.00016497"
+  },
+  {
+    "currency": "FTX",
+    "price": "0.02009891"
+  },
+  {
+    "currency": "FTXBIDEN",
+    "price": "0.58200000"
+  },
+  {
+    "currency": "FTXRCX",
+    "price": "19.69000000"
+  },
+  {
+    "currency": "FTXTOKEN",
+    "price": "2.93115309"
+  },
+  {
+    "currency": "FTXTRUMP",
+    "price": "0.40100000"
+  },
+  {
+    "currency": "FUEL",
+    "price": "0.00323604"
+  },
+  {
+    "currency": "FUN",
+    "price": "0.00353571"
+  },
+  {
+    "currency": "FUND",
+    "price": "0.00002312"
+  },
+  {
+    "currency": "FUNTIMECOIN",
+    "price": "0.01127991"
+  },
+  {
+    "currency": "FUZE",
+    "price": "52.55720436"
+  },
+  {
+    "currency": "FXC",
+    "price": "0.00393404"
+  },
+  {
+    "currency": "FXP",
+    "price": "0.00027825"
+  },
+  {
+    "currency": "FXT",
+    "price": "0.00080217"
+  },
+  {
+    "currency": "FXTC",
+    "price": "0.04835287"
+  },
+  {
+    "currency": "FYP",
+    "price": "0.01331399"
+  },
+  {
+    "currency": "FZ",
+    "price": "0.00881127"
+  },
+  {
+    "currency": "FZY",
+    "price": "0.01266678"
+  },
+  {
+    "currency": "FZZ",
+    "price": "0.00152784"
+  },
+  {
+    "currency": "GALI",
+    "price": "0.00131681"
+  },
+  {
+    "currency": "GAME",
+    "price": "0.08487670"
+  },
+  {
+    "currency": "GAMESTARS",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "GARD",
+    "price": "0.00001524"
+  },
+  {
+    "currency": "GARK",
+    "price": "0.01406280"
+  },
+  {
+    "currency": "GAS",
+    "price": "1.78347891"
+  },
+  {
+    "currency": "GASTROADVISOR",
+    "price": "0.00113380"
+  },
+  {
+    "currency": "GAT",
+    "price": "0.00360587"
+  },
+  {
+    "currency": "GB",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "GBT",
+    "price": "0.00006657"
+  },
+  {
+    "currency": "GBX",
+    "price": "0.02878226"
+  },
+  {
+    "currency": "GBYTE",
+    "price": "19.27868998"
+  },
+  {
+    "currency": "GC",
+    "price": "0.05353335"
+  },
+  {
+    "currency": "GCD",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "GCG",
+    "price": "0.00027607"
+  },
+  {
+    "currency": "GCH",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "GCR",
+    "price": "0.00046000"
+  },
+  {
+    "currency": "GCZ",
+    "price": "0.00656454"
+  },
+  {
+    "currency": "GDAC",
+    "price": "0.00027752"
+  },
+  {
+    "currency": "GDP",
+    "price": "2.16485572"
+  },
+  {
+    "currency": "GECX",
+    "price": "6.78000000"
+  },
+  {
+    "currency": "GEN",
+    "price": "0.10141187"
+  },
+  {
+    "currency": "GENIX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "GENT",
+    "price": "0.00000046"
+  },
+  {
+    "currency": "GENX",
+    "price": "0.00003464"
+  },
+  {
+    "currency": "GEO",
+    "price": "0.24769574"
+  },
+  {
+    "currency": "GET",
+    "price": "0.00365021"
+  },
+  {
+    "currency": "GEX",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "GFNCASH",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "GFUN",
+    "price": "0.00635063"
+  },
+  {
+    "currency": "GGC",
+    "price": "40.65612604"
+  },
+  {
+    "currency": "GHOST",
+    "price": "1.52229674"
+  },
+  {
+    "currency": "GIC",
+    "price": "0.02472592"
+  },
+  {
+    "currency": "GIG",
+    "price": "0.00581832"
+  },
+  {
+    "currency": "GILDCX",
+    "price": "75.95000000"
+  },
+  {
+    "currency": "GIO",
+    "price": "0.00032354"
+  },
+  {
+    "currency": "GJCO",
+    "price": "0.00397571"
+  },
+  {
+    "currency": "GLDX",
+    "price": "0.08090100"
+  },
+  {
+    "currency": "GLEEC",
+    "price": "0.10394492"
+  },
+  {
+    "currency": "GLEX",
+    "price": "0.00059576"
+  },
+  {
+    "currency": "GLOB",
+    "price": "15.28892819"
+  },
+  {
+    "currency": "GLT",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "GMAC",
+    "price": "7.02957590"
+  },
+  {
+    "currency": "GMAT",
+    "price": "0.00074267"
+  },
+  {
+    "currency": "GMB",
+    "price": "0.00011125"
+  },
+  {
+    "currency": "GMCI",
+    "price": "0.00000741"
+  },
+  {
+    "currency": "GMECX",
+    "price": "4.41000000"
+  },
+  {
+    "currency": "GMR",
+    "price": "0.00517766"
+  },
+  {
+    "currency": "GNO",
+    "price": "26.43332475"
+  },
+  {
+    "currency": "GNT",
+    "price": "0.05220080"
+  },
+  {
+    "currency": "GNX",
+    "price": "0.01154852"
+  },
+  {
+    "currency": "GNY",
+    "price": "0.07387417"
+  },
+  {
+    "currency": "GO",
+    "price": "0.01084802"
+  },
+  {
+    "currency": "GOAT",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "GOB",
+    "price": "0.01608774"
+  },
+  {
+    "currency": "GOLD",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "GOLDCX",
+    "price": "1765.96000000"
+  },
+  {
+    "currency": "GOM2",
+    "price": "0.00949574"
+  },
+  {
+    "currency": "GON",
+    "price": "0.00256317"
+  },
+  {
+    "currency": "GOOC",
+    "price": "0.00028662"
+  },
+  {
+    "currency": "GOOGLCX",
+    "price": "1450.08000000"
+  },
+  {
+    "currency": "GOS",
+    "price": "0.28880692"
+  },
+  {
+    "currency": "GOSS",
+    "price": "0.00178651"
+  },
+  {
+    "currency": "GOT",
+    "price": "0.04280248"
+  },
+  {
+    "currency": "GOXT",
+    "price": "0.00730420"
+  },
+  {
+    "currency": "GPKR",
+    "price": "0.00284851"
+  },
+  {
+    "currency": "GPROCX",
+    "price": "4.60000000"
+  },
+  {
+    "currency": "GPS",
+    "price": "0.01664249"
+  },
+  {
+    "currency": "GPSCX",
+    "price": "12.64000000"
+  },
+  {
+    "currency": "GQC",
+    "price": "0.00180201"
+  },
+  {
+    "currency": "GR1",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "GREED2",
+    "price": "139.29000000"
+  },
+  {
+    "currency": "GRFT",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "GRIN",
+    "price": "0.43720362"
+  },
+  {
+    "currency": "GRLC",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "GRN",
+    "price": "0.00171972"
+  },
+  {
+    "currency": "GRS",
+    "price": "0.18414575"
+  },
+  {
+    "currency": "GRT",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "GRT2",
+    "price": "6.47207981"
+  },
+  {
+    "currency": "GRUBCX",
+    "price": "69.17000000"
+  },
+  {
+    "currency": "GSC",
+    "price": "0.00552388"
+  },
+  {
+    "currency": "GT",
+    "price": "0.50408780"
+  },
+  {
+    "currency": "GTC",
+    "price": "0.01332012"
+  },
+  {
+    "currency": "GTCX",
+    "price": "8.65000000"
+  },
+  {
+    "currency": "GTM",
+    "price": "0.01645757"
+  },
+  {
+    "currency": "GTN",
+    "price": "0.37673948"
+  },
+  {
+    "currency": "GTO",
+    "price": "0.01126183"
+  },
+  {
+    "currency": "GTX",
+    "price": "0.50307000"
+  },
+  {
+    "currency": "GUAP",
+    "price": "0.04761602"
+  },
+  {
+    "currency": "GUSD",
+    "price": "1.00008066"
+  },
+  {
+    "currency": "GUSS",
+    "price": "0.00009311"
+  },
+  {
+    "currency": "GUTS",
+    "price": "0.36761862"
+  },
+  {
+    "currency": "GVC",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "GVE",
+    "price": "0.00019601"
+  },
+  {
+    "currency": "GVT",
+    "price": "1.13918960"
+  },
+  {
+    "currency": "GWP",
+    "price": "0.02066689"
+  },
+  {
+    "currency": "GXC",
+    "price": "0.50768424"
+  },
+  {
+    "currency": "GXE",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "GXT",
+    "price": "0.09301303"
+  },
+  {
+    "currency": "GXX",
+    "price": "0.01578888"
+  },
+  {
+    "currency": "GZE",
+    "price": "0.00915337"
+  },
+  {
+    "currency": "HAND",
+    "price": "0.00000023"
+  },
+  {
+    "currency": "HAPPY",
+    "price": "0.00499275"
+  },
+  {
+    "currency": "HAPY",
+    "price": "0.00983703"
+  },
+  {
+    "currency": "HARMONY",
+    "price": "0.00471537"
+  },
+  {
+    "currency": "HASH2",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "HATCH",
+    "price": "0.00166425"
+  },
+  {
+    "currency": "HBAR",
+    "price": "0.03855469"
+  },
+  {
+    "currency": "HBC",
+    "price": "3.28504280"
+  },
+  {
+    "currency": "HBD",
+    "price": "0.98005780"
+  },
+  {
+    "currency": "HBT",
+    "price": "0.10049539"
+  },
+  {
+    "currency": "HC",
+    "price": "1.10306058"
+  },
+  {
+    "currency": "HCA",
+    "price": "0.17234224"
+  },
+  {
+    "currency": "HDAC",
+    "price": "0.02396313"
+  },
+  {
+    "currency": "HDD",
+    "price": "0.00001790"
+  },
+  {
+    "currency": "HDI",
+    "price": "26.77892046"
+  },
+  {
+    "currency": "HDN",
+    "price": "0.00018485"
+  },
+  {
+    "currency": "HDS",
+    "price": "0.00000672"
+  },
+  {
+    "currency": "HELP",
+    "price": "0.00267366"
+  },
+  {
+    "currency": "HELPICO",
+    "price": "0.15978624"
+  },
+  {
+    "currency": "HER",
+    "price": "0.00004639"
+  },
+  {
+    "currency": "HERB",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "HERC",
+    "price": "0.00352229"
+  },
+  {
+    "currency": "HEX2",
+    "price": "0.00338928"
+  },
+  {
+    "currency": "HG",
+    "price": "0.00032454"
+  },
+  {
+    "currency": "HGT",
+    "price": "0.00073786"
+  },
+  {
+    "currency": "HIBS",
+    "price": "0.00059582"
+  },
+  {
+    "currency": "HILK",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "HIT",
+    "price": "0.00008780"
+  },
+  {
+    "currency": "HIVE",
+    "price": "0.00134624"
+  },
+  {
+    "currency": "HKN",
+    "price": "0.20011200"
+  },
+  {
+    "currency": "HLIX",
+    "price": "0.01220449"
+  },
+  {
+    "currency": "HLS",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "HMQ",
+    "price": "0.00430312"
+  },
+  {
+    "currency": "HMR",
+    "price": "0.43594797"
+  },
+  {
+    "currency": "HNC",
+    "price": "0.31932720"
+  },
+  {
+    "currency": "HNDC",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "HNI",
+    "price": "0.00001616"
+  },
+  {
+    "currency": "HNS",
+    "price": "0.08065318"
+  },
+  {
+    "currency": "HNST",
+    "price": "0.00573241"
+  },
+  {
+    "currency": "HNT",
+    "price": "0.10298761"
+  },
+  {
+    "currency": "HODL",
+    "price": "0.00005080"
+  },
+  {
+    "currency": "HOLD",
+    "price": "0.00004849"
+  },
+  {
+    "currency": "HOMI",
+    "price": "9.58303234"
+  },
+  {
+    "currency": "HOR",
+    "price": "0.00011777"
+  },
+  {
+    "currency": "HOSP",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "HOT",
+    "price": "0.00059503"
+  },
+  {
+    "currency": "HOTOKEN",
+    "price": "0.00175671"
+  },
+  {
+    "currency": "HP",
+    "price": "0.55013788"
+  },
+  {
+    "currency": "HPB",
+    "price": "0.09903986"
+  },
+  {
+    "currency": "HPOT",
+    "price": "0.00024155"
+  },
+  {
+    "currency": "HPT",
+    "price": "0.00542067"
+  },
+  {
+    "currency": "HQT",
+    "price": "0.00037639"
+  },
+  {
+    "currency": "HQX",
+    "price": "0.00189351"
+  },
+  {
+    "currency": "HRD",
+    "price": "0.03546999"
+  },
+  {
+    "currency": "HRS",
+    "price": "0.00004156"
+  },
+  {
+    "currency": "HRT",
+    "price": "0.01065159"
+  },
+  {
+    "currency": "HSC",
+    "price": "0.00002309"
+  },
+  {
+    "currency": "HSN",
+    "price": "0.00000042"
+  },
+  {
+    "currency": "HT",
+    "price": "4.12513607"
+  },
+  {
+    "currency": "HTB",
+    "price": "0.00205183"
+  },
+  {
+    "currency": "HTBULL",
+    "price": "280.90000000"
+  },
+  {
+    "currency": "HTL",
+    "price": "0.80152086"
+  },
+  {
+    "currency": "HTML",
+    "price": "0.00006383"
+  },
+  {
+    "currency": "HUBBS",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "HUM",
+    "price": "0.05509071"
+  },
+  {
+    "currency": "HUNT",
+    "price": "0.00286621"
+  },
+  {
+    "currency": "HUSD",
+    "price": "1.00185228"
+  },
+  {
+    "currency": "HUSH",
+    "price": "0.07516072"
+  },
+  {
+    "currency": "HUSL",
+    "price": "0.00036791"
+  },
+  {
+    "currency": "HVN",
+    "price": "0.00669441"
+  },
+  {
+    "currency": "HWC",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "HWI",
+    "price": "0.09541695"
+  },
+  {
+    "currency": "HYC",
+    "price": "0.00372283"
+  },
+  {
+    "currency": "HYDRO",
+    "price": "0.00024512"
+  },
+  {
+    "currency": "HYN",
+    "price": "0.51606228"
+  },
+  {
+    "currency": "HYP",
+    "price": "0.00044389"
+  },
+  {
+    "currency": "HYPRO",
+    "price": "0.00591551"
+  },
+  {
+    "currency": "IBMCX",
+    "price": "120.00000000"
+  },
+  {
+    "currency": "IBTC3",
+    "price": "0.00006697"
+  },
+  {
+    "currency": "IBVOL",
+    "price": "5036.50000000"
+  },
+  {
+    "currency": "IC",
+    "price": "0.11566531"
+  },
+  {
+    "currency": "ICC",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "ICH",
+    "price": "4.08390101"
+  },
+  {
+    "currency": "ICNQ",
+    "price": "0.25321484"
+  },
+  {
+    "currency": "ICOC",
+    "price": "5.43008325"
+  },
+  {
+    "currency": "ICOM",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "ICPTCX",
+    "price": "46.27000000"
+  },
+  {
+    "currency": "ICX",
+    "price": "0.31729340"
+  },
+  {
+    "currency": "IDH",
+    "price": "0.00305140"
+  },
+  {
+    "currency": "IDRT",
+    "price": "0.00006925"
+  },
+  {
+    "currency": "IDT",
+    "price": "0.00238081"
+  },
+  {
+    "currency": "IDXM",
+    "price": "173.18715113"
+  },
+  {
+    "currency": "IEOS2",
+    "price": "0.00184917"
+  },
+  {
+    "currency": "IETH2",
+    "price": "0.07783994"
+  },
+  {
+    "currency": "IFC",
+    "price": "0.00000509"
+  },
+  {
+    "currency": "IFV",
+    "price": "0.01081624"
+  },
+  {
+    "currency": "IFX24",
+    "price": "0.01023883"
+  },
+  {
+    "currency": "IGG",
+    "price": "0.00010062"
+  },
+  {
+    "currency": "IGNIS",
+    "price": "0.02298098"
+  },
+  {
+    "currency": "IHF",
+    "price": "0.10538427"
+  },
+  {
+    "currency": "IHT",
+    "price": "0.00082281"
+  },
+  {
+    "currency": "IIC",
+    "price": "0.00017545"
+  },
+  {
+    "currency": "ILC",
+    "price": "0.02657424"
+  },
+  {
+    "currency": "ILK",
+    "price": "0.00180346"
+  },
+  {
+    "currency": "IMBTC",
+    "price": "9287.03353605"
+  },
+  {
+    "currency": "IMG",
+    "price": "0.04688682"
+  },
+  {
+    "currency": "IMGC",
+    "price": "0.00980221"
+  },
+  {
+    "currency": "IMP2",
+    "price": "0.00249637"
+  },
+  {
+    "currency": "IMPL",
+    "price": "0.00647208"
+  },
+  {
+    "currency": "IMT",
+    "price": "0.00004849"
+  },
+  {
+    "currency": "INB",
+    "price": "0.45202855"
+  },
+  {
+    "currency": "INCOGNITO",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "IND",
+    "price": "0.00508016"
+  },
+  {
+    "currency": "INF",
+    "price": "0.02771736"
+  },
+  {
+    "currency": "INFLUENCECHAIN",
+    "price": "0.00003464"
+  },
+  {
+    "currency": "INFO",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "INFT",
+    "price": "0.00039705"
+  },
+  {
+    "currency": "INK",
+    "price": "0.00586065"
+  },
+  {
+    "currency": "INN",
+    "price": "0.02459390"
+  },
+  {
+    "currency": "INNBC",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "INNBCL",
+    "price": "0.00032328"
+  },
+  {
+    "currency": "INS",
+    "price": "0.14109134"
+  },
+  {
+    "currency": "INSN",
+    "price": "0.00413894"
+  },
+  {
+    "currency": "INSTAR",
+    "price": "0.01719724"
+  },
+  {
+    "currency": "INT",
+    "price": "0.01131352"
+  },
+  {
+    "currency": "INTCCX",
+    "price": "59.21000000"
+  },
+  {
+    "currency": "INVE",
+    "price": "0.00058191"
+  },
+  {
+    "currency": "INXT",
+    "price": "0.98122864"
+  },
+  {
+    "currency": "IOC",
+    "price": "0.06305655"
+  },
+  {
+    "currency": "ION",
+    "price": "0.01691987"
+  },
+  {
+    "currency": "IONC",
+    "price": "0.05297952"
+  },
+  {
+    "currency": "IOP",
+    "price": "0.00813633"
+  },
+  {
+    "currency": "IOST",
+    "price": "0.00570331"
+  },
+  {
+    "currency": "IOT",
+    "price": "0.23400094"
+  },
+  {
+    "currency": "IOTX",
+    "price": "0.00510854"
+  },
+  {
+    "currency": "IOUX",
+    "price": "0.01264210"
+  },
+  {
+    "currency": "IPL",
+    "price": "0.00120288"
+  },
+  {
+    "currency": "IPS",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "IPX",
+    "price": "0.07384315"
+  },
+  {
+    "currency": "IQ",
+    "price": "0.00168130"
+  },
+  {
+    "currency": "IQCASH",
+    "price": "0.02592373"
+  },
+  {
+    "currency": "IRBTCX",
+    "price": "84.64000000"
+  },
+  {
+    "currency": "IRD",
+    "price": "0.00260077"
+  },
+  {
+    "currency": "IRIS",
+    "price": "0.02183334"
+  },
+  {
+    "currency": "ISR",
+    "price": "0.00291612"
+  },
+  {
+    "currency": "IST",
+    "price": "0.00184917"
+  },
+  {
+    "currency": "IT40CX",
+    "price": "21780.80804671"
+  },
+  {
+    "currency": "ITAM",
+    "price": "0.00471537"
+  },
+  {
+    "currency": "ITC",
+    "price": "0.10838147"
+  },
+  {
+    "currency": "ITI",
+    "price": "1.12392289"
+  },
+  {
+    "currency": "ITO",
+    "price": "10.16015201"
+  },
+  {
+    "currency": "ITT",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "IWAY",
+    "price": "0.00000189"
+  },
+  {
+    "currency": "IX",
+    "price": "0.00002577"
+  },
+  {
+    "currency": "JACK",
+    "price": "0.06120434"
+  },
+  {
+    "currency": "JAN",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "JAR",
+    "price": "0.00375859"
+  },
+  {
+    "currency": "JCT",
+    "price": "0.00609567"
+  },
+  {
+    "currency": "JDC",
+    "price": "0.11529201"
+  },
+  {
+    "currency": "JET",
+    "price": "0.02952167"
+  },
+  {
+    "currency": "JIC",
+    "price": "0.00003233"
+  },
+  {
+    "currency": "JKSCX",
+    "price": "18.14000000"
+  },
+  {
+    "currency": "JMC",
+    "price": "0.00000065"
+  },
+  {
+    "currency": "JNB",
+    "price": "93.90516268"
+  },
+  {
+    "currency": "JNT",
+    "price": "0.02196058"
+  },
+  {
+    "currency": "JOB",
+    "price": "0.00007859"
+  },
+  {
+    "currency": "JOINT",
+    "price": "0.00117767"
+  },
+  {
+    "currency": "JOOS",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "JOY",
+    "price": "0.01062215"
+  },
+  {
+    "currency": "JOYS",
+    "price": "0.00943074"
+  },
+  {
+    "currency": "JPMCX",
+    "price": "94.93000000"
+  },
+  {
+    "currency": "JPX",
+    "price": "81.03950315"
+  },
+  {
+    "currency": "JRT",
+    "price": "0.11801401"
+  },
+  {
+    "currency": "JS",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "JT",
+    "price": "0.00002078"
+  },
+  {
+    "currency": "JUL",
+    "price": "0.03709151"
+  },
+  {
+    "currency": "JUMP",
+    "price": "0.00443800"
+  },
+  {
+    "currency": "JUP",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "JWL",
+    "price": "0.30345981"
+  },
+  {
+    "currency": "JWNCX",
+    "price": "15.70000000"
+  },
+  {
+    "currency": "KAASO",
+    "price": "0.00024708"
+  },
+  {
+    "currency": "KAI2",
+    "price": "0.00298415"
+  },
+  {
+    "currency": "KALA",
+    "price": "0.00058251"
+  },
+  {
+    "currency": "KALI",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "KAN",
+    "price": "0.00308743"
+  },
+  {
+    "currency": "KAT",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "KAVA",
+    "price": "1.18743012"
+  },
+  {
+    "currency": "KBC",
+    "price": "0.00380343"
+  },
+  {
+    "currency": "KBOT",
+    "price": "0.05519759"
+  },
+  {
+    "currency": "KCASH",
+    "price": "0.01475522"
+  },
+  {
+    "currency": "KCS",
+    "price": "0.88927250"
+  },
+  {
+    "currency": "KDA",
+    "price": "0.26886869"
+  },
+  {
+    "currency": "KEC",
+    "price": "0.01590282"
+  },
+  {
+    "currency": "KED",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "KEK",
+    "price": "0.02570340"
+  },
+  {
+    "currency": "KEMA",
+    "price": "0.00025573"
+  },
+  {
+    "currency": "KEY",
+    "price": "0.00114327"
+  },
+  {
+    "currency": "KEY2",
+    "price": "0.00080128"
+  },
+  {
+    "currency": "KGT",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "KICK",
+    "price": "0.00001516"
+  },
+  {
+    "currency": "KIN",
+    "price": "0.00000703"
+  },
+  {
+    "currency": "KIND",
+    "price": "0.00104341"
+  },
+  {
+    "currency": "KIZ",
+    "price": "0.00000277"
+  },
+  {
+    "currency": "KK",
+    "price": "0.00024477"
+  },
+  {
+    "currency": "KLKS",
+    "price": "0.00397571"
+  },
+  {
+    "currency": "KMD",
+    "price": "0.62196971"
+  },
+  {
+    "currency": "KMW",
+    "price": "0.00009243"
+  },
+  {
+    "currency": "KNC",
+    "price": "1.51158599"
+  },
+  {
+    "currency": "KNOW",
+    "price": "0.00151902"
+  },
+  {
+    "currency": "KNT",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "KOCX",
+    "price": "44.94000000"
+  },
+  {
+    "currency": "KOD",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "KOLIN",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "KOP",
+    "price": "0.00004156"
+  },
+  {
+    "currency": "KORE",
+    "price": "0.01157578"
+  },
+  {
+    "currency": "KORIS",
+    "price": "0.01864028"
+  },
+  {
+    "currency": "KOTO",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "KOUMEI",
+    "price": "0.00013314"
+  },
+  {
+    "currency": "KRB",
+    "price": "0.05070375"
+  },
+  {
+    "currency": "KREDS",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "KRL",
+    "price": "0.11033335"
+  },
+  {
+    "currency": "KRT",
+    "price": "0.00082620"
+  },
+  {
+    "currency": "KSC",
+    "price": "0.01529501"
+  },
+  {
+    "currency": "KSH",
+    "price": "0.01539150"
+  },
+  {
+    "currency": "KT",
+    "price": "0.14085889"
+  },
+  {
+    "currency": "KTETH",
+    "price": "0.05325597"
+  },
+  {
+    "currency": "KTS",
+    "price": "0.08165772"
+  },
+  {
+    "currency": "KUBO",
+    "price": "0.00000838"
+  },
+  {
+    "currency": "KUKY",
+    "price": "0.00277375"
+  },
+  {
+    "currency": "KVI",
+    "price": "0.00484730"
+  },
+  {
+    "currency": "KWH",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "KXC",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "KYD2",
+    "price": "0.00453046"
+  },
+  {
+    "currency": "KZC",
+    "price": "0.04826322"
+  },
+  {
+    "currency": "KZE",
+    "price": "0.12700392"
+  },
+  {
+    "currency": "LA",
+    "price": "0.02297625"
+  },
+  {
+    "currency": "LABX",
+    "price": "0.04012689"
+  },
+  {
+    "currency": "LAMB",
+    "price": "0.01760503"
+  },
+  {
+    "currency": "LAMBO",
+    "price": "0.00000006"
+  },
+  {
+    "currency": "LANA",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "LBA",
+    "price": "0.01193539"
+  },
+  {
+    "currency": "LBC",
+    "price": "0.03125090"
+  },
+  {
+    "currency": "LBTC",
+    "price": "1.29619021"
+  },
+  {
+    "currency": "LC",
+    "price": "0.00008784"
+  },
+  {
+    "currency": "LCC",
+    "price": "0.00397513"
+  },
+  {
+    "currency": "LCP",
+    "price": "0.04309212"
+  },
+  {
+    "currency": "LCS",
+    "price": "0.00600979"
+  },
+  {
+    "currency": "LCX",
+    "price": "0.00964156"
+  },
+  {
+    "currency": "LDCN",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "LEAF",
+    "price": "0.00000237"
+  },
+  {
+    "currency": "LEDU",
+    "price": "0.00507973"
+  },
+  {
+    "currency": "LEGA",
+    "price": "123.98000000"
+  },
+  {
+    "currency": "LELOAP",
+    "price": "142.13000000"
+  },
+  {
+    "currency": "LEMO",
+    "price": "0.00315414"
+  },
+  {
+    "currency": "LEND",
+    "price": "0.15455712"
+  },
+  {
+    "currency": "LEOBEAR",
+    "price": "12515.00000000"
+  },
+  {
+    "currency": "LEOBULL",
+    "price": "412.70000000"
+  },
+  {
+    "currency": "LEOTOKEN",
+    "price": "1.24336387"
+  },
+  {
+    "currency": "LET",
+    "price": "0.00456010"
+  },
+  {
+    "currency": "LEVL",
+    "price": "0.13186543"
+  },
+  {
+    "currency": "LGO",
+    "price": "0.00810516"
+  },
+  {
+    "currency": "LHACX",
+    "price": "9.97401019"
+  },
+  {
+    "currency": "LHT",
+    "price": "0.00072207"
+  },
+  {
+    "currency": "LIB",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "LICC",
+    "price": "0.00034951"
+  },
+  {
+    "currency": "LIF",
+    "price": "0.06801927"
+  },
+  {
+    "currency": "LIFE",
+    "price": "0.00000073"
+  },
+  {
+    "currency": "LIKE",
+    "price": "0.00391269"
+  },
+  {
+    "currency": "LILI",
+    "price": "0.00008321"
+  },
+  {
+    "currency": "LINA",
+    "price": "0.02263614"
+  },
+  {
+    "currency": "LINDA",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "LINK",
+    "price": "4.78916185"
+  },
+  {
+    "currency": "LINKA",
+    "price": "0.00508447"
+  },
+  {
+    "currency": "LINKBEAR",
+    "price": "2.91400000"
+  },
+  {
+    "currency": "LINKBULL",
+    "price": "1019.00000000"
+  },
+  {
+    "currency": "LINKETHPA",
+    "price": "197.78000000"
+  },
+  {
+    "currency": "LINKETHRSI",
+    "price": "81.23000000"
+  },
+  {
+    "currency": "LINKPT",
+    "price": "132.29000000"
+  },
+  {
+    "currency": "LINKRSICO",
+    "price": "68.08000000"
+  },
+  {
+    "currency": "LION",
+    "price": "0.00453571"
+  },
+  {
+    "currency": "LIT",
+    "price": "0.05491962"
+  },
+  {
+    "currency": "LITB",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "LITHIUM",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "LIZA",
+    "price": "0.00000054"
+  },
+  {
+    "currency": "LKK",
+    "price": "0.01081010"
+  },
+  {
+    "currency": "LKN",
+    "price": "0.00032559"
+  },
+  {
+    "currency": "LKU",
+    "price": "0.00004161"
+  },
+  {
+    "currency": "LKY",
+    "price": "0.06349685"
+  },
+  {
+    "currency": "LLYCX",
+    "price": "164.01000000"
+  },
+  {
+    "currency": "LMCH",
+    "price": "0.07751527"
+  },
+  {
+    "currency": "LMY",
+    "price": "0.00091418"
+  },
+  {
+    "currency": "LN",
+    "price": "18.61166745"
+  },
+  {
+    "currency": "LNC",
+    "price": "0.00718401"
+  },
+  {
+    "currency": "LND",
+    "price": "0.00056485"
+  },
+  {
+    "currency": "LNKO",
+    "price": "0.00038235"
+  },
+  {
+    "currency": "LOA",
+    "price": "0.03171319"
+  },
+  {
+    "currency": "LOBS",
+    "price": "0.02209753"
+  },
+  {
+    "currency": "LOC",
+    "price": "0.24420398"
+  },
+  {
+    "currency": "LOG",
+    "price": "0.05480296"
+  },
+  {
+    "currency": "LOKI",
+    "price": "0.32044565"
+  },
+  {
+    "currency": "LOL",
+    "price": "0.00035689"
+  },
+  {
+    "currency": "LOOM",
+    "price": "0.01990722"
+  },
+  {
+    "currency": "LOT",
+    "price": "0.00668528"
+  },
+  {
+    "currency": "LOTO",
+    "price": "0.00015662"
+  },
+  {
+    "currency": "LPK",
+    "price": "0.00002891"
+  },
+  {
+    "currency": "LPS",
+    "price": "0.00083216"
+  },
+  {
+    "currency": "LPT",
+    "price": "2.18919947"
+  },
+  {
+    "currency": "LQD",
+    "price": "0.01698666"
+  },
+  {
+    "currency": "LRC",
+    "price": "0.08643146"
+  },
+  {
+    "currency": "LRM",
+    "price": "0.00003264"
+  },
+  {
+    "currency": "LSK",
+    "price": "1.15384813"
+  },
+  {
+    "currency": "LST7",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "LSV",
+    "price": "0.21212680"
+  },
+  {
+    "currency": "LTB",
+    "price": "0.00980058"
+  },
+  {
+    "currency": "LTB2",
+    "price": "0.00009127"
+  },
+  {
+    "currency": "LTC",
+    "price": "41.74728376"
+  },
+  {
+    "currency": "LTCBEAR",
+    "price": "1324.50000000"
+  },
+  {
+    "currency": "LTCBULL",
+    "price": "2.36300000"
+  },
+  {
+    "currency": "LTFN",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "LTH",
+    "price": "0.00006697"
+  },
+  {
+    "currency": "LTHN",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "LTO",
+    "price": "0.05363958"
+  },
+  {
+    "currency": "LUCKYBIT",
+    "price": "0.00005547"
+  },
+  {
+    "currency": "LUD",
+    "price": "0.00015521"
+  },
+  {
+    "currency": "LUN",
+    "price": "1.31499848"
+  },
+  {
+    "currency": "LUNA",
+    "price": "0.21087941"
+  },
+  {
+    "currency": "LUNES",
+    "price": "0.00449544"
+  },
+  {
+    "currency": "LUX",
+    "price": "0.07082304"
+  },
+  {
+    "currency": "LVN",
+    "price": "0.00620000"
+  },
+  {
+    "currency": "LVT",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "LVTC",
+    "price": "0.00013162"
+  },
+  {
+    "currency": "LXT",
+    "price": "0.00215613"
+  },
+  {
+    "currency": "LYFTCX",
+    "price": "32.07000000"
+  },
+  {
+    "currency": "LYM",
+    "price": "0.00282627"
+  },
+  {
+    "currency": "LYRA",
+    "price": "0.03125090"
+  },
+  {
+    "currency": "LYTX",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "LYXE",
+    "price": "0.25149085"
+  },
+  {
+    "currency": "LZE",
+    "price": "0.00030790"
+  },
+  {
+    "currency": "MACCX",
+    "price": "8.68000000"
+  },
+  {
+    "currency": "MACPO",
+    "price": "0.00699010"
+  },
+  {
+    "currency": "MACX",
+    "price": "303.06000000"
+  },
+  {
+    "currency": "MAGICCUBE",
+    "price": "0.00008505"
+  },
+  {
+    "currency": "MAID",
+    "price": "0.09711067"
+  },
+  {
+    "currency": "MALW",
+    "price": "0.27367652"
+  },
+  {
+    "currency": "MAN",
+    "price": "0.01567467"
+  },
+  {
+    "currency": "MANA",
+    "price": "0.03995964"
+  },
+  {
+    "currency": "MANNA",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "MAPC",
+    "price": "0.02311457"
+  },
+  {
+    "currency": "MAPR",
+    "price": "56.40720100"
+  },
+  {
+    "currency": "MAR",
+    "price": "0.00381329"
+  },
+  {
+    "currency": "MARC",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "MARTK",
+    "price": "0.02536659"
+  },
+  {
+    "currency": "MASH",
+    "price": "0.00020321"
+  },
+  {
+    "currency": "MATIC",
+    "price": "0.01918812"
+  },
+  {
+    "currency": "MATICBEAR",
+    "price": "0.21775000"
+  },
+  {
+    "currency": "MATICBULL",
+    "price": "6.33000000"
+  },
+  {
+    "currency": "MATREXCOIN",
+    "price": "0.00591733"
+  },
+  {
+    "currency": "MAXCOIN",
+    "price": "0.00240392"
+  },
+  {
+    "currency": "MAXTOKEN",
+    "price": "0.10868572"
+  },
+  {
+    "currency": "MB",
+    "price": "0.00028162"
+  },
+  {
+    "currency": "MBGL",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "MBL",
+    "price": "0.00180094"
+  },
+  {
+    "currency": "MBS",
+    "price": "0.01470500"
+  },
+  {
+    "currency": "MCASH",
+    "price": "0.00210098"
+  },
+  {
+    "currency": "MCDCX",
+    "price": "185.25000000"
+  },
+  {
+    "currency": "MCH",
+    "price": "0.07580935"
+  },
+  {
+    "currency": "MCHPCX",
+    "price": "104.08000000"
+  },
+  {
+    "currency": "MCM",
+    "price": "0.04714067"
+  },
+  {
+    "currency": "MCN",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "MCO",
+    "price": "4.49398738"
+  },
+  {
+    "currency": "MCPC",
+    "price": "0.00759784"
+  },
+  {
+    "currency": "MCR",
+    "price": "0.02505619"
+  },
+  {
+    "currency": "MCT",
+    "price": "0.00048053"
+  },
+  {
+    "currency": "MCX",
+    "price": "6.57000000"
+  },
+  {
+    "currency": "MDA",
+    "price": "0.42817208"
+  },
+  {
+    "currency": "MDS",
+    "price": "0.00325563"
+  },
+  {
+    "currency": "MDT",
+    "price": "0.00906658"
+  },
+  {
+    "currency": "MDTK",
+    "price": "0.00175661"
+  },
+  {
+    "currency": "ME",
+    "price": "0.02376178"
+  },
+  {
+    "currency": "MED",
+    "price": "0.00403627"
+  },
+  {
+    "currency": "MEDIC",
+    "price": "0.00004157"
+  },
+  {
+    "currency": "MEDICALTOKENCURRENCY",
+    "price": "0.00750700"
+  },
+  {
+    "currency": "MEET",
+    "price": "0.00689541"
+  },
+  {
+    "currency": "MEME",
+    "price": "0.00869108"
+  },
+  {
+    "currency": "MER",
+    "price": "0.00647208"
+  },
+  {
+    "currency": "MERCA",
+    "price": "10.12418199"
+  },
+  {
+    "currency": "MERGE",
+    "price": "0.00600979"
+  },
+  {
+    "currency": "MERI",
+    "price": "0.12467584"
+  },
+  {
+    "currency": "MES",
+    "price": "0.00006927"
+  },
+  {
+    "currency": "MESH",
+    "price": "0.00119694"
+  },
+  {
+    "currency": "META",
+    "price": "0.00702683"
+  },
+  {
+    "currency": "METH",
+    "price": "0.05856875"
+  },
+  {
+    "currency": "METM",
+    "price": "0.00018824"
+  },
+  {
+    "currency": "MEX",
+    "price": "0.00030419"
+  },
+  {
+    "currency": "MEXC",
+    "price": "0.00066892"
+  },
+  {
+    "currency": "MFC",
+    "price": "0.00552030"
+  },
+  {
+    "currency": "MFCK",
+    "price": "162.88000000"
+  },
+  {
+    "currency": "MFG",
+    "price": "0.00971438"
+  },
+  {
+    "currency": "MFSN",
+    "price": "106.08000000"
+  },
+  {
+    "currency": "MFT",
+    "price": "0.00089260"
+  },
+  {
+    "currency": "MGCTOKEN",
+    "price": "0.00164643"
+  },
+  {
+    "currency": "MGMCX",
+    "price": "17.55000000"
+  },
+  {
+    "currency": "MGO",
+    "price": "0.00680505"
+  },
+  {
+    "currency": "MGX",
+    "price": "0.01492412"
+  },
+  {
+    "currency": "MHC",
+    "price": "0.00375971"
+  },
+  {
+    "currency": "MHLX",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "MIAMI",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "MIB",
+    "price": "0.00542013"
+  },
+  {
+    "currency": "MIC3",
+    "price": "0.00000009"
+  },
+  {
+    "currency": "MICRO",
+    "price": "0.00000116"
+  },
+  {
+    "currency": "MICROBTC",
+    "price": "0.00006479"
+  },
+  {
+    "currency": "MIDAS",
+    "price": "0.91943636"
+  },
+  {
+    "currency": "MIDBEAR",
+    "price": "69.50000000"
+  },
+  {
+    "currency": "MIDBULL",
+    "price": "486.30000000"
+  },
+  {
+    "currency": "MIG",
+    "price": "0.00014575"
+  },
+  {
+    "currency": "MIN",
+    "price": "1.81175758"
+  },
+  {
+    "currency": "MINX",
+    "price": "0.15921316"
+  },
+  {
+    "currency": "MIR",
+    "price": "0.00257257"
+  },
+  {
+    "currency": "MITH",
+    "price": "0.00582398"
+  },
+  {
+    "currency": "MITX",
+    "price": "0.00848219"
+  },
+  {
+    "currency": "MIX",
+    "price": "0.00356190"
+  },
+  {
+    "currency": "MJCX",
+    "price": "13.06000000"
+  },
+  {
+    "currency": "MKR",
+    "price": "446.80208025"
+  },
+  {
+    "currency": "MLC",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "MLN",
+    "price": "13.50319718"
+  },
+  {
+    "currency": "MLR",
+    "price": "0.02598038"
+  },
+  {
+    "currency": "MMO",
+    "price": "0.00243685"
+  },
+  {
+    "currency": "MNC",
+    "price": "0.00601226"
+  },
+  {
+    "currency": "MNG",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "MNKCX",
+    "price": "2.56000000"
+  },
+  {
+    "currency": "MNP",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "MNS",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "MOAC",
+    "price": "0.05826247"
+  },
+  {
+    "currency": "MOC",
+    "price": "0.01855707"
+  },
+  {
+    "currency": "MODEX",
+    "price": "0.00318102"
+  },
+  {
+    "currency": "MODL",
+    "price": "0.41964272"
+  },
+  {
+    "currency": "MOF",
+    "price": "0.24046974"
+  },
+  {
+    "currency": "MOG",
+    "price": "0.01099886"
+  },
+  {
+    "currency": "MOGX",
+    "price": "0.03673451"
+  },
+  {
+    "currency": "MOIN",
+    "price": "0.00434554"
+  },
+  {
+    "currency": "MOJO",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "MOLK",
+    "price": "0.00537211"
+  },
+  {
+    "currency": "MON",
+    "price": "0.03162998"
+  },
+  {
+    "currency": "MONA",
+    "price": "1.73521484"
+  },
+  {
+    "currency": "MONEYCASHMINER",
+    "price": "0.00042531"
+  },
+  {
+    "currency": "MONK",
+    "price": "0.01607880"
+  },
+  {
+    "currency": "MOON",
+    "price": "0.00000628"
+  },
+  {
+    "currency": "MORE",
+    "price": "0.01442349"
+  },
+  {
+    "currency": "MOTA",
+    "price": "0.00055479"
+  },
+  {
+    "currency": "MOX",
+    "price": "0.00034210"
+  },
+  {
+    "currency": "MOZOX",
+    "price": "0.00003698"
+  },
+  {
+    "currency": "MPAY",
+    "price": "0.01771300"
+  },
+  {
+    "currency": "MPG",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "MRC",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "MRI",
+    "price": "0.00137919"
+  },
+  {
+    "currency": "MRPH",
+    "price": "0.23347158"
+  },
+  {
+    "currency": "MSCN",
+    "price": "0.00009000"
+  },
+  {
+    "currency": "MSD",
+    "price": "0.00499275"
+  },
+  {
+    "currency": "MSFTCX",
+    "price": "206.43000000"
+  },
+  {
+    "currency": "MSR",
+    "price": "0.01357481"
+  },
+  {
+    "currency": "MT",
+    "price": "0.00101452"
+  },
+  {
+    "currency": "MTCHCX",
+    "price": "101.35000000"
+  },
+  {
+    "currency": "MTCN",
+    "price": "0.00482132"
+  },
+  {
+    "currency": "MTH",
+    "price": "0.00770429"
+  },
+  {
+    "currency": "MTL2",
+    "price": "0.31272067"
+  },
+  {
+    "currency": "MTN",
+    "price": "0.00283654"
+  },
+  {
+    "currency": "MTNS",
+    "price": "0.00011195"
+  },
+  {
+    "currency": "MTV",
+    "price": "0.00031483"
+  },
+  {
+    "currency": "MTX",
+    "price": "0.03285883"
+  },
+  {
+    "currency": "MUCX",
+    "price": "50.59000000"
+  },
+  {
+    "currency": "MUE",
+    "price": "0.00443800"
+  },
+  {
+    "currency": "MUSIC",
+    "price": "0.00008775"
+  },
+  {
+    "currency": "MUSK",
+    "price": "0.00085891"
+  },
+  {
+    "currency": "MVC",
+    "price": "0.00194162"
+  },
+  {
+    "currency": "MVL",
+    "price": "0.00039348"
+  },
+  {
+    "currency": "MVP",
+    "price": "0.00017044"
+  },
+  {
+    "currency": "MVT",
+    "price": "0.00187273"
+  },
+  {
+    "currency": "MWAT",
+    "price": "0.00323419"
+  },
+  {
+    "currency": "MWC",
+    "price": "15.22335043"
+  },
+  {
+    "currency": "MXC",
+    "price": "0.00581102"
+  },
+  {
+    "currency": "MXM",
+    "price": "0.00014779"
+  },
+  {
+    "currency": "MXT",
+    "price": "0.00406816"
+  },
+  {
+    "currency": "MYNT",
+    "price": "0.00002774"
+  },
+  {
+    "currency": "MYO",
+    "price": "0.04996565"
+  },
+  {
+    "currency": "MYST",
+    "price": "0.06931175"
+  },
+  {
+    "currency": "MYTV",
+    "price": "0.00359417"
+  },
+  {
+    "currency": "MYU",
+    "price": "0.06573784"
+  },
+  {
+    "currency": "N8V",
+    "price": "0.09883047"
+  },
+  {
+    "currency": "NAH",
+    "price": "0.00091583"
+  },
+  {
+    "currency": "NANJ",
+    "price": "0.00001155"
+  },
+  {
+    "currency": "NANO",
+    "price": "0.95400524"
+  },
+  {
+    "currency": "NAS",
+    "price": "0.36999647"
+  },
+  {
+    "currency": "NATURALGASCX",
+    "price": "1.71100000"
+  },
+  {
+    "currency": "NAV",
+    "price": "0.12439139"
+  },
+  {
+    "currency": "NAVY",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "NAX",
+    "price": "0.00194478"
+  },
+  {
+    "currency": "NBAI",
+    "price": "0.00031866"
+  },
+  {
+    "currency": "NBC",
+    "price": "0.00678167"
+  },
+  {
+    "currency": "NBOT",
+    "price": "0.03343898"
+  },
+  {
+    "currency": "NBR",
+    "price": "0.00028837"
+  },
+  {
+    "currency": "NCASH",
+    "price": "0.00032492"
+  },
+  {
+    "currency": "NCC",
+    "price": "0.00082362"
+  },
+  {
+    "currency": "NCLHCX",
+    "price": "16.44000000"
+  },
+  {
+    "currency": "NCT",
+    "price": "0.00136968"
+  },
+  {
+    "currency": "NDT",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "NDX",
+    "price": "0.00000109"
+  },
+  {
+    "currency": "NEBL",
+    "price": "0.58758101"
+  },
+  {
+    "currency": "NEC",
+    "price": "0.13152914"
+  },
+  {
+    "currency": "NEECX",
+    "price": "245.97000000"
+  },
+  {
+    "currency": "NEET",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "NEMCX",
+    "price": "59.76000000"
+  },
+  {
+    "currency": "NEO",
+    "price": "10.16292932"
+  },
+  {
+    "currency": "NEST",
+    "price": "0.02374237"
+  },
+  {
+    "currency": "NET2",
+    "price": "0.16929112"
+  },
+  {
+    "currency": "NETCX",
+    "price": "36.68000000"
+  },
+  {
+    "currency": "NEU",
+    "price": "0.13963974"
+  },
+  {
+    "currency": "NEW",
+    "price": "0.00063207"
+  },
+  {
+    "currency": "NEWOS",
+    "price": "0.00039486"
+  },
+  {
+    "currency": "NEX",
+    "price": "0.85775337"
+  },
+  {
+    "currency": "NEXO",
+    "price": "0.22033711"
+  },
+  {
+    "currency": "NEXT",
+    "price": "0.10198149"
+  },
+  {
+    "currency": "NFLXCX",
+    "price": "485.97000000"
+  },
+  {
+    "currency": "NG",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "NGC",
+    "price": "0.03024581"
+  },
+  {
+    "currency": "NGOT",
+    "price": "0.00019397"
+  },
+  {
+    "currency": "NIL",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "NILU",
+    "price": "0.00266522"
+  },
+  {
+    "currency": "NIM",
+    "price": "0.00345633"
+  },
+  {
+    "currency": "NIO2",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "NIX",
+    "price": "0.06672229"
+  },
+  {
+    "currency": "NKA",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "NKC",
+    "price": "0.00555123"
+  },
+  {
+    "currency": "NKECX",
+    "price": "98.21000000"
+  },
+  {
+    "currency": "NKN",
+    "price": "0.02081147"
+  },
+  {
+    "currency": "NL25CX",
+    "price": "636.62650060"
+  },
+  {
+    "currency": "NLC2",
+    "price": "0.00154035"
+  },
+  {
+    "currency": "NLG",
+    "price": "0.00776650"
+  },
+  {
+    "currency": "NMN",
+    "price": "0.00184917"
+  },
+  {
+    "currency": "NMP",
+    "price": "1.39356801"
+  },
+  {
+    "currency": "NMR",
+    "price": "22.44981214"
+  },
+  {
+    "currency": "NMT",
+    "price": "0.00138550"
+  },
+  {
+    "currency": "NNC",
+    "price": "0.00906091"
+  },
+  {
+    "currency": "NOA",
+    "price": "0.09652298"
+  },
+  {
+    "currency": "NOBS",
+    "price": "0.00003464"
+  },
+  {
+    "currency": "NODE",
+    "price": "0.00134434"
+  },
+  {
+    "currency": "NOIANETWORK",
+    "price": "0.01501131"
+  },
+  {
+    "currency": "NOIZ",
+    "price": "0.03735315"
+  },
+  {
+    "currency": "NOKU",
+    "price": "0.03650882"
+  },
+  {
+    "currency": "NOR",
+    "price": "0.01562545"
+  },
+  {
+    "currency": "NOS",
+    "price": "0.01099920"
+  },
+  {
+    "currency": "NOTE",
+    "price": "0.00005909"
+  },
+  {
+    "currency": "NOVACHAIN",
+    "price": "0.00484453"
+  },
+  {
+    "currency": "NOWCX",
+    "price": "410.55000000"
+  },
+  {
+    "currency": "NPCOIN",
+    "price": "0.06287163"
+  },
+  {
+    "currency": "NPW",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "NPX",
+    "price": "0.06604204"
+  },
+  {
+    "currency": "NPXS",
+    "price": "0.00021031"
+  },
+  {
+    "currency": "NPXSXEM",
+    "price": "0.00010890"
+  },
+  {
+    "currency": "NRG",
+    "price": "2.03880394"
+  },
+  {
+    "currency": "NRP",
+    "price": "0.00000175"
+  },
+  {
+    "currency": "NRVE",
+    "price": "0.00026094"
+  },
+  {
+    "currency": "NSD",
+    "price": "0.05694454"
+  },
+  {
+    "currency": "NSG",
+    "price": "0.00406816"
+  },
+  {
+    "currency": "NST",
+    "price": "0.00397571"
+  },
+  {
+    "currency": "NT",
+    "price": "0.01423858"
+  },
+  {
+    "currency": "NTBC",
+    "price": "0.00004618"
+  },
+  {
+    "currency": "NTESCX",
+    "price": "429.84000000"
+  },
+  {
+    "currency": "NTK",
+    "price": "0.00830175"
+  },
+  {
+    "currency": "NTK2",
+    "price": "0.00000953"
+  },
+  {
+    "currency": "NTM",
+    "price": "0.00000051"
+  },
+  {
+    "currency": "NUG",
+    "price": "0.00110840"
+  },
+  {
+    "currency": "NUKO",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "NULS",
+    "price": "0.53932467"
+  },
+  {
+    "currency": "NUT",
+    "price": "22.45256945"
+  },
+  {
+    "currency": "NUVO",
+    "price": "0.00005270"
+  },
+  {
+    "currency": "NVC",
+    "price": "0.15656626"
+  },
+  {
+    "currency": "NVDACX",
+    "price": "385.44000000"
+  },
+  {
+    "currency": "NVT",
+    "price": "0.00000069"
+  },
+  {
+    "currency": "NWC",
+    "price": "0.02872695"
+  },
+  {
+    "currency": "NXCT",
+    "price": "0.00007620"
+  },
+  {
+    "currency": "NXS",
+    "price": "0.18461865"
+  },
+  {
+    "currency": "NXT",
+    "price": "0.01063925"
+  },
+  {
+    "currency": "NYC",
+    "price": "0.00001264"
+  },
+  {
+    "currency": "NYE",
+    "price": "9.23660329"
+  },
+  {
+    "currency": "NYEX",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "NYX",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "NYZO",
+    "price": "0.25486369"
+  },
+  {
+    "currency": "NZL",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "NZO",
+    "price": "0.01164974"
+  },
+  {
+    "currency": "OASCX",
+    "price": "0.78000000"
+  },
+  {
+    "currency": "OAX",
+    "price": "0.06056302"
+  },
+  {
+    "currency": "OBITS",
+    "price": "0.02161238"
+  },
+  {
+    "currency": "OCE",
+    "price": "0.00114648"
+  },
+  {
+    "currency": "OCEAN",
+    "price": "0.08271000"
+  },
+  {
+    "currency": "OCN",
+    "price": "0.00028274"
+  },
+  {
+    "currency": "ODE",
+    "price": "0.04265468"
+  },
+  {
+    "currency": "ODEX",
+    "price": "0.00000028"
+  },
+  {
+    "currency": "OGN",
+    "price": "0.26471233"
+  },
+  {
+    "currency": "OGO",
+    "price": "0.01379498"
+  },
+  {
+    "currency": "OGODS",
+    "price": "0.00009228"
+  },
+  {
+    "currency": "OGZDCX",
+    "price": "5.47600000"
+  },
+  {
+    "currency": "OHMC",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "OK",
+    "price": "0.03563596"
+  },
+  {
+    "currency": "OKB",
+    "price": "4.99012921"
+  },
+  {
+    "currency": "OKBBEAR",
+    "price": "7.10000000"
+  },
+  {
+    "currency": "OKBBULL",
+    "price": "1330.00000000"
+  },
+  {
+    "currency": "OKNC",
+    "price": "0.00009929"
+  },
+  {
+    "currency": "OKS",
+    "price": "0.00105347"
+  },
+  {
+    "currency": "OLT",
+    "price": "0.00402131"
+  },
+  {
+    "currency": "OLXA",
+    "price": "0.00016499"
+  },
+  {
+    "currency": "OMEGA",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "OMG",
+    "price": "1.45418579"
+  },
+  {
+    "currency": "OMX",
+    "price": "0.00057729"
+  },
+  {
+    "currency": "ONE2",
+    "price": "0.00205813"
+  },
+  {
+    "currency": "ONEMCX",
+    "price": "38.17000000"
+  },
+  {
+    "currency": "ONG",
+    "price": "0.00797816"
+  },
+  {
+    "currency": "ONT",
+    "price": "0.58188733"
+  },
+  {
+    "currency": "ONTGAS",
+    "price": "0.21735635"
+  },
+  {
+    "currency": "OOT",
+    "price": "0.00230685"
+  },
+  {
+    "currency": "OPEN",
+    "price": "0.00071602"
+  },
+  {
+    "currency": "OPET",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "OPQ",
+    "price": "0.00655843"
+  },
+  {
+    "currency": "OPT",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "OPTI",
+    "price": "0.00517766"
+  },
+  {
+    "currency": "ORBS",
+    "price": "0.01567942"
+  },
+  {
+    "currency": "ORC",
+    "price": "0.00595764"
+  },
+  {
+    "currency": "ORE",
+    "price": "0.00194162"
+  },
+  {
+    "currency": "ORME",
+    "price": "0.02218999"
+  },
+  {
+    "currency": "ORS",
+    "price": "0.00699642"
+  },
+  {
+    "currency": "OS76",
+    "price": "0.00406816"
+  },
+  {
+    "currency": "OSC",
+    "price": "0.00154776"
+  },
+  {
+    "currency": "OSCH",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "OST",
+    "price": "0.00927786"
+  },
+  {
+    "currency": "OSTKCX",
+    "price": "30.08000000"
+  },
+  {
+    "currency": "OTB",
+    "price": "0.00212654"
+  },
+  {
+    "currency": "OUNA",
+    "price": "0.00998549"
+  },
+  {
+    "currency": "OURO",
+    "price": "0.01200000"
+  },
+  {
+    "currency": "OVC",
+    "price": "0.00923665"
+  },
+  {
+    "currency": "OWC",
+    "price": "0.15810089"
+  },
+  {
+    "currency": "OWO",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "OXT",
+    "price": "0.15470377"
+  },
+  {
+    "currency": "OZC",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "P2P",
+    "price": "0.00066042"
+  },
+  {
+    "currency": "P2T",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "PAA",
+    "price": "0.00000666"
+  },
+  {
+    "currency": "PAC",
+    "price": "0.00012638"
+  },
+  {
+    "currency": "PAI",
+    "price": "0.01576264"
+  },
+  {
+    "currency": "PAK",
+    "price": "0.00323604"
+  },
+  {
+    "currency": "PAL",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "PALLADIUMCX",
+    "price": "1909.18000000"
+  },
+  {
+    "currency": "PAMP",
+    "price": "0.00076895"
+  },
+  {
+    "currency": "PAN",
+    "price": "0.03769010"
+  },
+  {
+    "currency": "PANDA",
+    "price": "0.00037034"
+  },
+  {
+    "currency": "PANTOS",
+    "price": "0.02081435"
+  },
+  {
+    "currency": "PAR",
+    "price": "0.00021475"
+  },
+  {
+    "currency": "PARALLELCOIN",
+    "price": "0.20502655"
+  },
+  {
+    "currency": "PARKGENE",
+    "price": "0.00006842"
+  },
+  {
+    "currency": "PART",
+    "price": "0.75815792"
+  },
+  {
+    "currency": "PASC",
+    "price": "0.04409929"
+  },
+  {
+    "currency": "PASS",
+    "price": "0.00092043"
+  },
+  {
+    "currency": "PAT",
+    "price": "0.00015010"
+  },
+  {
+    "currency": "PAX",
+    "price": "1.00179648"
+  },
+  {
+    "currency": "PAXEX",
+    "price": "0.00027868"
+  },
+  {
+    "currency": "PAXG",
+    "price": "1770.84292439"
+  },
+  {
+    "currency": "PAXGBULL",
+    "price": "6847.50000000"
+  },
+  {
+    "currency": "PAY",
+    "price": "0.04550175"
+  },
+  {
+    "currency": "PAYCCX",
+    "price": "316.71000000"
+  },
+  {
+    "currency": "PAZZI",
+    "price": "0.08080854"
+  },
+  {
+    "currency": "PBFCX",
+    "price": "10.24000000"
+  },
+  {
+    "currency": "PBL",
+    "price": "0.00415418"
+  },
+  {
+    "currency": "PBTT",
+    "price": "0.01849166"
+  },
+  {
+    "currency": "PBYICX",
+    "price": "10.51000000"
+  },
+  {
+    "currency": "PC",
+    "price": "0.00005585"
+  },
+  {
+    "currency": "PCI",
+    "price": "0.14444265"
+  },
+  {
+    "currency": "PCL",
+    "price": "0.00170909"
+  },
+  {
+    "currency": "PCPIE",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "PCT",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "PCX",
+    "price": "2.15095504"
+  },
+  {
+    "currency": "PDATA",
+    "price": "0.00030468"
+  },
+  {
+    "currency": "PDRY",
+    "price": "0.00032790"
+  },
+  {
+    "currency": "PEC",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "PEG2",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "PELO",
+    "price": "0.00416062"
+  },
+  {
+    "currency": "PENG",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "PEPS",
+    "price": "0.00066606"
+  },
+  {
+    "currency": "PERL",
+    "price": "0.01787247"
+  },
+  {
+    "currency": "PESS",
+    "price": "0.00005131"
+  },
+  {
+    "currency": "PFECX",
+    "price": "33.80000000"
+  },
+  {
+    "currency": "PGC",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "PGN",
+    "price": "0.00021614"
+  },
+  {
+    "currency": "PHL",
+    "price": "0.01497824"
+  },
+  {
+    "currency": "PHN",
+    "price": "0.00000018"
+  },
+  {
+    "currency": "PHR",
+    "price": "0.11162933"
+  },
+  {
+    "currency": "PHX",
+    "price": "0.00314229"
+  },
+  {
+    "currency": "PI",
+    "price": "0.00342228"
+  },
+  {
+    "currency": "PIASA",
+    "price": "0.00850616"
+  },
+  {
+    "currency": "PIB",
+    "price": "0.00013556"
+  },
+  {
+    "currency": "PINK",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "PIPL",
+    "price": "0.00092859"
+  },
+  {
+    "currency": "PIPS",
+    "price": "0.00000695"
+  },
+  {
+    "currency": "PIRATE",
+    "price": "0.00388325"
+  },
+  {
+    "currency": "PIRL",
+    "price": "0.00736445"
+  },
+  {
+    "currency": "PIT",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "PITCH",
+    "price": "0.00044897"
+  },
+  {
+    "currency": "PIVX",
+    "price": "0.41432667"
+  },
+  {
+    "currency": "PIXIECOIN",
+    "price": "0.00053806"
+  },
+  {
+    "currency": "PKO",
+    "price": "0.26369102"
+  },
+  {
+    "currency": "PKT",
+    "price": "0.03623760"
+  },
+  {
+    "currency": "PLA",
+    "price": "0.00073294"
+  },
+  {
+    "currency": "PLAAS",
+    "price": "0.00861707"
+  },
+  {
+    "currency": "PLAIR",
+    "price": "0.00004267"
+  },
+  {
+    "currency": "PLANET",
+    "price": "0.00554754"
+  },
+  {
+    "currency": "PLATINUMCX",
+    "price": "825.72000000"
+  },
+  {
+    "currency": "PLAYMARKET",
+    "price": "0.05525594"
+  },
+  {
+    "currency": "PLBT",
+    "price": "0.86437805"
+  },
+  {
+    "currency": "PLF",
+    "price": "0.25890263"
+  },
+  {
+    "currency": "PLR",
+    "price": "0.01905252"
+  },
+  {
+    "currency": "PLTC",
+    "price": "0.50569618"
+  },
+  {
+    "currency": "PLU",
+    "price": "3.68624526"
+  },
+  {
+    "currency": "PLUG",
+    "price": "0.00000023"
+  },
+  {
+    "currency": "PLURA",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "PLUS1",
+    "price": "0.02283720"
+  },
+  {
+    "currency": "PMA",
+    "price": "0.00009499"
+  },
+  {
+    "currency": "PMC2",
+    "price": "0.00004623"
+  },
+  {
+    "currency": "PMEER",
+    "price": "0.02366932"
+  },
+  {
+    "currency": "PND",
+    "price": "0.00004272"
+  },
+  {
+    "currency": "PNK",
+    "price": "0.02518450"
+  },
+  {
+    "currency": "PNT",
+    "price": "0.00008026"
+  },
+  {
+    "currency": "PNX",
+    "price": "0.00010170"
+  },
+  {
+    "currency": "PNY",
+    "price": "0.03278147"
+  },
+  {
+    "currency": "POA",
+    "price": "0.01303660"
+  },
+  {
+    "currency": "POA20",
+    "price": "0.01180434"
+  },
+  {
+    "currency": "POC",
+    "price": "0.00023092"
+  },
+  {
+    "currency": "POCC",
+    "price": "0.00076202"
+  },
+  {
+    "currency": "POE",
+    "price": "0.00231142"
+  },
+  {
+    "currency": "POINT",
+    "price": "0.00416062"
+  },
+  {
+    "currency": "POK",
+    "price": "0.00480707"
+  },
+  {
+    "currency": "POLIS",
+    "price": "0.73443334"
+  },
+  {
+    "currency": "POLY",
+    "price": "0.03857864"
+  },
+  {
+    "currency": "PONZI",
+    "price": "0.00046260"
+  },
+  {
+    "currency": "POPULARCOIN",
+    "price": "0.00001181"
+  },
+  {
+    "currency": "POPULOUS",
+    "price": "0.01282855"
+  },
+  {
+    "currency": "PORTAL",
+    "price": "0.00112711"
+  },
+  {
+    "currency": "POST",
+    "price": "0.00110950"
+  },
+  {
+    "currency": "POWR",
+    "price": "0.08704806"
+  },
+  {
+    "currency": "PPC",
+    "price": "0.25017256"
+  },
+  {
+    "currency": "PPP",
+    "price": "0.00702585"
+  },
+  {
+    "currency": "PPS",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "PPT",
+    "price": "0.31866904"
+  },
+  {
+    "currency": "PPY",
+    "price": "0.34294204"
+  },
+  {
+    "currency": "PRA",
+    "price": "0.01202843"
+  },
+  {
+    "currency": "PRE",
+    "price": "0.02038798"
+  },
+  {
+    "currency": "PRES",
+    "price": "0.00231146"
+  },
+  {
+    "currency": "PRIV",
+    "price": "0.00171625"
+  },
+  {
+    "currency": "PRIX",
+    "price": "0.19952497"
+  },
+  {
+    "currency": "PRKL",
+    "price": "0.00140628"
+  },
+  {
+    "currency": "PRO",
+    "price": "0.10977124"
+  },
+  {
+    "currency": "PROB",
+    "price": "0.20403705"
+  },
+  {
+    "currency": "PROPS",
+    "price": "0.01593322"
+  },
+  {
+    "currency": "PROUD",
+    "price": "0.00184449"
+  },
+  {
+    "currency": "PROXYNODE",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "PRS",
+    "price": "0.01973920"
+  },
+  {
+    "currency": "PRV",
+    "price": "0.84241454"
+  },
+  {
+    "currency": "PSM",
+    "price": "0.00002311"
+  },
+  {
+    "currency": "PST",
+    "price": "0.02394666"
+  },
+  {
+    "currency": "PTENCX",
+    "price": "3.30000000"
+  },
+  {
+    "currency": "PTI",
+    "price": "0.00168231"
+  },
+  {
+    "currency": "PTM",
+    "price": "0.00924583"
+  },
+  {
+    "currency": "PTN",
+    "price": "0.00118764"
+  },
+  {
+    "currency": "PTON",
+    "price": "0.00001847"
+  },
+  {
+    "currency": "PTONCX",
+    "price": "59.97000000"
+  },
+  {
+    "currency": "PTOY",
+    "price": "0.00551925"
+  },
+  {
+    "currency": "PTX",
+    "price": "0.00554750"
+  },
+  {
+    "currency": "PUT",
+    "price": "0.00156503"
+  },
+  {
+    "currency": "PUTINCOIN",
+    "price": "0.00002859"
+  },
+  {
+    "currency": "PVT",
+    "price": "0.00026358"
+  },
+  {
+    "currency": "PWR",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "PXC",
+    "price": "0.00674945"
+  },
+  {
+    "currency": "PXL",
+    "price": "0.01261764"
+  },
+  {
+    "currency": "PYN",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "PYPLCX",
+    "price": "179.16000000"
+  },
+  {
+    "currency": "PYRK",
+    "price": "0.01387793"
+  },
+  {
+    "currency": "PYRO",
+    "price": "0.00023092"
+  },
+  {
+    "currency": "PZM",
+    "price": "0.01919818"
+  },
+  {
+    "currency": "QASH",
+    "price": "0.03290903"
+  },
+  {
+    "currency": "QBC",
+    "price": "0.00097750"
+  },
+  {
+    "currency": "QBIT",
+    "price": "30.75065430"
+  },
+  {
+    "currency": "QBS",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "QBX",
+    "price": "0.00730420"
+  },
+  {
+    "currency": "QC",
+    "price": "0.14194346"
+  },
+  {
+    "currency": "QCH",
+    "price": "0.03170757"
+  },
+  {
+    "currency": "QCOMCX",
+    "price": "90.26000000"
+  },
+  {
+    "currency": "QCX",
+    "price": "0.01463415"
+  },
+  {
+    "currency": "QKC",
+    "price": "0.00614629"
+  },
+  {
+    "currency": "QLC",
+    "price": "0.01988545"
+  },
+  {
+    "currency": "QMC",
+    "price": "0.00249637"
+  },
+  {
+    "currency": "QNO",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "QNT",
+    "price": "8.19388517"
+  },
+  {
+    "currency": "QOVARCOIN",
+    "price": "0.08379424"
+  },
+  {
+    "currency": "QRK",
+    "price": "0.02487128"
+  },
+  {
+    "currency": "QRL",
+    "price": "0.10472928"
+  },
+  {
+    "currency": "QSP",
+    "price": "0.02248302"
+  },
+  {
+    "currency": "QT",
+    "price": "0.06086008"
+  },
+  {
+    "currency": "QTUM",
+    "price": "1.67360279"
+  },
+  {
+    "currency": "QTV",
+    "price": "0.04132885"
+  },
+  {
+    "currency": "QUAN",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "QUIN",
+    "price": "0.00000120"
+  },
+  {
+    "currency": "QUN",
+    "price": "0.00425738"
+  },
+  {
+    "currency": "QUOT",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "QWC",
+    "price": "0.00000392"
+  },
+  {
+    "currency": "RADCX",
+    "price": "17.46000000"
+  },
+  {
+    "currency": "RADS",
+    "price": "0.43544029"
+  },
+  {
+    "currency": "RAGNA",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "RAISE",
+    "price": "0.03924087"
+  },
+  {
+    "currency": "RAP",
+    "price": "0.00006472"
+  },
+  {
+    "currency": "RAS",
+    "price": "0.00031174"
+  },
+  {
+    "currency": "RAVEN",
+    "price": "0.00030250"
+  },
+  {
+    "currency": "RAWCOIN",
+    "price": "0.00092450"
+  },
+  {
+    "currency": "RBTC",
+    "price": "9202.35151229"
+  },
+  {
+    "currency": "RCCC",
+    "price": "0.00488729"
+  },
+  {
+    "currency": "RCHAIN",
+    "price": "0.02272196"
+  },
+  {
+    "currency": "RCN",
+    "price": "0.06085513"
+  },
+  {
+    "currency": "RCOIN",
+    "price": "0.33164786"
+  },
+  {
+    "currency": "RDCT",
+    "price": "0.01359137"
+  },
+  {
+    "currency": "RDD",
+    "price": "0.00120114"
+  },
+  {
+    "currency": "RDN",
+    "price": "0.19511090"
+  },
+  {
+    "currency": "RED",
+    "price": "0.00322728"
+  },
+  {
+    "currency": "REDI",
+    "price": "0.00034951"
+  },
+  {
+    "currency": "REEX",
+    "price": "0.00332850"
+  },
+  {
+    "currency": "REL",
+    "price": "0.00000445"
+  },
+  {
+    "currency": "REM",
+    "price": "0.00134111"
+  },
+  {
+    "currency": "REN",
+    "price": "0.15201546"
+  },
+  {
+    "currency": "REOSC",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "REP",
+    "price": "17.14425278"
+  },
+  {
+    "currency": "REPO",
+    "price": "0.11716960"
+  },
+  {
+    "currency": "REQ",
+    "price": "0.02579587"
+  },
+  {
+    "currency": "RES",
+    "price": "0.00356142"
+  },
+  {
+    "currency": "REW",
+    "price": "0.19858795"
+  },
+  {
+    "currency": "RFOX",
+    "price": "0.00339979"
+  },
+  {
+    "currency": "RFR",
+    "price": "0.00047427"
+  },
+  {
+    "currency": "RHEA",
+    "price": "0.12731976"
+  },
+  {
+    "currency": "RIF",
+    "price": "0.08235778"
+  },
+  {
+    "currency": "RIL",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "RIT",
+    "price": "0.04618324"
+  },
+  {
+    "currency": "RITO",
+    "price": "0.00009035"
+  },
+  {
+    "currency": "RLC",
+    "price": "0.61779410"
+  },
+  {
+    "currency": "RLX",
+    "price": "0.00005773"
+  },
+  {
+    "currency": "RM",
+    "price": "0.00547183"
+  },
+  {
+    "currency": "RMC",
+    "price": "0.11094994"
+  },
+  {
+    "currency": "RMESH",
+    "price": "0.00163720"
+  },
+  {
+    "currency": "RNDR",
+    "price": "0.09133160"
+  },
+  {
+    "currency": "RNOCX",
+    "price": "24.58343178"
+  },
+  {
+    "currency": "RNX",
+    "price": "0.00285756"
+  },
+  {
+    "currency": "ROCK2",
+    "price": "0.03464436"
+  },
+  {
+    "currency": "ROCO",
+    "price": "0.01562545"
+  },
+  {
+    "currency": "ROI",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "ROKUCX",
+    "price": "127.76000000"
+  },
+  {
+    "currency": "ROOBEE",
+    "price": "0.00364832"
+  },
+  {
+    "currency": "ROX",
+    "price": "0.01627579"
+  },
+  {
+    "currency": "RPC",
+    "price": "0.00646594"
+  },
+  {
+    "currency": "RPD",
+    "price": "0.00005474"
+  },
+  {
+    "currency": "RPI",
+    "price": "0.00001849"
+  },
+  {
+    "currency": "RPIL",
+    "price": "0.00000462"
+  },
+  {
+    "currency": "RPL",
+    "price": "1.79194477"
+  },
+  {
+    "currency": "RPZX",
+    "price": "0.00046220"
+  },
+  {
+    "currency": "RRCHAIN",
+    "price": "0.00001996"
+  },
+  {
+    "currency": "RSR",
+    "price": "0.00692946"
+  },
+  {
+    "currency": "RTE",
+    "price": "0.00085107"
+  },
+  {
+    "currency": "RTH",
+    "price": "0.50293444"
+  },
+  {
+    "currency": "RTO",
+    "price": "0.00157179"
+  },
+  {
+    "currency": "RUFF",
+    "price": "0.00556068"
+  },
+  {
+    "currency": "RUNE",
+    "price": "0.40082223"
+  },
+  {
+    "currency": "RUPX",
+    "price": "0.00036059"
+  },
+  {
+    "currency": "RVN",
+    "price": "0.01885146"
+  },
+  {
+    "currency": "RXCC",
+    "price": "0.00000002"
+  },
+  {
+    "currency": "RYO2",
+    "price": "0.00926060"
+  },
+  {
+    "currency": "S",
+    "price": "0.00013393"
+  },
+  {
+    "currency": "S4F",
+    "price": "0.01044779"
+  },
+  {
+    "currency": "S8",
+    "price": "0.00002309"
+  },
+  {
+    "currency": "SAFECOIN",
+    "price": "0.03856071"
+  },
+  {
+    "currency": "SAGA",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "SAI",
+    "price": "1.21491550"
+  },
+  {
+    "currency": "SAIT",
+    "price": "0.01129873"
+  },
+  {
+    "currency": "SALT",
+    "price": "0.06253606"
+  },
+  {
+    "currency": "SAN",
+    "price": "0.13990310"
+  },
+  {
+    "currency": "SAP",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "SAPP",
+    "price": "0.00397282"
+  },
+  {
+    "currency": "SARGOLD",
+    "price": "3.85885989"
+  },
+  {
+    "currency": "SAROS",
+    "price": "0.00012944"
+  },
+  {
+    "currency": "SATURN",
+    "price": "0.00085625"
+  },
+  {
+    "currency": "SATX",
+    "price": "0.00114457"
+  },
+  {
+    "currency": "SBD2",
+    "price": "0.98625446"
+  },
+  {
+    "currency": "SBE",
+    "price": "0.00120192"
+  },
+  {
+    "currency": "SBP",
+    "price": "0.00326205"
+  },
+  {
+    "currency": "SBTC",
+    "price": "0.20128706"
+  },
+  {
+    "currency": "SBUXCX",
+    "price": "73.85000000"
+  },
+  {
+    "currency": "SC",
+    "price": "0.00310880"
+  },
+  {
+    "currency": "SCAP",
+    "price": "0.63472752"
+  },
+  {
+    "currency": "SCBC",
+    "price": "0.03463743"
+  },
+  {
+    "currency": "SCC",
+    "price": "0.00007646"
+  },
+  {
+    "currency": "SCCN",
+    "price": "0.00286621"
+  },
+  {
+    "currency": "SCL",
+    "price": "0.02651796"
+  },
+  {
+    "currency": "SCOL",
+    "price": "0.00305112"
+  },
+  {
+    "currency": "SCP",
+    "price": "0.01127991"
+  },
+  {
+    "currency": "SCRIV",
+    "price": "0.00075085"
+  },
+  {
+    "currency": "SCSX",
+    "price": "0.11640107"
+  },
+  {
+    "currency": "SCTCOIN",
+    "price": "0.00480783"
+  },
+  {
+    "currency": "SCV",
+    "price": "0.00002810"
+  },
+  {
+    "currency": "SDCCX",
+    "price": "7.99000000"
+  },
+  {
+    "currency": "SDGO",
+    "price": "0.00000129"
+  },
+  {
+    "currency": "SDR",
+    "price": "0.06120738"
+  },
+  {
+    "currency": "SDS",
+    "price": "0.00126311"
+  },
+  {
+    "currency": "SEAD",
+    "price": "0.00199743"
+  },
+  {
+    "currency": "SEELE",
+    "price": "0.00614983"
+  },
+  {
+    "currency": "SEKO",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "SEM",
+    "price": "0.06250180"
+  },
+  {
+    "currency": "SENC",
+    "price": "0.00187966"
+  },
+  {
+    "currency": "SEND",
+    "price": "0.00573708"
+  },
+  {
+    "currency": "SENSO",
+    "price": "0.20391026"
+  },
+  {
+    "currency": "SENT",
+    "price": "0.00130600"
+  },
+  {
+    "currency": "SEOL",
+    "price": "0.00002309"
+  },
+  {
+    "currency": "SET",
+    "price": "0.05094451"
+  },
+  {
+    "currency": "SFT",
+    "price": "0.00369840"
+  },
+  {
+    "currency": "SFX",
+    "price": "0.00834730"
+  },
+  {
+    "currency": "SGA",
+    "price": "1.38149147"
+  },
+  {
+    "currency": "SGC2",
+    "price": "0.00369833"
+  },
+  {
+    "currency": "SHA",
+    "price": "0.00064158"
+  },
+  {
+    "currency": "SHB",
+    "price": "0.02145114"
+  },
+  {
+    "currency": "SHDW",
+    "price": "0.02468636"
+  },
+  {
+    "currency": "SHE",
+    "price": "0.00057165"
+  },
+  {
+    "currency": "SHENG",
+    "price": "0.03794628"
+  },
+  {
+    "currency": "SHIP",
+    "price": "0.01574448"
+  },
+  {
+    "currency": "SHK",
+    "price": "0.00138550"
+  },
+  {
+    "currency": "SHOPCX",
+    "price": "1043.04000000"
+  },
+  {
+    "currency": "SHRM",
+    "price": "0.06915880"
+  },
+  {
+    "currency": "SIAMBITCOIN",
+    "price": "42.53081018"
+  },
+  {
+    "currency": "SIB",
+    "price": "0.01839920"
+  },
+  {
+    "currency": "SIERRA",
+    "price": "0.01257433"
+  },
+  {
+    "currency": "SIG",
+    "price": "0.00003698"
+  },
+  {
+    "currency": "SIGCX",
+    "price": "11.20000000"
+  },
+  {
+    "currency": "SILVERCX",
+    "price": "17.84100000"
+  },
+  {
+    "currency": "SIN",
+    "price": "0.00285019"
+  },
+  {
+    "currency": "SINOC",
+    "price": "0.00527012"
+  },
+  {
+    "currency": "SINS",
+    "price": "0.04444833"
+  },
+  {
+    "currency": "SIX",
+    "price": "0.00899431"
+  },
+  {
+    "currency": "SJW",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "SKB",
+    "price": "0.00049201"
+  },
+  {
+    "currency": "SKC",
+    "price": "0.00002496"
+  },
+  {
+    "currency": "SKI",
+    "price": "0.02951037"
+  },
+  {
+    "currency": "SKIN",
+    "price": "0.00045952"
+  },
+  {
+    "currency": "SKM",
+    "price": "0.00172423"
+  },
+  {
+    "currency": "SKP",
+    "price": "0.00013855"
+  },
+  {
+    "currency": "SKRT",
+    "price": "0.00175671"
+  },
+  {
+    "currency": "SKT",
+    "price": "0.00009798"
+  },
+  {
+    "currency": "SKULL",
+    "price": "0.00790531"
+  },
+  {
+    "currency": "SKY",
+    "price": "0.48080393"
+  },
+  {
+    "currency": "SLCACX",
+    "price": "3.35000000"
+  },
+  {
+    "currency": "SLM",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "SLOPPS",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "SLS",
+    "price": "11.71144195"
+  },
+  {
+    "currency": "SLT2",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "SLTS",
+    "price": "0.00035493"
+  },
+  {
+    "currency": "SMART",
+    "price": "0.00291158"
+  },
+  {
+    "currency": "SMC",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "SML",
+    "price": "1.32135621"
+  },
+  {
+    "currency": "SMT",
+    "price": "0.00362446"
+  },
+  {
+    "currency": "SNB",
+    "price": "0.16378376"
+  },
+  {
+    "currency": "SNC",
+    "price": "0.02821335"
+  },
+  {
+    "currency": "SNECX",
+    "price": "70.45000000"
+  },
+  {
+    "currency": "SNET",
+    "price": "0.00692749"
+  },
+  {
+    "currency": "SNG",
+    "price": "0.00951534"
+  },
+  {
+    "currency": "SNGJ",
+    "price": "0.00664808"
+  },
+  {
+    "currency": "SNGLS",
+    "price": "0.00970822"
+  },
+  {
+    "currency": "SNL",
+    "price": "0.01385718"
+  },
+  {
+    "currency": "SNM",
+    "price": "0.00896845"
+  },
+  {
+    "currency": "SNO",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "SNOV",
+    "price": "0.00321066"
+  },
+  {
+    "currency": "SNOW",
+    "price": "0.20350068"
+  },
+  {
+    "currency": "SNPC",
+    "price": "0.00653493"
+  },
+  {
+    "currency": "SNT",
+    "price": "0.02233226"
+  },
+  {
+    "currency": "SNTR",
+    "price": "0.00000199"
+  },
+  {
+    "currency": "SNX",
+    "price": "2.40872716"
+  },
+  {
+    "currency": "SOC",
+    "price": "0.00360328"
+  },
+  {
+    "currency": "SOCKS",
+    "price": "169.04693015"
+  },
+  {
+    "currency": "SOFEROX",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "SOFTCHAIN",
+    "price": "0.00005242"
+  },
+  {
+    "currency": "SOLO",
+    "price": "0.19145686"
+  },
+  {
+    "currency": "SOLVE",
+    "price": "0.13308817"
+  },
+  {
+    "currency": "SON",
+    "price": "435.86706146"
+  },
+  {
+    "currency": "SONO",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "SORA",
+    "price": "0.44996048"
+  },
+  {
+    "currency": "SOUL",
+    "price": "0.03918246"
+  },
+  {
+    "currency": "SOV",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "SOVE",
+    "price": "0.00245014"
+  },
+  {
+    "currency": "SP35CX",
+    "price": "8146.28548284"
+  },
+  {
+    "currency": "SPANK",
+    "price": "0.00252377"
+  },
+  {
+    "currency": "SPC",
+    "price": "0.00244881"
+  },
+  {
+    "currency": "SPD",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "SPHERE",
+    "price": "0.00059345"
+  },
+  {
+    "currency": "SPHR",
+    "price": "0.04585931"
+  },
+  {
+    "currency": "SPIKE",
+    "price": "0.00212654"
+  },
+  {
+    "currency": "SPN",
+    "price": "0.00322670"
+  },
+  {
+    "currency": "SPNCX",
+    "price": "1.12000000"
+  },
+  {
+    "currency": "SPND",
+    "price": "0.00094122"
+  },
+  {
+    "currency": "SPRK",
+    "price": "0.00229069"
+  },
+  {
+    "currency": "SPRKL",
+    "price": "0.06513713"
+  },
+  {
+    "currency": "SPRTZ",
+    "price": "0.00000277"
+  },
+  {
+    "currency": "SPT",
+    "price": "0.00001189"
+  },
+  {
+    "currency": "SPZ",
+    "price": "0.00000924"
+  },
+  {
+    "currency": "SQCX",
+    "price": "116.22000000"
+  },
+  {
+    "currency": "SQR",
+    "price": "0.00034637"
+  },
+  {
+    "currency": "SRCOIN",
+    "price": "0.00001572"
+  },
+  {
+    "currency": "SREUR",
+    "price": "0.00036410"
+  },
+  {
+    "currency": "SRK",
+    "price": "0.00015907"
+  },
+  {
+    "currency": "SRN",
+    "price": "0.01059264"
+  },
+  {
+    "currency": "SS",
+    "price": "0.00600707"
+  },
+  {
+    "currency": "SSF",
+    "price": "0.00221900"
+  },
+  {
+    "currency": "SSP",
+    "price": "0.00007638"
+  },
+  {
+    "currency": "SSX",
+    "price": "0.00319957"
+  },
+  {
+    "currency": "STAKECUBE",
+    "price": "0.16642491"
+  },
+  {
+    "currency": "STAR",
+    "price": "0.00284184"
+  },
+  {
+    "currency": "STEEM",
+    "price": "0.20527948"
+  },
+  {
+    "currency": "STEEP",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "STK",
+    "price": "0.00218704"
+  },
+  {
+    "currency": "STKCOIN",
+    "price": "0.03097352"
+  },
+  {
+    "currency": "STMX",
+    "price": "0.00192227"
+  },
+  {
+    "currency": "STO",
+    "price": "0.00000279"
+  },
+  {
+    "currency": "STO2",
+    "price": "0.05862585"
+  },
+  {
+    "currency": "STONE",
+    "price": "0.00073967"
+  },
+  {
+    "currency": "STORJ",
+    "price": "0.15369556"
+  },
+  {
+    "currency": "STPT",
+    "price": "0.01345817"
+  },
+  {
+    "currency": "STPX",
+    "price": "0.00003698"
+  },
+  {
+    "currency": "STQ",
+    "price": "0.00001762"
+  },
+  {
+    "currency": "STR",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "STRAT",
+    "price": "0.45245275"
+  },
+  {
+    "currency": "STREAMIT",
+    "price": "0.00314358"
+  },
+  {
+    "currency": "STRMS",
+    "price": "0.72533523"
+  },
+  {
+    "currency": "STRX",
+    "price": "0.00615623"
+  },
+  {
+    "currency": "STS",
+    "price": "0.00015506"
+  },
+  {
+    "currency": "STX",
+    "price": "0.00915245"
+  },
+  {
+    "currency": "SUB",
+    "price": "0.00295623"
+  },
+  {
+    "currency": "SUGAR",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "SUM",
+    "price": "120.43488533"
+  },
+  {
+    "currency": "SUMO",
+    "price": "0.06186750"
+  },
+  {
+    "currency": "SUNC",
+    "price": "0.00000832"
+  },
+  {
+    "currency": "SUPER",
+    "price": "0.00101704"
+  },
+  {
+    "currency": "SUPERTRON",
+    "price": "0.00000277"
+  },
+  {
+    "currency": "SUR",
+    "price": "0.22912650"
+  },
+  {
+    "currency": "SURE2",
+    "price": "0.01710478"
+  },
+  {
+    "currency": "SUSD",
+    "price": "1.00871880"
+  },
+  {
+    "currency": "SVI",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "SVR",
+    "price": "0.50847719"
+  },
+  {
+    "currency": "SWACE",
+    "price": "0.00089802"
+  },
+  {
+    "currency": "SWAMP",
+    "price": "0.00314358"
+  },
+  {
+    "currency": "SWAT",
+    "price": "0.00036709"
+  },
+  {
+    "currency": "SWC",
+    "price": "0.00016164"
+  },
+  {
+    "currency": "SWET",
+    "price": "0.00022375"
+  },
+  {
+    "currency": "SWFTC",
+    "price": "0.00103404"
+  },
+  {
+    "currency": "SWIFT",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "SWING",
+    "price": "0.02163524"
+  },
+  {
+    "currency": "SWIPP",
+    "price": "0.00305112"
+  },
+  {
+    "currency": "SWL",
+    "price": "0.00000133"
+  },
+  {
+    "currency": "SWM",
+    "price": "0.01753433"
+  },
+  {
+    "currency": "SWNCX",
+    "price": "2.49000000"
+  },
+  {
+    "currency": "SWT",
+    "price": "0.04301877"
+  },
+  {
+    "currency": "SWTC",
+    "price": "0.00082982"
+  },
+  {
+    "currency": "SWTH",
+    "price": "0.01423983"
+  },
+  {
+    "currency": "SXC",
+    "price": "0.00185090"
+  },
+  {
+    "currency": "SXCC",
+    "price": "0.00924583"
+  },
+  {
+    "currency": "SXDT",
+    "price": "0.13591368"
+  },
+  {
+    "currency": "SXP",
+    "price": "0.59885408"
+  },
+  {
+    "currency": "SYM",
+    "price": "0.07989701"
+  },
+  {
+    "currency": "SYS",
+    "price": "0.02951417"
+  },
+  {
+    "currency": "T1C",
+    "price": "7978793940.46837656"
+  },
+  {
+    "currency": "T9",
+    "price": "0.00243617"
+  },
+  {
+    "currency": "TAC",
+    "price": "0.00159332"
+  },
+  {
+    "currency": "TAG",
+    "price": "0.00462291"
+  },
+  {
+    "currency": "TAGZ5",
+    "price": "0.15009323"
+  },
+  {
+    "currency": "TAJ",
+    "price": "0.00147933"
+  },
+  {
+    "currency": "TAN",
+    "price": "0.00120230"
+  },
+  {
+    "currency": "TAO",
+    "price": "0.03356236"
+  },
+  {
+    "currency": "TAT",
+    "price": "0.00048723"
+  },
+  {
+    "currency": "TAU",
+    "price": "0.01377060"
+  },
+  {
+    "currency": "TAVITT",
+    "price": "0.13988938"
+  },
+  {
+    "currency": "TCASH",
+    "price": "0.00469543"
+  },
+  {
+    "currency": "TCAT",
+    "price": "0.00094041"
+  },
+  {
+    "currency": "TCC",
+    "price": "0.00177797"
+  },
+  {
+    "currency": "TCH",
+    "price": "0.00081513"
+  },
+  {
+    "currency": "TCO",
+    "price": "0.03051123"
+  },
+  {
+    "currency": "TCT",
+    "price": "0.00684191"
+  },
+  {
+    "currency": "TCZ",
+    "price": "0.00767404"
+  },
+  {
+    "currency": "TDN",
+    "price": "0.32822690"
+  },
+  {
+    "currency": "TDP",
+    "price": "0.00499608"
+  },
+  {
+    "currency": "TDS",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "TDX",
+    "price": "0.26637231"
+  },
+  {
+    "currency": "TEAM",
+    "price": "0.04985340"
+  },
+  {
+    "currency": "TEAMCX",
+    "price": "185.28000000"
+  },
+  {
+    "currency": "TEL",
+    "price": "0.00019356"
+  },
+  {
+    "currency": "TELOS",
+    "price": "0.00987972"
+  },
+  {
+    "currency": "TEM",
+    "price": "0.15042963"
+  },
+  {
+    "currency": "TEN",
+    "price": "0.00656454"
+  },
+  {
+    "currency": "TENA",
+    "price": "0.02496374"
+  },
+  {
+    "currency": "TER",
+    "price": "0.00490029"
+  },
+  {
+    "currency": "TERA",
+    "price": "0.00179142"
+  },
+  {
+    "currency": "TEVACX",
+    "price": "11.57000000"
+  },
+  {
+    "currency": "TFD",
+    "price": "0.00877921"
+  },
+  {
+    "currency": "TFG1",
+    "price": "2.22131025"
+  },
+  {
+    "currency": "TFTN",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "TFUEL",
+    "price": "0.00870326"
+  },
+  {
+    "currency": "TGC",
+    "price": "0.00221900"
+  },
+  {
+    "currency": "TGN",
+    "price": "0.00332708"
+  },
+  {
+    "currency": "THETA",
+    "price": "0.22362030"
+  },
+  {
+    "currency": "THEX",
+    "price": "0.00554750"
+  },
+  {
+    "currency": "THREEFOLD",
+    "price": "0.14731913"
+  },
+  {
+    "currency": "THRN",
+    "price": "0.00490029"
+  },
+  {
+    "currency": "THRT",
+    "price": "0.00231146"
+  },
+  {
+    "currency": "THS",
+    "price": "0.00610225"
+  },
+  {
+    "currency": "THX",
+    "price": "0.00054533"
+  },
+  {
+    "currency": "TILY",
+    "price": "0.00138319"
+  },
+  {
+    "currency": "TIME",
+    "price": "2.09680445"
+  },
+  {
+    "currency": "TIPS",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "TIV",
+    "price": "1.28600226"
+  },
+  {
+    "currency": "TKN",
+    "price": "0.28517328"
+  },
+  {
+    "currency": "TKO",
+    "price": "0.18572212"
+  },
+  {
+    "currency": "TKP",
+    "price": "0.01025268"
+  },
+  {
+    "currency": "TKX",
+    "price": "0.85206771"
+  },
+  {
+    "currency": "TKY",
+    "price": "0.00023652"
+  },
+  {
+    "currency": "TLC",
+    "price": "0.04262327"
+  },
+  {
+    "currency": "TLR",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "TLRYCX",
+    "price": "7.06000000"
+  },
+  {
+    "currency": "TLS",
+    "price": "0.00175487"
+  },
+  {
+    "currency": "TMED",
+    "price": "0.00014396"
+  },
+  {
+    "currency": "TMTG",
+    "price": "0.00692790"
+  },
+  {
+    "currency": "TMUSCX",
+    "price": "105.91000000"
+  },
+  {
+    "currency": "TNB",
+    "price": "0.00400140"
+  },
+  {
+    "currency": "TNC",
+    "price": "0.00120076"
+  },
+  {
+    "currency": "TNET",
+    "price": "0.04410181"
+  },
+  {
+    "currency": "TNJ",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "TNS",
+    "price": "0.00241626"
+  },
+  {
+    "currency": "TNT",
+    "price": "0.03380946"
+  },
+  {
+    "currency": "TOK",
+    "price": "0.00302038"
+  },
+  {
+    "currency": "TOKA",
+    "price": "0.00000832"
+  },
+  {
+    "currency": "TOL",
+    "price": "0.00588061"
+  },
+  {
+    "currency": "TOMO",
+    "price": "0.52937299"
+  },
+  {
+    "currency": "TOMOBEAR",
+    "price": "0.05765000"
+  },
+  {
+    "currency": "TOMOBULL",
+    "price": "8.97000000"
+  },
+  {
+    "currency": "TOP2",
+    "price": "0.00213671"
+  },
+  {
+    "currency": "TOPB",
+    "price": "0.00476842"
+  },
+  {
+    "currency": "TOPC",
+    "price": "0.00626768"
+  },
+  {
+    "currency": "TORM",
+    "price": "0.03822089"
+  },
+  {
+    "currency": "TOS",
+    "price": "0.00120352"
+  },
+  {
+    "currency": "TOSC",
+    "price": "0.00760952"
+  },
+  {
+    "currency": "TOUCH",
+    "price": "0.00472931"
+  },
+  {
+    "currency": "TOUCHCON",
+    "price": "0.00482615"
+  },
+  {
+    "currency": "TOUR",
+    "price": "0.02172770"
+  },
+  {
+    "currency": "TPC",
+    "price": "0.69352958"
+  },
+  {
+    "currency": "TRAC",
+    "price": "0.05277951"
+  },
+  {
+    "currency": "TRAD",
+    "price": "0.00046691"
+  },
+  {
+    "currency": "TRANSFERCOIN",
+    "price": "0.00327302"
+  },
+  {
+    "currency": "TRAT",
+    "price": "0.00234861"
+  },
+  {
+    "currency": "TRB",
+    "price": "8.14983792"
+  },
+  {
+    "currency": "TRBO",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "TRC",
+    "price": "0.04404613"
+  },
+  {
+    "currency": "TRCL",
+    "price": "0.02599653"
+  },
+  {
+    "currency": "TREASUREFINANCIALCOIN",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "TREX",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "TRIAS",
+    "price": "0.00070619"
+  },
+  {
+    "currency": "TRIO",
+    "price": "0.00084920"
+  },
+  {
+    "currency": "TRK",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "TRM",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "TROLL",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "TRON",
+    "price": "0.30085925"
+  },
+  {
+    "currency": "TROYTRADE",
+    "price": "0.00360587"
+  },
+  {
+    "currency": "TRP",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "TRST",
+    "price": "0.00626568"
+  },
+  {
+    "currency": "TRTL",
+    "price": "0.00001196"
+  },
+  {
+    "currency": "TRTT",
+    "price": "0.00244094"
+  },
+  {
+    "currency": "TRUE",
+    "price": "0.25550579"
+  },
+  {
+    "currency": "TRUMP",
+    "price": "0.01601385"
+  },
+  {
+    "currency": "TRUSTNOTE",
+    "price": "0.00003002"
+  },
+  {
+    "currency": "TRX",
+    "price": "0.01747800"
+  },
+  {
+    "currency": "TRXBEAR",
+    "price": "4.27700000"
+  },
+  {
+    "currency": "TRXBULL",
+    "price": "2.33700000"
+  },
+  {
+    "currency": "TRXC",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "TRYB",
+    "price": "0.14405000"
+  },
+  {
+    "currency": "TSHP",
+    "price": "0.00933829"
+  },
+  {
+    "currency": "TSLACX",
+    "price": "1219.57000000"
+  },
+  {
+    "currency": "TT",
+    "price": "0.00536981"
+  },
+  {
+    "currency": "TTC",
+    "price": "0.02513108"
+  },
+  {
+    "currency": "TTN",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "TTWOCX",
+    "price": "144.20000000"
+  },
+  {
+    "currency": "TUBE",
+    "price": "0.01386904"
+  },
+  {
+    "currency": "TUN",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "TUSC",
+    "price": "0.00003550"
+  },
+  {
+    "currency": "TUSD",
+    "price": "1.00236852"
+  },
+  {
+    "currency": "TUX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "TV",
+    "price": "0.29171606"
+  },
+  {
+    "currency": "TWINS",
+    "price": "0.00009838"
+  },
+  {
+    "currency": "TWTRCX",
+    "price": "31.22000000"
+  },
+  {
+    "currency": "TYC",
+    "price": "0.05639955"
+  },
+  {
+    "currency": "TYT",
+    "price": "0.00017319"
+  },
+  {
+    "currency": "TZC",
+    "price": "0.00154524"
+  },
+  {
+    "currency": "UAT",
+    "price": "0.06684734"
+  },
+  {
+    "currency": "UBC",
+    "price": "0.00034637"
+  },
+  {
+    "currency": "UBERCX",
+    "price": "31.03000000"
+  },
+  {
+    "currency": "UBEX",
+    "price": "0.00027523"
+  },
+  {
+    "currency": "UBN",
+    "price": "0.00201089"
+  },
+  {
+    "currency": "UBQ",
+    "price": "0.09883790"
+  },
+  {
+    "currency": "UBT",
+    "price": "0.29430727"
+  },
+  {
+    "currency": "UBU",
+    "price": "0.02433865"
+  },
+  {
+    "currency": "UC",
+    "price": "0.00016342"
+  },
+  {
+    "currency": "UCA",
+    "price": "0.00205247"
+  },
+  {
+    "currency": "UCX",
+    "price": "0.14978796"
+  },
+  {
+    "currency": "UDOO",
+    "price": "0.00621633"
+  },
+  {
+    "currency": "UGAS",
+    "price": "0.01538768"
+  },
+  {
+    "currency": "UGD",
+    "price": "0.01155866"
+  },
+  {
+    "currency": "UIP",
+    "price": "0.00394686"
+  },
+  {
+    "currency": "UIS",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "UKC",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "UKG",
+    "price": "0.01348594"
+  },
+  {
+    "currency": "ULLU",
+    "price": "0.01177645"
+  },
+  {
+    "currency": "UMA",
+    "price": "2.14901555"
+  },
+  {
+    "currency": "UMC2",
+    "price": "0.08644849"
+  },
+  {
+    "currency": "UMO",
+    "price": "0.00046229"
+  },
+  {
+    "currency": "UNC",
+    "price": "0.00025632"
+  },
+  {
+    "currency": "UNI",
+    "price": "0.00032825"
+  },
+  {
+    "currency": "UNIFY",
+    "price": "0.00453046"
+  },
+  {
+    "currency": "UNITS",
+    "price": "0.00026324"
+  },
+  {
+    "currency": "UNIUSD",
+    "price": "0.00028865"
+  },
+  {
+    "currency": "UNO",
+    "price": "62.58256750"
+  },
+  {
+    "currency": "UOS",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "UP",
+    "price": "0.00138687"
+  },
+  {
+    "currency": "UPP",
+    "price": "0.02181122"
+  },
+  {
+    "currency": "UPX",
+    "price": "0.00009461"
+  },
+  {
+    "currency": "URAC",
+    "price": "0.00039256"
+  },
+  {
+    "currency": "URX",
+    "price": "0.10993290"
+  },
+  {
+    "currency": "US100CX",
+    "price": "10380.80000000"
+  },
+  {
+    "currency": "US30CX",
+    "price": "26111.00000000"
+  },
+  {
+    "currency": "US500CX",
+    "price": "3152.50000000"
+  },
+  {
+    "currency": "USAT",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "USC",
+    "price": "0.01793691"
+  },
+  {
+    "currency": "USDC",
+    "price": "1.00068797"
+  },
+  {
+    "currency": "USDEX",
+    "price": "1.00457737"
+  },
+  {
+    "currency": "USDK",
+    "price": "1.00243134"
+  },
+  {
+    "currency": "USDS",
+    "price": "0.97509426"
+  },
+  {
+    "currency": "USDT",
+    "price": "1.00159910"
+  },
+  {
+    "currency": "UT",
+    "price": "0.01353644"
+  },
+  {
+    "currency": "UTIP",
+    "price": "0.00110976"
+  },
+  {
+    "currency": "UTK",
+    "price": "0.03745402"
+  },
+  {
+    "currency": "UTNP",
+    "price": "0.00198785"
+  },
+  {
+    "currency": "UTT",
+    "price": "0.14745193"
+  },
+  {
+    "currency": "UUU",
+    "price": "0.00074380"
+  },
+  {
+    "currency": "UVU",
+    "price": "0.00001757"
+  },
+  {
+    "currency": "VAIP",
+    "price": "0.16790424"
+  },
+  {
+    "currency": "VAL",
+    "price": "0.00000029"
+  },
+  {
+    "currency": "VALOR",
+    "price": "0.46417624"
+  },
+  {
+    "currency": "VARIUS",
+    "price": "0.00000185"
+  },
+  {
+    "currency": "VAULT",
+    "price": "1.84916566"
+  },
+  {
+    "currency": "VBK",
+    "price": "0.00573241"
+  },
+  {
+    "currency": "VCX",
+    "price": "194.51000000"
+  },
+  {
+    "currency": "VDG",
+    "price": "0.00045260"
+  },
+  {
+    "currency": "VDL",
+    "price": "0.01118995"
+  },
+  {
+    "currency": "VDX",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "VECO",
+    "price": "0.00044072"
+  },
+  {
+    "currency": "VECT",
+    "price": "0.00359730"
+  },
+  {
+    "currency": "VEE",
+    "price": "0.00216218"
+  },
+  {
+    "currency": "VEEN",
+    "price": "0.00194162"
+  },
+  {
+    "currency": "VEGI",
+    "price": "0.00083212"
+  },
+  {
+    "currency": "VEIL",
+    "price": "0.01534903"
+  },
+  {
+    "currency": "VEO",
+    "price": "19.04640630"
+  },
+  {
+    "currency": "VERI",
+    "price": "4.83253000"
+  },
+  {
+    "currency": "VERS",
+    "price": "15.14401955"
+  },
+  {
+    "currency": "VEST",
+    "price": "0.03920231"
+  },
+  {
+    "currency": "VET",
+    "price": "0.00942534"
+  },
+  {
+    "currency": "VEX",
+    "price": "0.00281392"
+  },
+  {
+    "currency": "VEY",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "VGR",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "VGTG",
+    "price": "5.10602299"
+  },
+  {
+    "currency": "VGTN",
+    "price": "0.00003233"
+  },
+  {
+    "currency": "VIA",
+    "price": "0.19290437"
+  },
+  {
+    "currency": "VIB",
+    "price": "0.01511138"
+  },
+  {
+    "currency": "VIBE",
+    "price": "0.01460858"
+  },
+  {
+    "currency": "VIDT",
+    "price": "0.22147553"
+  },
+  {
+    "currency": "VIDY",
+    "price": "0.00117930"
+  },
+  {
+    "currency": "VINCI",
+    "price": "1.18876819"
+  },
+  {
+    "currency": "VINDAXCOIN",
+    "price": "0.03198719"
+  },
+  {
+    "currency": "VIP",
+    "price": "0.00785895"
+  },
+  {
+    "currency": "VITAE",
+    "price": "1.36714462"
+  },
+  {
+    "currency": "VITE",
+    "price": "0.01528246"
+  },
+  {
+    "currency": "VITES",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "VJC",
+    "price": "2.89718030"
+  },
+  {
+    "currency": "VKT",
+    "price": "0.00131853"
+  },
+  {
+    "currency": "VLD",
+    "price": "0.00501000"
+  },
+  {
+    "currency": "VLS",
+    "price": "0.07054516"
+  },
+  {
+    "currency": "VLU",
+    "price": "0.00027334"
+  },
+  {
+    "currency": "VLX",
+    "price": "0.08219132"
+  },
+  {
+    "currency": "VME",
+    "price": "0.00018439"
+  },
+  {
+    "currency": "VNDC",
+    "price": "0.00008272"
+  },
+  {
+    "currency": "VNETCX",
+    "price": "25.13000000"
+  },
+  {
+    "currency": "VNTCHAIN",
+    "price": "0.00063425"
+  },
+  {
+    "currency": "VOLLAR",
+    "price": "0.62144765"
+  },
+  {
+    "currency": "VONNI",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "VOT",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "VOTECOIN",
+    "price": "0.00208979"
+  },
+  {
+    "currency": "VRA",
+    "price": "0.00083144"
+  },
+  {
+    "currency": "VRC",
+    "price": "0.05038976"
+  },
+  {
+    "currency": "VREX",
+    "price": "0.00006657"
+  },
+  {
+    "currency": "VRS",
+    "price": "0.12953545"
+  },
+  {
+    "currency": "VRSC",
+    "price": "0.10734407"
+  },
+  {
+    "currency": "VRTN",
+    "price": "0.46156344"
+  },
+  {
+    "currency": "VSC",
+    "price": "0.00133573"
+  },
+  {
+    "currency": "VSF",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "VSL",
+    "price": "0.01377628"
+  },
+  {
+    "currency": "VSX",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "VSYS",
+    "price": "0.02504561"
+  },
+  {
+    "currency": "VTAR",
+    "price": "0.00002774"
+  },
+  {
+    "currency": "VTC",
+    "price": "0.26390795"
+  },
+  {
+    "currency": "VTHO",
+    "price": "0.00050977"
+  },
+  {
+    "currency": "VTX3",
+    "price": "0.00730420"
+  },
+  {
+    "currency": "VULC",
+    "price": "0.00023255"
+  },
+  {
+    "currency": "VULCOIN",
+    "price": "0.00036983"
+  },
+  {
+    "currency": "VXV",
+    "price": "0.11973348"
+  },
+  {
+    "currency": "WABI",
+    "price": "0.10733969"
+  },
+  {
+    "currency": "WADS",
+    "price": "12.25995170"
+  },
+  {
+    "currency": "WAGE",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "WAN",
+    "price": "0.20650026"
+  },
+  {
+    "currency": "WATTCX",
+    "price": "3.00000000"
+  },
+  {
+    "currency": "WAVES",
+    "price": "1.18049539"
+  },
+  {
+    "currency": "WAXP",
+    "price": "0.05363644"
+  },
+  {
+    "currency": "WBBC",
+    "price": "0.00415056"
+  },
+  {
+    "currency": "WBL",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "WBT",
+    "price": "0.00033252"
+  },
+  {
+    "currency": "WBTC",
+    "price": "9303.29235610"
+  },
+  {
+    "currency": "WBX",
+    "price": "0.00379079"
+  },
+  {
+    "currency": "WC",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "WCDC",
+    "price": "0.00028865"
+  },
+  {
+    "currency": "WCO",
+    "price": "0.00078590"
+  },
+  {
+    "currency": "WCT",
+    "price": "0.05006339"
+  },
+  {
+    "currency": "WCX",
+    "price": "222.18000000"
+  },
+  {
+    "currency": "WEB",
+    "price": "0.00158409"
+  },
+  {
+    "currency": "WEBCHAIN",
+    "price": "0.00120196"
+  },
+  {
+    "currency": "WEBN",
+    "price": "0.00000229"
+  },
+  {
+    "currency": "WEC",
+    "price": "0.00149651"
+  },
+  {
+    "currency": "WEST",
+    "price": "0.10135118"
+  },
+  {
+    "currency": "WETH",
+    "price": "229.76775981"
+  },
+  {
+    "currency": "WFCCX",
+    "price": "25.10000000"
+  },
+  {
+    "currency": "WFX",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "WGC",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "WGP",
+    "price": "0.02749811"
+  },
+  {
+    "currency": "WGR",
+    "price": "0.02680568"
+  },
+  {
+    "currency": "WHALE",
+    "price": "0.00001745"
+  },
+  {
+    "currency": "WHEN",
+    "price": "0.00527012"
+  },
+  {
+    "currency": "WICC",
+    "price": "0.20534519"
+  },
+  {
+    "currency": "WIKEN",
+    "price": "0.00142354"
+  },
+  {
+    "currency": "WILD",
+    "price": "0.00023125"
+  },
+  {
+    "currency": "WINCASH",
+    "price": "1.00788774"
+  },
+  {
+    "currency": "WINGS",
+    "price": "0.06269596"
+  },
+  {
+    "currency": "WINK",
+    "price": "0.00007580"
+  },
+  {
+    "currency": "WIRE",
+    "price": "0.00018492"
+  },
+  {
+    "currency": "WISH",
+    "price": "0.01460841"
+  },
+  {
+    "currency": "WIX",
+    "price": "0.00353669"
+  },
+  {
+    "currency": "WLLCX",
+    "price": "1.20000000"
+  },
+  {
+    "currency": "WLLO",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "WLO",
+    "price": "0.00263418"
+  },
+  {
+    "currency": "WMP",
+    "price": "0.07313450"
+  },
+  {
+    "currency": "WMPRO",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "WMTCX",
+    "price": "119.75000000"
+  },
+  {
+    "currency": "WNL",
+    "price": "0.02486449"
+  },
+  {
+    "currency": "WOM",
+    "price": "0.18357346"
+  },
+  {
+    "currency": "WORKCX",
+    "price": "30.76000000"
+  },
+  {
+    "currency": "WORX",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "WOW",
+    "price": "0.00027738"
+  },
+  {
+    "currency": "WOWNERO",
+    "price": "0.02949419"
+  },
+  {
+    "currency": "WPR",
+    "price": "0.00774658"
+  },
+  {
+    "currency": "WR",
+    "price": "0.00000693"
+  },
+  {
+    "currency": "WRX",
+    "price": "0.13588882"
+  },
+  {
+    "currency": "WSC",
+    "price": "0.00085712"
+  },
+  {
+    "currency": "WSX",
+    "price": "0.05565989"
+  },
+  {
+    "currency": "WTC",
+    "price": "0.34061213"
+  },
+  {
+    "currency": "WTIP",
+    "price": "0.00009246"
+  },
+  {
+    "currency": "WTM",
+    "price": "0.02635061"
+  },
+  {
+    "currency": "WTP",
+    "price": "0.14894834"
+  },
+  {
+    "currency": "WXC",
+    "price": "0.00121165"
+  },
+  {
+    "currency": "WXT",
+    "price": "0.00969884"
+  },
+  {
+    "currency": "WXTC",
+    "price": "0.00000092"
+  },
+  {
+    "currency": "WYX",
+    "price": "0.00000139"
+  },
+  {
+    "currency": "X42",
+    "price": "0.01331399"
+  },
+  {
+    "currency": "X8X",
+    "price": "0.02076677"
+  },
+  {
+    "currency": "XAC",
+    "price": "1.29441596"
+  },
+  {
+    "currency": "XANK",
+    "price": "0.11583602"
+  },
+  {
+    "currency": "XAO",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "XAUR",
+    "price": "0.03926807"
+  },
+  {
+    "currency": "XAUT",
+    "price": "1770.57100777"
+  },
+  {
+    "currency": "XAX",
+    "price": "0.00047154"
+  },
+  {
+    "currency": "XBA",
+    "price": "0.00004334"
+  },
+  {
+    "currency": "XBASE",
+    "price": "0.00164943"
+  },
+  {
+    "currency": "XBG",
+    "price": "0.00369833"
+  },
+  {
+    "currency": "XBTX",
+    "price": "0.02034082"
+  },
+  {
+    "currency": "XBY",
+    "price": "0.01295273"
+  },
+  {
+    "currency": "XCASH",
+    "price": "0.00002298"
+  },
+  {
+    "currency": "XCE",
+    "price": "0.00462397"
+  },
+  {
+    "currency": "XCF",
+    "price": "0.23876294"
+  },
+  {
+    "currency": "XCP",
+    "price": "0.95044295"
+  },
+  {
+    "currency": "XCT",
+    "price": "0.00013850"
+  },
+  {
+    "currency": "XCX",
+    "price": "6.84000000"
+  },
+  {
+    "currency": "XCZM",
+    "price": "0.01127991"
+  },
+  {
+    "currency": "XDB",
+    "price": "0.01462934"
+  },
+  {
+    "currency": "XDCE",
+    "price": "0.00334365"
+  },
+  {
+    "currency": "XDN",
+    "price": "0.00045550"
+  },
+  {
+    "currency": "XDNA",
+    "price": "0.01091008"
+  },
+  {
+    "currency": "XECCX",
+    "price": "27.50000000"
+  },
+  {
+    "currency": "XEL",
+    "price": "0.00221900"
+  },
+  {
+    "currency": "XEM",
+    "price": "0.04719056"
+  },
+  {
+    "currency": "XEMX",
+    "price": "0.18426533"
+  },
+  {
+    "currency": "XENO",
+    "price": "0.00092458"
+  },
+  {
+    "currency": "XES",
+    "price": "0.00277099"
+  },
+  {
+    "currency": "XFC",
+    "price": "0.00264403"
+  },
+  {
+    "currency": "XFOC",
+    "price": "226.76232481"
+  },
+  {
+    "currency": "XGCS",
+    "price": "0.00795141"
+  },
+  {
+    "currency": "XGOX",
+    "price": "0.00001417"
+  },
+  {
+    "currency": "XGS",
+    "price": "0.00403997"
+  },
+  {
+    "currency": "XHD",
+    "price": "0.00000162"
+  },
+  {
+    "currency": "XHV",
+    "price": "2.57348392"
+  },
+  {
+    "currency": "XIN",
+    "price": "0.00129442"
+  },
+  {
+    "currency": "XIND",
+    "price": "0.00000925"
+  },
+  {
+    "currency": "XIO",
+    "price": "0.06294547"
+  },
+  {
+    "currency": "XIRO",
+    "price": "0.00184917"
+  },
+  {
+    "currency": "XLAB",
+    "price": "0.00003117"
+  },
+  {
+    "currency": "XLM",
+    "price": "0.06968833"
+  },
+  {
+    "currency": "XLPG",
+    "price": "0.27616894"
+  },
+  {
+    "currency": "XLQ",
+    "price": "0.07396663"
+  },
+  {
+    "currency": "XLR",
+    "price": "0.19767581"
+  },
+  {
+    "currency": "XLVCX",
+    "price": "100.42000000"
+  },
+  {
+    "currency": "XMC",
+    "price": "1.28369080"
+  },
+  {
+    "currency": "XMD",
+    "price": "0.02491355"
+  },
+  {
+    "currency": "XMOO",
+    "price": "0.00184271"
+  },
+  {
+    "currency": "XMR",
+    "price": "64.57904441"
+  },
+  {
+    "currency": "XMV",
+    "price": "0.00203408"
+  },
+  {
+    "currency": "XMX",
+    "price": "0.00074320"
+  },
+  {
+    "currency": "XMY",
+    "price": "0.00113352"
+  },
+  {
+    "currency": "XNB",
+    "price": "0.00293585"
+  },
+  {
+    "currency": "XNK",
+    "price": "0.00046992"
+  },
+  {
+    "currency": "XNS",
+    "price": "0.83653311"
+  },
+  {
+    "currency": "XNS2",
+    "price": "0.00896845"
+  },
+  {
+    "currency": "XNV",
+    "price": "0.01525562"
+  },
+  {
+    "currency": "XOV",
+    "price": "0.00006004"
+  },
+  {
+    "currency": "XPC",
+    "price": "0.00000277"
+  },
+  {
+    "currency": "XPH",
+    "price": "0.00041304"
+  },
+  {
+    "currency": "XPM",
+    "price": "0.02934698"
+  },
+  {
+    "currency": "XPN",
+    "price": "0.00332862"
+  },
+  {
+    "currency": "XPR",
+    "price": "0.01610019"
+  },
+  {
+    "currency": "XPS",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "XPX",
+    "price": "0.00080220"
+  },
+  {
+    "currency": "XQC",
+    "price": "0.04169071"
+  },
+  {
+    "currency": "XQR",
+    "price": "0.00649544"
+  },
+  {
+    "currency": "XRA",
+    "price": "0.00600000"
+  },
+  {
+    "currency": "XRC",
+    "price": "4.23585715"
+  },
+  {
+    "currency": "XRD",
+    "price": "0.00065732"
+  },
+  {
+    "currency": "XRM",
+    "price": "0.00014779"
+  },
+  {
+    "currency": "XRP",
+    "price": "0.17647615"
+  },
+  {
+    "currency": "XRPBEAR",
+    "price": "268.00000000"
+  },
+  {
+    "currency": "XRPBULL",
+    "price": "7.20000000"
+  },
+  {
+    "currency": "XRPC",
+    "price": "0.00000231"
+  },
+  {
+    "currency": "XRT",
+    "price": "2.77099463"
+  },
+  {
+    "currency": "XSCOIN",
+    "price": "0.01642969"
+  },
+  {
+    "currency": "XSG",
+    "price": "0.02764503"
+  },
+  {
+    "currency": "XSPC",
+    "price": "0.00009232"
+  },
+  {
+    "currency": "XSPEC",
+    "price": "0.08631362"
+  },
+  {
+    "currency": "XST",
+    "price": "0.04327407"
+  },
+  {
+    "currency": "XTA",
+    "price": "0.00731310"
+  },
+  {
+    "currency": "XTNC",
+    "price": "0.00027737"
+  },
+  {
+    "currency": "XTRD",
+    "price": "0.00063502"
+  },
+  {
+    "currency": "XTRM",
+    "price": "0.34156646"
+  },
+  {
+    "currency": "XTZ",
+    "price": "2.37907294"
+  },
+  {
+    "currency": "XTZBEAR",
+    "price": "5.10400000"
+  },
+  {
+    "currency": "XTZBULL",
+    "price": "730.00000000"
+  },
+  {
+    "currency": "XTZHEDGE",
+    "price": "1287.70000000"
+  },
+  {
+    "currency": "XUC",
+    "price": "0.88252579"
+  },
+  {
+    "currency": "XUEZ",
+    "price": "0.01386874"
+  },
+  {
+    "currency": "XVG",
+    "price": "0.00745804"
+  },
+  {
+    "currency": "XVP",
+    "price": "0.00471537"
+  },
+  {
+    "currency": "XWP",
+    "price": "0.03993853"
+  },
+  {
+    "currency": "XXA",
+    "price": "0.19536435"
+  },
+  {
+    "currency": "XYO",
+    "price": "0.00041773"
+  },
+  {
+    "currency": "XZC",
+    "price": "4.39448963"
+  },
+  {
+    "currency": "YAP",
+    "price": "0.01336813"
+  },
+  {
+    "currency": "YCC",
+    "price": "0.00596760"
+  },
+  {
+    "currency": "YCE",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "YEC",
+    "price": "0.09709334"
+  },
+  {
+    "currency": "YEE",
+    "price": "0.00203509"
+  },
+  {
+    "currency": "YEED",
+    "price": "0.00015988"
+  },
+  {
+    "currency": "YLC",
+    "price": "0.00052418"
+  },
+  {
+    "currency": "YLD",
+    "price": "0.00628033"
+  },
+  {
+    "currency": "YNDXCX",
+    "price": "49.56000000"
+  },
+  {
+    "currency": "YNN",
+    "price": "0.00001385"
+  },
+  {
+    "currency": "YO",
+    "price": "818.59519855"
+  },
+  {
+    "currency": "YOC",
+    "price": "0.00027653"
+  },
+  {
+    "currency": "YOLOCX",
+    "price": "10.38000000"
+  },
+  {
+    "currency": "YOU",
+    "price": "0.01119761"
+  },
+  {
+    "currency": "YOUC",
+    "price": "0.10037928"
+  },
+  {
+    "currency": "YOYOW",
+    "price": "0.00924639"
+  },
+  {
+    "currency": "YTN",
+    "price": "0.00070960"
+  },
+  {
+    "currency": "YUN",
+    "price": "0.00124926"
+  },
+  {
+    "currency": "ZAG",
+    "price": "2.86620677"
+  },
+  {
+    "currency": "ZAIF",
+    "price": "0.00103286"
+  },
+  {
+    "currency": "ZANO",
+    "price": "0.53654794"
+  },
+  {
+    "currency": "ZAP",
+    "price": "0.00281384"
+  },
+  {
+    "currency": "ZASH",
+    "price": "0.00431688"
+  },
+  {
+    "currency": "ZAT",
+    "price": "0.00061948"
+  },
+  {
+    "currency": "ZAY",
+    "price": "0.00005619"
+  },
+  {
+    "currency": "ZB",
+    "price": "0.22323840"
+  },
+  {
+    "currency": "ZBA",
+    "price": "0.00003698"
+  },
+  {
+    "currency": "ZBUX",
+    "price": "0.01101178"
+  },
+  {
+    "currency": "ZCC",
+    "price": "0.00124819"
+  },
+  {
+    "currency": "ZCN",
+    "price": "0.09759368"
+  },
+  {
+    "currency": "ZCR",
+    "price": "0.01970530"
+  },
+  {
+    "currency": "ZDX",
+    "price": "0.00000014"
+  },
+  {
+    "currency": "ZEC",
+    "price": "52.40572998"
+  },
+  {
+    "currency": "ZEL",
+    "price": "0.04132638"
+  },
+  {
+    "currency": "ZEN",
+    "price": "6.68577909"
+  },
+  {
+    "currency": "ZEONN",
+    "price": "0.00063003"
+  },
+  {
+    "currency": "ZER",
+    "price": "0.09352011"
+  },
+  {
+    "currency": "ZET",
+    "price": "0.00045309"
+  },
+  {
+    "currency": "ZEUS",
+    "price": "0.00000046"
+  },
+  {
+    "currency": "ZFL",
+    "price": "0.00150096"
+  },
+  {
+    "currency": "ZGC",
+    "price": "0.00003464"
+  },
+  {
+    "currency": "ZIK",
+    "price": "0.00016643"
+  },
+  {
+    "currency": "ZIL",
+    "price": "0.01760036"
+  },
+  {
+    "currency": "ZJLT",
+    "price": "0.00065496"
+  },
+  {
+    "currency": "ZLA",
+    "price": "0.00434554"
+  },
+  {
+    "currency": "ZLN",
+    "price": "0.00055475"
+  },
+  {
+    "currency": "ZLW",
+    "price": "4.54482023"
+  },
+  {
+    "currency": "ZMN",
+    "price": "0.00064721"
+  },
+  {
+    "currency": "ZND",
+    "price": "0.00008321"
+  },
+  {
+    "currency": "ZNN",
+    "price": "2.45095318"
+  },
+  {
+    "currency": "ZNZ",
+    "price": "0.02443753"
+  },
+  {
+    "currency": "ZOC",
+    "price": "0.00175683"
+  },
+  {
+    "currency": "ZP",
+    "price": "0.01041663"
+  },
+  {
+    "currency": "ZPAE",
+    "price": "0.00884039"
+  },
+  {
+    "currency": "ZPAY",
+    "price": "0.00012403"
+  },
+  {
+    "currency": "ZPR",
+    "price": "0.00034122"
+  },
+  {
+    "currency": "ZRC",
+    "price": "0.68169492"
+  },
+  {
+    "currency": "ZRX",
+    "price": "0.35094252"
+  },
+  {
+    "currency": "ZSC",
+    "price": "0.00021012"
+  },
+  {
+    "currency": "ZTC",
+    "price": "0.00000120"
+  },
+  {
+    "currency": "ZTTL",
+    "price": "0.00286621"
+  },
+  {
+    "currency": "ZUM",
+    "price": "0.00130053"
+  },
+  {
+    "currency": "ZXC",
+    "price": "0.00099756"
+  },
+  {
+    "currency": "ZYN",
+    "price": "3.52361756"
+  }
+]
