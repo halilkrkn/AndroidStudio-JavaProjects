@@ -15,14 +15,17 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.MediaStore;
+import android.renderscript.Script;
 import android.view.View;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -30,6 +33,9 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.firestore.DocumentReference;
+import com.google.firebase.firestore.FieldValue;
+import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
@@ -37,6 +43,7 @@ import com.google.firebase.storage.UploadTask;
 import java.io.File;
 import java.io.IOException;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.UUID;
 
 public class UploadActivity extends AppCompatActivity {
@@ -52,6 +59,9 @@ public class UploadActivity extends AppCompatActivity {
     private FirebaseDatabase database;
     private DatabaseReference myRef;
 
+    //Firebase FireStore Coloud Veri Tabanına Başlanmak için.
+    private FirebaseFirestore firebaseFirestore;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -60,6 +70,7 @@ public class UploadActivity extends AppCompatActivity {
         postCommentText = findViewById(R.id.postCommentView);
         postImage = findViewById(R.id.postImageView);
 
+        firebaseFirestore = FirebaseFirestore.getInstance();
         mAuth = FirebaseAuth.getInstance();
         myRef = FirebaseDatabase.getInstance().getReference();
         firebaseStorageRef = FirebaseStorage.getInstance().getReference();
@@ -85,7 +96,27 @@ public class UploadActivity extends AppCompatActivity {
                           String userEmail = user.getEmail();
                           String userComment = postCommentText.getText().toString();
                           Date date = new Date();
-                          String getDate = date.toString();
+                          final String getDate = date.toString();
+
+                          HashMap<String,Object> postData = new HashMap<>();
+                          postData.put("userEmail", userEmail);
+                          postData.put("comment", userComment);
+                          postData.put("downloadURL", downloadUrl);
+                          postData.put("date", FieldValue.serverTimestamp());
+
+                          firebaseFirestore.collection("Posts").add(postData).addOnSuccessListener( new OnSuccessListener<DocumentReference>() {
+                              @Override
+                              public void onSuccess(DocumentReference documentReference) {
+                                    Toast.makeText(UploadActivity.this, "Upload Shared", Toast.LENGTH_SHORT).show();
+                                    Intent intent = new Intent(getApplicationContext(),FeedActivity.class);
+                                    startActivity(intent);
+                              }
+                          }).addOnFailureListener(new OnFailureListener() {
+                              @Override
+                              public void onFailure(@NonNull Exception e) {
+                                  Toast.makeText(UploadActivity.this, e.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+                              }
+                          });
 
                             //FIREBASE REALTIME DATABASE
                           //myRef.child("Posts").child(postsId).child("downloadUrl:").setValue(downloadUrl);
@@ -93,10 +124,10 @@ public class UploadActivity extends AppCompatActivity {
                          // myRef.child("Posts").child(postsId).child("userComment:").setValue(userComment);
                          // myRef.child("Posts").child(postsId).child("Date:").setValue(getDate);
 
-                          Toast.makeText(UploadActivity.this, "Upload Shared", Toast.LENGTH_SHORT).show();
+                          //Toast.makeText(UploadActivity.this, "Upload Shared", Toast.LENGTH_SHORT).show();
 
-                          Intent intent = new Intent(getApplicationContext(),MainActivity.class);
-                          startActivity(intent);
+                          //Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                          //startActivity(intent);
                       }
                   });
 
