@@ -13,6 +13,7 @@ import android.widget.ListView;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -42,13 +43,14 @@ public class FeedActivity extends AppCompatActivity {
     ArrayList<String> userImageFromFB;
     ArrayList<String> userCommentFromFB;
     FirebaseFirestore firebaseFirestore;
-
+    FirebaseAuth firebaseAuth;
     //Menunun bu activity e  bağlandığı yer
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 
         MenuInflater menuInflater = getMenuInflater();
         menuInflater.inflate(R.menu.add_post,menu);
+
 
         return super.onCreateOptionsMenu(menu);
     }
@@ -60,6 +62,10 @@ public class FeedActivity extends AppCompatActivity {
         //Menudeki add_post seçimi için yaptık. diğerleri içinde bu şekilde yapılabilir.
        if (item.getItemId() == R.id.add_post){
            Intent intent = new Intent(getApplicationContext(),UploadActivity.class);
+           startActivity(intent);
+       }else if (item.getItemId() == R.id.sign_out){
+           firebaseAuth.signOut();
+           Intent intent = new Intent(getApplicationContext(),MainActivity.class);
            startActivity(intent);
        }
         return super.onOptionsItemSelected(item);
@@ -82,8 +88,11 @@ public class FeedActivity extends AppCompatActivity {
 
         adapter = new PostClass(userEmailFromFB,userCommentFromFB,userImageFromFB,this);
         listView.setAdapter(adapter);
+
+        //REALTIME DATABASE FONKSİYONU
       //  getDataFromFirebase();
 
+        //FIRESTORE DATABASE FONKSİYONU
        getDataFromFireStore();
     }
 
