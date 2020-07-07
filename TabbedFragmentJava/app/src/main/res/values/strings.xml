@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabbedFragmentJava</string>
+    <string name="tab_text_1">Fragment 1</string>
+    <string name="tab_text_2">Fragment 2</string>
+    <string name="tab_text_3">Fragment 3</string>
+
+</resources>
