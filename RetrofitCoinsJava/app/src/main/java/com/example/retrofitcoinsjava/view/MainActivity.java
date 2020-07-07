@@ -5,6 +5,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.widget.LinearLayout;
 
 import com.example.retrofitcoinsjava.R;
 import com.example.retrofitcoinsjava.adapter.recyclerViewAdapter;
@@ -18,10 +19,15 @@ import java.util.List;
 
 import javax.xml.transform.Source;
 
+import io.reactivex.Scheduler;
+import io.reactivex.android.schedulers.AndroidSchedulers;
+import io.reactivex.disposables.CompositeDisposable;
+import io.reactivex.schedulers.Schedulers;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
+import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
@@ -31,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
     Retrofit retrofit;
     RecyclerView recyclerView;
     recyclerViewAdapter recyclerViewAdapter;
+    //Hafızayı daha verimli kullanabilmek için RxJava ve Disposable kullanıyoruz.
+    CompositeDisposable compositeDisposable;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         Gson gson = new GsonBuilder().setLenient().create();
         retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
+                .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .addConverterFactory(GsonConverterFactory.create(gson))
                 .build();
 
@@ -54,6 +63,15 @@ public class MainActivity extends AppCompatActivity {
     private  void  loadDataApi(){
 
         ICryptoApi cryptoApi = retrofit.create(ICryptoApi.class);
+
+        compositeDisposable = new CompositeDisposable();
+        compositeDisposable.add(cryptoApi.getData()
+        .subscribeOn(Schedulers.io())
+        .observeOn(AndroidSchedulers.mainThread())
+        .subscribe(this::handleResponse));
+
+
+        /*
         Call<List<CryptoModel>> listCall = cryptoApi.getData();
 
         listCall.enqueue(new Callback<List<CryptoModel>>() {
@@ -67,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
                     //RecyclerView
                     recyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this));
                     recyclerViewAdapter = new recyclerViewAdapter(cryptoModels);
-                    recyclerView.setAdapter(recyclerViewAdapter"");
+                    recyclerView.setAdapter(recyclerViewAdapter);
 
                 }
 
@@ -78,6 +96,25 @@ public class MainActivity extends AppCompatActivity {
                 t.printStackTrace();
             }
         });
+
+         */
+    }
+
+    private void handleResponse(List<CryptoModel> cryptoModelList) {
+        cryptoModels = new ArrayList<>(cryptoModelList);
+
+
+        //RecyclerView
+        recyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this));
+        recyclerViewAdapter = new recyclerViewAdapter(cryptoModels);
+        recyclerView.setAdapter(recyclerViewAdapter);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        compositeDisposable.clear();
     }
 
 }
