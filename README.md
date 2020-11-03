@@ -3,6 +3,7 @@
 Easy to Hard Projects
 
 Açıklama için;
+
 https://github.com/halilkrkn/AndroidStudio-KotlinProjects/blob/master/README.md
 
 Sertifika için;
